@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2004-11-06
+Version Consolidée au 2004-12-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -6977,13 +6977,13 @@ _Modifié par_:
 ###### Article R*121-7
 
 La liste des ports d'intérêt national et des ports maritimes contigus aux ports militaires tels qu'ils sont délimités dans
-les conditions prévues à l'article R. 151-1 du code des ports maritimes et qui relèvent de la compétence de l'Etat est la
+les conditions prévues à l'article R. *151-1 du code des ports maritimes et qui relèvent de la compétence de l'Etat est la
 suivante :
 
 a) Métropole :
 
 Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
-Rochelle (La Pallice et Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice.
+Rochelle (port de pêche de Chef de Baie), Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice.
 
 b) Outre-mer :
 
@@ -6994,19 +6994,19 @@ Port-Réunion (Réunion).
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°2003-1022 du 22 octobre 2003 - art. 2 (V) JORF 26 octobre 2003
+  - Décret n°2004-1378 du 20 décembre 2004 - art. 4 () JORF 21 décembre 2004
 
-**Liens**:
+_Abrogé par_:
 
-  - TXT_ASSOCIE: Code général des collectivités territoriales - art. L4424-22 (T)
+  - Décret n°2011-501 du 6 mai 2011 - art. 3
 
 _Cite_:
 
-  - Code des ports maritimes R151-1
+  - Code des ports maritimes
 
 
 #### Chapitre II : Aménagement.<a id=81></a>
