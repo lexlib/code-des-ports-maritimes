@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1985-06-23
+Version Consolidée au 1985-09-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -9342,6 +9342,29 @@ _Cité par_:
 _Anciens textes_:
 
   - Code des ports maritimes 70
+
+
+###### Article R*331-2
+
+Les infractions aux dispositions de l'article R. 331-1 sont punies des peines prévues pour la contravention de la 4e classe.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Anciens textes_:
+
+  - Code des ports maritimes 71
+
+_Cite_:
+
+  - Code des ports maritimes R331-1
+
+_Modifié par_:
+
+  - Décret n°83-170 1983-09-11 art. 2 JORF 12 septembre 1985
 
 
 ###### Article R*331-3
