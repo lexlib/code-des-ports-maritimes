@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1999-09-19
+Version Consolidée au 2000-07-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -4344,10 +4344,14 @@ administration d'origine les fonctionnaires placés dans la position de service 
 dans les limites arrêtées par le conseil d'administration, sous réserve de l'observation des règles de tutelle.
 
 Il représente le port en justice et dans tous les actes de la vie civile. Il a la faculté de conclure des transactions, dans
-les conditions prévues par les articles 2044 et suivants du code civil, sous réserve de l'accord préalable du conseil
-d'administration, du ministre chargé des ports maritimes et du ministre chargé du budget.
+les conditions prévues par les articles 2044 et suivants du code civil, après accord du conseil d'administration, du
+commissaire du Gouvernement et du contrôleur d'Etat.
 
 Il procède aux achats et passe les marchés ou traités.
+
+Il a la faculté de conclure des transactions, dans les conditions prévues par les articles 2044 et suivants du code civil,
+sous réserve de l'accord préalable du conseil d'administration, du ministre chargé des ports maritimes et du ministre chargé
+du budget.
 
 Il assure la gestion financière du port autonome ; il est ordonnateur principal du port. Des ordonnateurs secondaires peuvent
 être institués, sur sa proposition, par décision conjointe du ministre chargé des ports maritimes et du ministre de
@@ -4365,7 +4369,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 6 () JORF 11 septembre 1999
+  - Décret n°2000-682 du 19 juillet 2000 - art. 2 () JORF 21 juillet 2000
 
 _Cite_:
 
@@ -5442,9 +5446,9 @@ La concession ou l'affermage d'outillages donne lieu à une convention avec cahi
 et le pétitionnaire, après accord du conseil d'administration.
 
 Le cahier des charges est conforme à un cahier des charges type approuvé par décret en Conseil d'Etat pris sur la proposition
-conjointe des ministres chargés des ports maritimes, du budget et du domaine. Toutefois, le cahier des charges peut déroger
-au cahier des charges type, à la condition que ces dérogations aient été préalablement approuvées par le ministre chargé des
-ports maritimes et le ministre chargé du domaine ainsi que, le cas échéant, le ministre de qui relève la collectivité
+conjointe des ministres chargés des ports maritimes, du budget et du domaine. Toutefois, le cahier des charges peut comporter
+des dérogations au cahier des charges type, à la condition qu'elles aient été préalablement approuvées par les ministres
+chargés des ports maritimes, du budget et du domaine ainsi que, le cas échéant, le ministre dont relève la collectivité
 publique ou l'établissement public intéressé ; l'absence de réponse des ministres dans le délai de deux mois suivant la
 réception la plus tardive de la demande vaut approbation.
 
@@ -5467,11 +5471,19 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
+  - Décret n°2000-682 du 19 juillet 2000 - art. 3 () JORF 21 juillet 2000
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-83 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R115-4
+  - Code des ports maritimes
 
 
 ###### Article R*115-10
