@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1986-03-15
+Version Consolidée au 1986-10-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -5513,8 +5513,8 @@ suivante :
 
 a) Métropole :
 
-Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Concarneau, Lorient, La Rochelle, à
-l'exception du port de plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
+Calais, Boulogne-sur-Mer, Dieppe, Caen-Ouistreham, Cherbourg, Saint-Malo, Brest, Le Fret, Roscanvel, Concarneau, Lorient, La
+Rochelle, à l'exception du port de plaisance des Minimes, Bayonne, Port-la-Nouvelle, Sète, Toulon, Nice, Ajaccio, Bastia.
 
 b) Départements d'outre-mer :
 
@@ -5527,13 +5527,9 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Créé par_:
-
-  - Décret n°83-1149 1983-12-23 art. 1 JORF 27 décembre 1983
-
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+  - Décret n°86-1132 1986-10-15 art. 1 JORF 22 octobre 1986
 
 _Cite_:
 
