@@ -10,7 +10,8 @@ La date et l'heure de l'arrivée ;
 
 Le tirant d'eau maximum du bâtiment à son arrivée au port ;
 
-La nature et le tonnage des différentes matières et cargaisons dangereuses transportées (en transit ou à débarquer) ;
+La nature et le tonnage des différentes matières et cargaisons dangereuses transportées (en transit ou à débarquer) ainsi que
+la nature et le tonnage des déchets d'exploitation et résidus de cargaison du navire ;
 
 Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
 
@@ -29,4 +30,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 21 () JORF 11 septembre 1999
+  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
