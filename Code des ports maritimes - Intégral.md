@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1991-09-29
+Version Consolidée au 1992-01-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -12481,7 +12481,7 @@ _Abrogé par_:
 Le président du Conseil national des communautés portuaires est nommé, pour une période de trois ans renouvelable, par
 décret, sur proposition conjointe du ministre chargé des ports maritimes et du ministre chargé des transports.
 
-Il préside aux délibérations du conseil et arrête l'ordre du jour de ses séances.
+Il préside aux délibérations du conseil et arrête l'ordre du jour de ses séances après consultation du bureau.
 
 **Liens relatifs à cet article**
 
@@ -12489,9 +12489,13 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+  - Décret n°92-40 1992-01-13 art. 1 JORF 15 janvier 1992
+
+_Abrogé par_:
+
+  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
 
 
 ###### Article R*711-4
@@ -12566,7 +12570,7 @@ _Abrogé par_:
 
 ###### Article R*711-6
 
-Le conseil comprend trois vice-présidents élus dans les conditions de l'article R. 711-9.
+Le conseil comprend sept vice-présidents élus dans les conditions de l'article R. 711-9.
 
 Le président et les vice-présidents constituent le bureau du conseil.
 
@@ -12576,9 +12580,13 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°87-761 du 16 septembre 1987 - art. 1 () JORF 17 septembre 1987
+  - Décret n°92-401 1992-01-13 art. 2 JORF 15 janvier 1992
+
+_Abrogé par_:
+
+  - Décret n°2002-647 du 29 avril 2002 - art. 11 (V) JORF 30 avril 2002
 
 _Cite_:
 
