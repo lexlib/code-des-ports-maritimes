@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1984-07-01
+Version Consolidée au 1984-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -5585,6 +5585,10 @@ _Abrogé par_:
 Le dossier soumis à l'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977
 lorsque le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
 
+Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
+1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
+intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
 L'instruction comporte exclusivement les formalités ci-après qui sont effectuées simultanément :
 
 1° consultation de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté conjoint du ministre
@@ -5598,20 +5602,19 @@ chenaux d'accès dans les autres cas, la consultation est faite auprès de la co
 
 4° consultation de la chambre de commerce et d'industrie ;
 
-5° consultation des collectivités et des services locaux intéressés.
+5° consultation des collectivités et des services locaux intéressés ;
 
 6° enquête publique s'il y a lieu.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-346 1971-05-06 art. 4
-
 _Cite_:
 
   - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
   - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
+  - Loi n°82-1153 1982-12-30 art. 14
+  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
+  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 
 _Codifié par_:
 
@@ -5619,10 +5622,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
-  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
-  - Décret n°83-1244 du 30 décembre 1983 - art. 5 () JORF 3 janvier 1984
+  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
 
 
 ###### Article R*122-5
