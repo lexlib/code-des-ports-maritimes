@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1980-03-11
+Version Consolidée au 1980-07-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -28,100 +28,102 @@ Version Consolidée au 1980-03-11
     - [Livre III : Police des ports maritimes. (art. L311-1 à L332-4)](#25)
       - [Titre Ier : Officiers, officiers adjoints et surveillants de port. (art. L311-1 à L311-4)](#26)
       - [Titre II : Polices de la conservation et de l'exploitation (art. L321-1 à L323-4)](#27)
-        - [Chapitre Ier : Répression des infractions. (art. L321-1 à L321-4)](#28)
+        - [Chapitre Ier : Répression des infractions. (art. L321-1 à L321-5)](#28)
         - [Chapitre II : Conservation du port proprement dit. (art. L322-1 à L322-2)](#29)
         - [Chapitre III : Exploitation du port. (art. L323-1 à L323-4)](#30)
       - [Titre III : Polices du balisage et des matières dangereuses ou infectes (art. L331-1 à L332-4)](#31)
         - [Chapitre Ier : Balisage. (art. L331-1 à L331-6)](#32)
         - [Chapitre II : Matières dangereuses ou infectes. (art. L332-1 à L332-4)](#33)
-    - [Livre IV : Voies ferrées des quais (art. L411-1 à L441-1)](#34)
-      - [Titre Ier : Dispositions générales. (art. L411-1)](#35)
-      - [Titre IV : Perception des taxes et des frais accessoires. (art. L441-1)](#36)
-    - [Livre V : Régime du travail dans les ports maritimes. (art. L511-1 à L541-1)](#37)
-      - [Titre Ier : Organisation de la main d'oeuvre dans les entreprises de manutention (dockers). (art. L511-1 à L511-5)](#38)
-      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. L521-1 à L521-8)](#39)
-      - [Titre II : Indemnité de garantie, Caisse nationale de garantie des ouvriers dockers. (art. L521-9)](#40)
-      - [Titre III : Sanctions et dispositions diverses. (art. L531-1 à L531-3)](#41)
-      - [Titre IV : Dispositions particulières aux ports des départements d'outre-mer. (art. L541-1)](#42)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R531-1)](#43)
-    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R*111-1)](#44)
-      - [Titre Ier : Ports autonomes. (art. R*111-1)](#45)
-        - [Chapitre Ier : Institution, attributions et régime financier. (art. R*111-1)](#46)
-          - [Section 1 : Institution et attributions. (art. R*111-1)](#47)
-    - [Livre Ier : Création organisation et aménagement des ports maritimes (art. R*113-22 à R*141-7)](#48)
-      - [Titre Ier : Ports autonomes (art. R*113-22 à R*113-23)](#49)
-        - [Chapitre III : Fonctionnement du port autonome (art. R*113-22 à R*113-23)](#50)
-          - [Section 4 : Régime domanial. (art. R*113-22 à R*113-23)](#51)
-      - [Titre IV : Commissions permanente d'enquête (art. R*141-5 à R*141-7)](#52)
-        - [Chapitre Ier : Composition. (art. R*141-5 à R*141-7)](#53)
-    - [Livre II : Droits de port et de navigation. (art. R*211-1 à R*231-6)](#54)
-      - [Titre Ier : Droits de port. (art. R*211-1 à R*215-1)](#55)
-        - [Chapitre Ier : Dispositions communes. (art. R*211-1 à R*211-7)](#56)
-          - [Section 1 : Taxes et redevances comprises dans le droit de port. (art. R*211-1)](#57)
-          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-7)](#58)
-        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-21)](#59)
-          - [Section 1 : Taxes sur le navire et sur son stationnement. (art. R*212-2 à R*212-11)](#60)
-          - [Section 2 : Taxe sur les marchandises. (art. R*212-13 à R*212-16)](#61)
-          - [Section 3 : Taxe sur les passagers. (art. R*212-17 à R*212-21)](#62)
-        - [Chapitre III : Dispositions propres aux navires de pêche. (art. R*213-1 à R*213-5)](#63)
-        - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-5)](#64)
-        - [Chapitre V : Dispositions diverses. (art. R*215-1)](#65)
-      - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-6)](#66)
-    - [Livre III : Police des ports maritimes. (art. R*311-1 à R*341-2)](#67)
-      - [Titre Ier : Officiers, officiers adjoints et surveillants de port. (art. R*311-1 à R*311-21)](#68)
-      - [Titre II : Polices de la conservation et de l'exploitation. (art. R*323-1 à R*323-8)](#69)
-        - [Chapitre III : Exploitation du port. (art. R*323-1 à R*323-8)](#70)
-      - [Titre III : Polices du balisage et des matières dangereuses ou infectes. (art. R*331-1 à R*332-1)](#71)
-        - [Chapitre Ier : Balisage. (art. R*331-1 à R*331-3)](#72)
-        - [Chapitre II : Matières dangereuses ou infectes. (art. R*332-1)](#73)
-      - [Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses. (art. R*341-1 à R*341-2)](#74)
-    - [Livre IV : Voies ferrées des quais (art. R*411-4 à R**461-3)](#75)
-      - [Titre Ier : Dispositions générales. (art. R*411-4 à R411-3)](#76)
-      - [Titre II : Etablissement, entretien et exploitation de la voie ferrée. (art. R**421-4 à R*421-3)](#77)
-      - [Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains. (art. R**431-1 à R**431-6)](#78)
-      - [Titre IV : Perception des taxes et des frais accessoires. (art. R**441-1 à R**441-3)](#79)
-      - [Titre V : Police et surveillance. (art. R**451-1 à R**451-11)](#80)
-      - [Titre VI : Dispositions diverses. (art. R**461-1 à R**461-3)](#81)
-    - [Livre V : Régime du travail dans les ports maritimes. (art. R*511-1 à R531-1)](#82)
-      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R*511-1 à R511-4)](#83)
-      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R*521-3 à R521-7)](#84)
-      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#85)
-  - [Annexes (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#86)
-    - [Règlement général de police des ports maritimes de commerce et de pêche (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#87)
-      - [Définitions. (art. Annexe à l'article R*351-1, art. 1)](#88)
-      - [Désignation des postes à quai. (art. Annexe à l'article R*351-1, art. 2)](#89)
-      - [Admission des bâtiments dans le port. (art. Annexe à l'article R*351-1, art. 3)](#90)
-      - [Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès. (art. Annexe à l'article R*351-1, art. 4)](#91)
-      - [Déclaration d'entrée et de sortie. (art. Annexe à l'article R*351-1, art. 5)](#92)
-      - [Bâtiments de pêche, de plaisance, bateaux. (art. Annexe à l'article R*351-1, art. 6)](#93)
-      - [Bâtiments militaires français et étrangers. (art. Annexe à l'article R*351-1, art. 7)](#94)
-      - [Mouillage et relevage des ancres. (art. Annexe à l'article R*351-1, art. 8)](#95)
-      - [Mouvement des bâtiments. (art. Annexe à l'article R*351-1, art. 9)](#96)
-      - [Amarrage. (art. Annexe à l'article R*351-1, art. 10)](#97)
-      - [Déplacements sur ordre. (art. Annexe à l'article R*351-1, art. 11)](#98)
-      - [Personnel à maintenir à bord. (art. Annexe à l'article R*351-1, art. 12)](#99)
-      - [Manoeuvres de chasse, vidange, pompage. (art. Annexe à l'article R*351-1, art. 13)](#100)
-      - [Affectations des quais (art. Annexe à l'article R*351-1, art. 14)](#101)
-        - [Durée des opérations commerciales. (art. Annexe à l'article R*351-1, art. 14)](#102)
-      - [Durée d'occupation des postes, quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 15)](#103)
-      - [Conservation du plan d'eau et des profondeurs des bassins. (art. Annexe à l'article R*351-1, art. 16)](#104)
-      - [Propreté des eaux du port. (art. Annexe à l'article R*351-1, art. 17)](#105)
-      - [Ramonage et incinération des déchets. (art. Annexe à l'article R*351-1, art. 18)](#106)
-      - [Marchandises infectes. (art. Annexe à l'article R*351-1, art. 19)](#107)
-      - [Nettoyage des quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 20)](#108)
-      - [Restrictions concernant l'usage du feu. (art. Annexe à l'article R*351-1, art. 21)](#109)
-      - [Interdiction de fumer. (art. Annexe à l'article R*351-1, art. 22)](#110)
-      - [Consignes de lutte contre les sinistres. (art. Annexe à l'article R*351-1, art. 23)](#111)
-      - [Réparations et essais des machines. (art. Annexe à l'article R*351-1, art. 24)](#112)
-      - [Mise à l'eau des bâtiments. (art. Annexe à l'article R*351-1, art. 25)](#113)
-      - [Epaves et bâtiments vétustes ou désarmés. (art. Annexe à l'article R*351-1, art. 26)](#114)
-      - [Conservation du domaine public. (art. Annexe à l'article R*351-1, art. 27)](#115)
-      - [Accès des personnes sur le port. (art. Annexe à l'article R*351-1, art. 28)](#116)
-      - [Circulation et stationnement des véhicules. (art. Annexe à l'article R*351-1, art. 29)](#117)
-      - [Dépôt des marchandises. (art. Annexe à l'article R*351-1, art. 30)](#118)
-      - [Rangement des appareils de manutention. (art. Annexe à l'article R*351-1, art. 31)](#119)
-      - [Exécution des travaux et d'ouvrages. (art. Annexe à l'article R*351-1, art. 32)](#120)
-      - [Manoeuvres des amarres. (art. Annexe à l'article R*351-1, art. 33)](#121)
+    - [Livre IV : Voies ferrées des quais (art. L411-1 à L451-1)](#34)
+      - [Titre Ier : Dispositions générales. (art. L411-1 à L411-2)](#35)
+      - [Titre II : Etablissement, entretien et exploitation de la voie ferrée. (art. L421-1)](#36)
+      - [Titre IV : Perception des taxes et des frais accessoires. (art. L441-1)](#37)
+      - [Titre V : Police et surveillance. (art. L451-1)](#38)
+    - [Livre V : Régime du travail dans les ports maritimes. (art. L511-1 à L541-1)](#39)
+      - [Titre Ier : Organisation de la main d'oeuvre dans les entreprises de manutention (dockers). (art. L511-1 à L511-5)](#40)
+      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. L521-1 à L521-8)](#41)
+      - [Titre II : Indemnité de garantie, Caisse nationale de garantie des ouvriers dockers. (art. L521-9)](#42)
+      - [Titre III : Sanctions et dispositions diverses. (art. L531-1 à L531-3)](#43)
+      - [Titre IV : Dispositions particulières aux ports des départements d'outre-mer. (art. L541-1)](#44)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*111-1 à R531-1)](#45)
+    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R*111-1)](#46)
+      - [Titre Ier : Ports autonomes. (art. R*111-1)](#47)
+        - [Chapitre Ier : Institution, attributions et régime financier. (art. R*111-1)](#48)
+          - [Section 1 : Institution et attributions. (art. R*111-1)](#49)
+    - [Livre Ier : Création organisation et aménagement des ports maritimes (art. R*113-22 à R*141-7)](#50)
+      - [Titre Ier : Ports autonomes (art. R*113-22 à R*113-23)](#51)
+        - [Chapitre III : Fonctionnement du port autonome (art. R*113-22 à R*113-23)](#52)
+          - [Section 4 : Régime domanial. (art. R*113-22 à R*113-23)](#53)
+      - [Titre IV : Commissions permanente d'enquête (art. R*141-5 à R*141-7)](#54)
+        - [Chapitre Ier : Composition. (art. R*141-5 à R*141-7)](#55)
+    - [Livre II : Droits de port et de navigation. (art. R*211-1 à R*231-6)](#56)
+      - [Titre Ier : Droits de port. (art. R*211-1 à R*215-1)](#57)
+        - [Chapitre Ier : Dispositions communes. (art. R*211-1 à R*211-7)](#58)
+          - [Section 1 : Taxes et redevances comprises dans le droit de port. (art. R*211-1)](#59)
+          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-7)](#60)
+        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-21)](#61)
+          - [Section 1 : Taxes sur le navire et sur son stationnement. (art. R*212-2 à R*212-11)](#62)
+          - [Section 2 : Taxe sur les marchandises. (art. R*212-13 à R*212-16)](#63)
+          - [Section 3 : Taxe sur les passagers. (art. R*212-17 à R*212-21)](#64)
+        - [Chapitre III : Dispositions propres aux navires de pêche. (art. R*213-1 à R*213-5)](#65)
+        - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-5)](#66)
+        - [Chapitre V : Dispositions diverses. (art. R*215-1)](#67)
+      - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-6)](#68)
+    - [Livre III : Police des ports maritimes. (art. R*311-1 à R*341-2)](#69)
+      - [Titre Ier : Officiers, officiers adjoints et surveillants de port. (art. R*311-1 à R*311-21)](#70)
+      - [Titre II : Polices de la conservation et de l'exploitation. (art. R*323-1 à R*323-8)](#71)
+        - [Chapitre III : Exploitation du port. (art. R*323-1 à R*323-8)](#72)
+      - [Titre III : Polices du balisage et des matières dangereuses ou infectes. (art. R*331-1 à R*332-1)](#73)
+        - [Chapitre Ier : Balisage. (art. R*331-1 à R*331-3)](#74)
+        - [Chapitre II : Matières dangereuses ou infectes. (art. R*332-1)](#75)
+      - [Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses. (art. R*341-1 à R*341-2)](#76)
+    - [Livre IV : Voies ferrées des quais (art. R*411-4 à R**461-3)](#77)
+      - [Titre Ier : Dispositions générales. (art. R*411-4 à R411-3)](#78)
+      - [Titre II : Etablissement, entretien et exploitation de la voie ferrée. (art. R**421-4 à R*421-3)](#79)
+      - [Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains. (art. R**431-1 à R**431-6)](#80)
+      - [Titre IV : Perception des taxes et des frais accessoires. (art. R**441-1 à R**441-3)](#81)
+      - [Titre V : Police et surveillance. (art. R**451-1 à R**451-11)](#82)
+      - [Titre VI : Dispositions diverses. (art. R**461-1 à R**461-3)](#83)
+    - [Livre V : Régime du travail dans les ports maritimes. (art. R*511-1 à R531-1)](#84)
+      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R*511-1 à R511-4)](#85)
+      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R*521-3 à R521-7)](#86)
+      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#87)
+  - [Annexes (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#88)
+    - [Règlement général de police des ports maritimes de commerce et de pêche (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#89)
+      - [Définitions. (art. Annexe à l'article R*351-1, art. 1)](#90)
+      - [Désignation des postes à quai. (art. Annexe à l'article R*351-1, art. 2)](#91)
+      - [Admission des bâtiments dans le port. (art. Annexe à l'article R*351-1, art. 3)](#92)
+      - [Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès. (art. Annexe à l'article R*351-1, art. 4)](#93)
+      - [Déclaration d'entrée et de sortie. (art. Annexe à l'article R*351-1, art. 5)](#94)
+      - [Bâtiments de pêche, de plaisance, bateaux. (art. Annexe à l'article R*351-1, art. 6)](#95)
+      - [Bâtiments militaires français et étrangers. (art. Annexe à l'article R*351-1, art. 7)](#96)
+      - [Mouillage et relevage des ancres. (art. Annexe à l'article R*351-1, art. 8)](#97)
+      - [Mouvement des bâtiments. (art. Annexe à l'article R*351-1, art. 9)](#98)
+      - [Amarrage. (art. Annexe à l'article R*351-1, art. 10)](#99)
+      - [Déplacements sur ordre. (art. Annexe à l'article R*351-1, art. 11)](#100)
+      - [Personnel à maintenir à bord. (art. Annexe à l'article R*351-1, art. 12)](#101)
+      - [Manoeuvres de chasse, vidange, pompage. (art. Annexe à l'article R*351-1, art. 13)](#102)
+      - [Affectations des quais (art. Annexe à l'article R*351-1, art. 14)](#103)
+        - [Durée des opérations commerciales. (art. Annexe à l'article R*351-1, art. 14)](#104)
+      - [Durée d'occupation des postes, quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 15)](#105)
+      - [Conservation du plan d'eau et des profondeurs des bassins. (art. Annexe à l'article R*351-1, art. 16)](#106)
+      - [Propreté des eaux du port. (art. Annexe à l'article R*351-1, art. 17)](#107)
+      - [Ramonage et incinération des déchets. (art. Annexe à l'article R*351-1, art. 18)](#108)
+      - [Marchandises infectes. (art. Annexe à l'article R*351-1, art. 19)](#109)
+      - [Nettoyage des quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 20)](#110)
+      - [Restrictions concernant l'usage du feu. (art. Annexe à l'article R*351-1, art. 21)](#111)
+      - [Interdiction de fumer. (art. Annexe à l'article R*351-1, art. 22)](#112)
+      - [Consignes de lutte contre les sinistres. (art. Annexe à l'article R*351-1, art. 23)](#113)
+      - [Réparations et essais des machines. (art. Annexe à l'article R*351-1, art. 24)](#114)
+      - [Mise à l'eau des bâtiments. (art. Annexe à l'article R*351-1, art. 25)](#115)
+      - [Epaves et bâtiments vétustes ou désarmés. (art. Annexe à l'article R*351-1, art. 26)](#116)
+      - [Conservation du domaine public. (art. Annexe à l'article R*351-1, art. 27)](#117)
+      - [Accès des personnes sur le port. (art. Annexe à l'article R*351-1, art. 28)](#118)
+      - [Circulation et stationnement des véhicules. (art. Annexe à l'article R*351-1, art. 29)](#119)
+      - [Dépôt des marchandises. (art. Annexe à l'article R*351-1, art. 30)](#120)
+      - [Rangement des appareils de manutention. (art. Annexe à l'article R*351-1, art. 31)](#121)
+      - [Exécution des travaux et d'ouvrages. (art. Annexe à l'article R*351-1, art. 32)](#122)
+      - [Manoeuvres des amarres. (art. Annexe à l'article R*351-1, art. 33)](#123)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes.<a id=2></a>
@@ -1192,6 +1194,49 @@ _Codifié par_:
   - Décret n°78-487 1978-03-22
 
 
+###### Article L321-5
+
+Si une infraction aux dispositions relatives à la police du port ou aux décrets et aux arrêtés préfectoraux pris pour leur
+application est constatée par un agent verbalisateur spécialement pourvu à cet effet d'un carnet de quittances à souches, le
+contrevenant aura la faculté d'effectuer immédiatement entre les mains de cet agent le paiement de l'amende. Ce versement
+aura pour effet d'arrêter toute poursuite, sauf si l'infraction constatée a exposé son auteur soit à une sanction autre que
+pécuniaire, soit à la réparation de dommages causés aux personnes ou aux biens, soit aux peines qui s'attachent à la
+récidive.
+
+Si un contrevenant se trouve hors d'état de justifier d'un domicile sur le territoire français, il peut être astreint à
+fournir caution ou à verser une somme déterminée en garantie du recouvrement éventuel des amendes pécuniaires qu'il a
+encourues. Au cas d'impossibilité ou de refus par lui de fournir cette garantie, l'objet ayant servi à commettre l'infraction
+pourra être séquestré.
+
+Un décret en Conseil d'Etat fixe les conditions d'application des dispositions précédentes, et notamment les catégories
+d'agents limitativement habilités à recevoir les versements prévus aux alinéas ci-dessus et les modalités de ces perceptions,
+les règles concernant les cautions et séquestres.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+_Cité par_:
+
+  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (M)
+  - Arrêté du 6 juin 2006 - art. 132-2 (M)
+  - Arrêté du 6 juin 2006 - art. 263-8 (M)
+  - Arrêté du 4 juin 2008 - art. 1 (M)
+  - Arrêté du 4 juin 2008 - art. 11 (M)
+  - Arrêté du 4 juin 2008 - art. 17 (M)
+  - Code des ports maritimes - art. L321-3 (VT)
+  - Code des ports maritimes - art. L321-7 (VT)
+  - Code des ports maritimes - art. R321-31 (Ab)
+  - Code des ports maritimes - art. R321-32 (Ab)
+  - Code des ports maritimes - art. R321-43 (Ab)
+
+
 #### Chapitre II : Conservation du port proprement dit.<a id=29></a>
 
 ###### Article L322-1
@@ -1586,7 +1631,69 @@ _Cité par_:
   - Code des ports maritimes - art. L411-2 (VT)
 
 
-### Titre IV : Perception des taxes et des frais accessoires.<a id=36></a>
+###### Article L411-2
+
+Conformément à l'article 47 de la loi du 31 juillet 1913 modifiée, des décrets en Conseil d'Etat déterminent :
+
+1° Les conditions dans lesquelles sont fixées et payées les subventions dues par l'Etat, les départements ou les communes,
+ainsi que celles dans lesquelles la part des bénéfices revenant à l'Etat, aux départements et aux communes est fixée et
+recouvrée ;
+
+2° Les conditions spéciales auxquelles doivent satisfaire, tant pour la construction que pour l'exploitation, les voies
+ferrées établies sur les voies publiques ;
+
+3° Les rapports entre le service de ces voies et les autres services intéressés ;
+
+4° Les dispositions spéciales à prévoir en cas d'exploitation directe par les départements ou les communes ;
+
+5° D'une manière générale, toutes les dispositions nécessaires à l'application de ladite loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Cité par_:
+
+  - Code des ports maritimes - art. L451-1 (Ab)
+  - Code des ports maritimes - art. R411-2 (Ab)
+
+_Cite_:
+
+  - Loi n°1913-07-31 art. 47
+
+_Modifié par_:
+
+  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+
+### Titre II : Etablissement, entretien et exploitation de la voie ferrée.<a id=36></a>
+
+###### Article L421-1
+
+Lorsque les voies ferrées établies sur les quais d'un port maritime ne constituent pas une dépendance des lignes aboutissant
+à ce port, elles sont établies ou concédées par l'Etat.
+
+Dans ce cas, leur établissement est déclaré d'utilité publique par décret en Conseil d'Etat, après enquête, dans les formes
+déterminées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Loi n°80-514 1980-07-07 art. 1 JORF 9 juillet 1980
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+
+### Titre IV : Perception des taxes et des frais accessoires.<a id=37></a>
 
 ###### Article L441-1
 
@@ -1606,9 +1713,33 @@ _Abrogé par_:
   - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
 
 
-## Livre V : Régime du travail dans les ports maritimes.<a id=37></a>
+### Titre V : Police et surveillance.<a id=38></a>
 
-### Titre Ier : Organisation de la main d'oeuvre dans les entreprises de manutention (dockers).<a id=38></a>
+###### Article L451-1
+
+Conformément à l'article 46 de la loi du 31 juillet 1913 modifiée, quel que soit leur caractère, les voies ferrées établies
+sur les quais d'un port maritime sont soumises, au point de vue de la police, aux dispositions spéciales édictées par les
+décrets en Conseil d'Etat prévus au 2° et au 3° de l'article L. 411-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Cite_:
+
+  - Code des ports maritimes - art. L411-2 (M)
+  - Loi n°1913-07-31 art. 46
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 3 () JORF 3 août 2005
+
+
+## Livre V : Régime du travail dans les ports maritimes.<a id=39></a>
+
+### Titre Ier : Organisation de la main d'oeuvre dans les entreprises de manutention (dockers).<a id=40></a>
 
 ###### Article L511-1
 
@@ -1746,7 +1877,7 @@ _Codifié par_:
   - Décret n°78-487 1978-03-22
 
 
-### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=39></a>
+### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=41></a>
 
 ###### Article L521-1
 
@@ -1978,7 +2109,7 @@ _Cité par_:
   - Code des ports maritimes - art. R521-8 (Ab)
 
 
-### Titre II : Indemnité de garantie, Caisse nationale de garantie des ouvriers dockers.<a id=40></a>
+### Titre II : Indemnité de garantie, Caisse nationale de garantie des ouvriers dockers.<a id=42></a>
 
 ###### Article L521-9
 
@@ -1997,7 +2128,7 @@ _Abrogé par_:
   - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
 
 
-### Titre III : Sanctions et dispositions diverses.<a id=41></a>
+### Titre III : Sanctions et dispositions diverses.<a id=43></a>
 
 ###### Article L531-1
 
@@ -2074,7 +2205,7 @@ _Cite_:
   - Code des ports maritimes - art. L521-6 (M)
 
 
-### Titre IV : Dispositions particulières aux ports des départements d'outre-mer.<a id=42></a>
+### Titre IV : Dispositions particulières aux ports des départements d'outre-mer.<a id=44></a>
 
 ###### Article L541-1
 
@@ -2095,15 +2226,15 @@ _Nouveaux textes_:
   - Code des transports - art. L5713-3 (V)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=43></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=45></a>
 
-## Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat.<a id=44></a>
+## Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat.<a id=46></a>
 
-### Titre Ier : Ports autonomes.<a id=45></a>
+### Titre Ier : Ports autonomes.<a id=47></a>
 
-#### Chapitre Ier : Institution, attributions et régime financier.<a id=46></a>
+#### Chapitre Ier : Institution, attributions et régime financier.<a id=48></a>
 
-##### Section 1 : Institution et attributions.<a id=47></a>
+##### Section 1 : Institution et attributions.<a id=49></a>
 
 ###### Article R*111-1
 
@@ -2139,13 +2270,13 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-## Livre Ier : Création organisation et aménagement des ports maritimes<a id=48></a>
+## Livre Ier : Création organisation et aménagement des ports maritimes<a id=50></a>
 
-### Titre Ier : Ports autonomes<a id=49></a>
+### Titre Ier : Ports autonomes<a id=51></a>
 
-#### Chapitre III : Fonctionnement du port autonome<a id=50></a>
+#### Chapitre III : Fonctionnement du port autonome<a id=52></a>
 
-##### Section 4 : Régime domanial.<a id=51></a>
+##### Section 4 : Régime domanial.<a id=53></a>
 
 ###### Article R*113-22
 
@@ -2195,9 +2326,9 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-### Titre IV : Commissions permanente d'enquête<a id=52></a>
+### Titre IV : Commissions permanente d'enquête<a id=54></a>
 
-#### Chapitre Ier : Composition.<a id=53></a>
+#### Chapitre Ier : Composition.<a id=55></a>
 
 ###### Article R*141-5
 
@@ -2256,13 +2387,13 @@ _Abrogé par_:
   - Décret n°83-1244 du 30 décembre 1983 - art. 8
 
 
-## Livre II : Droits de port et de navigation.<a id=54></a>
+## Livre II : Droits de port et de navigation.<a id=56></a>
 
-### Titre Ier : Droits de port.<a id=55></a>
+### Titre Ier : Droits de port.<a id=57></a>
 
-#### Chapitre Ier : Dispositions communes.<a id=56></a>
+#### Chapitre Ier : Dispositions communes.<a id=58></a>
 
-##### Section 1 : Taxes et redevances comprises dans le droit de port.<a id=57></a>
+##### Section 1 : Taxes et redevances comprises dans le droit de port.<a id=59></a>
 
 ###### Article R*211-1
 
@@ -2299,7 +2430,7 @@ _Cité par_:
   - Code des ports maritimes - art. R211-2-1 (Ab)
 
 
-##### Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat.<a id=58></a>
+##### Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat.<a id=60></a>
 
 ###### Article R*211-7
 
@@ -2322,7 +2453,7 @@ _Modifié par_:
   - Décret n°83-1147 1983-12-23 art. 1 JORF 27 décembre 1983
 
 
-#### Chapitre II : Dispositions propres aux navires de commerce.<a id=59></a>
+#### Chapitre II : Dispositions propres aux navires de commerce.<a id=61></a>
 
 ###### Article R*212-1
 
@@ -2343,7 +2474,7 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-##### Section 1 : Taxes sur le navire et sur son stationnement.<a id=60></a>
+##### Section 1 : Taxes sur le navire et sur son stationnement.<a id=62></a>
 
 ###### Article R*212-2
 
@@ -2599,7 +2730,7 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-##### Section 2 : Taxe sur les marchandises.<a id=61></a>
+##### Section 2 : Taxe sur les marchandises.<a id=63></a>
 
 ###### Article R*212-13
 
@@ -2705,7 +2836,7 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-##### Section 3 : Taxe sur les passagers.<a id=62></a>
+##### Section 3 : Taxe sur les passagers.<a id=64></a>
 
 ###### Article R*212-17
 
@@ -2782,7 +2913,7 @@ _Cite_:
   - Code des ports maritimes R212-9
 
 
-#### Chapitre III : Dispositions propres aux navires de pêche.<a id=63></a>
+#### Chapitre III : Dispositions propres aux navires de pêche.<a id=65></a>
 
 ###### Article R*213-1
 
@@ -2927,7 +3058,7 @@ _Cite_:
   - Code des ports maritimes R211-1, R212-3
 
 
-#### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.<a id=64></a>
+#### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.<a id=66></a>
 
 ###### Article R*214-1
 
@@ -3056,7 +3187,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre V : Dispositions diverses.<a id=65></a>
+#### Chapitre V : Dispositions diverses.<a id=67></a>
 
 ###### Article R*215-1
 
@@ -3078,7 +3209,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre III : Dispositions particulières aux ports des départements d'outre-mer.<a id=66></a>
+### Titre III : Dispositions particulières aux ports des départements d'outre-mer.<a id=68></a>
 
 ###### Article R*231-1
 
@@ -3253,9 +3384,9 @@ _Cite_:
   - Code des ports maritimes R211-12
 
 
-## Livre III : Police des ports maritimes.<a id=67></a>
+## Livre III : Police des ports maritimes.<a id=69></a>
 
-### Titre Ier : Officiers, officiers adjoints et surveillants de port.<a id=68></a>
+### Titre Ier : Officiers, officiers adjoints et surveillants de port.<a id=70></a>
 
 ###### Article R*311-1
 
@@ -3730,9 +3861,9 @@ _Anciens textes_:
   - Décret n°1928-04-28 art. 22
 
 
-### Titre II : Polices de la conservation et de l'exploitation.<a id=69></a>
+### Titre II : Polices de la conservation et de l'exploitation.<a id=71></a>
 
-#### Chapitre III : Exploitation du port.<a id=70></a>
+#### Chapitre III : Exploitation du port.<a id=72></a>
 
 ###### Article R*323-1
 
@@ -3901,9 +4032,9 @@ _Anciens textes_:
   - Code des ports maritimes 79
 
 
-### Titre III : Polices du balisage et des matières dangereuses ou infectes.<a id=71></a>
+### Titre III : Polices du balisage et des matières dangereuses ou infectes.<a id=73></a>
 
-#### Chapitre Ier : Balisage.<a id=72></a>
+#### Chapitre Ier : Balisage.<a id=74></a>
 
 ###### Article R*331-1
 
@@ -3955,7 +4086,7 @@ _Anciens textes_:
   - Code des ports maritimes 74
 
 
-#### Chapitre II : Matières dangereuses ou infectes.<a id=73></a>
+#### Chapitre II : Matières dangereuses ou infectes.<a id=75></a>
 
 ###### Article R*332-1
 
@@ -3985,7 +4116,7 @@ _Anciens textes_:
   - Code des ports maritimes 80
 
 
-### Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses.<a id=74></a>
+### Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses.<a id=76></a>
 
 ###### Article R*341-1
 
@@ -4023,9 +4154,9 @@ _Abrogé par_:
   - Décret n°2009-876 du 17 juillet 2009 - art. 5
 
 
-## Livre IV : Voies ferrées des quais<a id=75></a>
+## Livre IV : Voies ferrées des quais<a id=77></a>
 
-### Titre Ier : Dispositions générales.<a id=76></a>
+### Titre Ier : Dispositions générales.<a id=78></a>
 
 ###### Article R*411-4
 
@@ -4142,7 +4273,7 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-### Titre II : Etablissement, entretien et exploitation de la voie ferrée.<a id=77></a>
+### Titre II : Etablissement, entretien et exploitation de la voie ferrée.<a id=79></a>
 
 ###### Article R**421-4
 
@@ -4374,7 +4505,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains.<a id=78></a>
+### Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains.<a id=80></a>
 
 ###### Article R**431-1
 
@@ -4516,7 +4647,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre IV : Perception des taxes et des frais accessoires.<a id=79></a>
+### Titre IV : Perception des taxes et des frais accessoires.<a id=81></a>
 
 ###### Article R**441-1
 
@@ -4605,7 +4736,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre V : Police et surveillance.<a id=80></a>
+### Titre V : Police et surveillance.<a id=82></a>
 
 ###### Article R**451-1
 
@@ -4924,7 +5055,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre VI : Dispositions diverses.<a id=81></a>
+### Titre VI : Dispositions diverses.<a id=83></a>
 
 ###### Article R**461-1
 
@@ -5001,9 +5132,9 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-## Livre V : Régime du travail dans les ports maritimes.<a id=82></a>
+## Livre V : Régime du travail dans les ports maritimes.<a id=84></a>
 
-### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=83></a>
+### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=85></a>
 
 ###### Article R*511-1
 
@@ -5135,7 +5266,7 @@ _Cité par_:
   - Code des ports maritimes - art. R*511-5 (Ab)
 
 
-### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=84></a>
+### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=86></a>
 
 ###### Article R*521-3
 
@@ -5274,7 +5405,7 @@ _Cite_:
   - Code des ports maritimes - art. L521-8 (M)
 
 
-### Titre III : Sanctions et dispositions diverses.<a id=85></a>
+### Titre III : Sanctions et dispositions diverses.<a id=87></a>
 
 ###### Article R531-1
 
@@ -5300,11 +5431,11 @@ _Anciens textes_:
   - Code des ports maritimes 106
 
 
-# Annexes<a id=86></a>
+# Annexes<a id=88></a>
 
-## Règlement général de police des ports maritimes de commerce et de pêche<a id=87></a>
+## Règlement général de police des ports maritimes de commerce et de pêche<a id=89></a>
 
-### Définitions.<a id=88></a>
+### Définitions.<a id=90></a>
 
 ###### Article Annexe à l'article R*351-1, art. 1
 
@@ -5338,7 +5469,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Désignation des postes à quai.<a id=89></a>
+### Désignation des postes à quai.<a id=91></a>
 
 ###### Article Annexe à l'article R*351-1, art. 2
 
@@ -5370,7 +5501,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Admission des bâtiments dans le port.<a id=90></a>
+### Admission des bâtiments dans le port.<a id=92></a>
 
 ###### Article Annexe à l'article R*351-1, art. 3
 
@@ -5406,7 +5537,7 @@ _Créé par_:
   - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
 
 
-### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.<a id=91></a>
+### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.<a id=93></a>
 
 ###### Article Annexe à l'article R*351-1, art. 4
 
@@ -5446,7 +5577,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Déclaration d'entrée et de sortie.<a id=92></a>
+### Déclaration d'entrée et de sortie.<a id=94></a>
 
 ###### Article Annexe à l'article R*351-1, art. 5
 
@@ -5482,7 +5613,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Bâtiments de pêche, de plaisance, bateaux.<a id=93></a>
+### Bâtiments de pêche, de plaisance, bateaux.<a id=95></a>
 
 ###### Article Annexe à l'article R*351-1, art. 6
 
@@ -5505,7 +5636,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Bâtiments militaires français et étrangers.<a id=94></a>
+### Bâtiments militaires français et étrangers.<a id=96></a>
 
 ###### Article Annexe à l'article R*351-1, art. 7
 
@@ -5528,7 +5659,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mouillage et relevage des ancres.<a id=95></a>
+### Mouillage et relevage des ancres.<a id=97></a>
 
 ###### Article Annexe à l'article R*351-1, art. 8
 
@@ -5561,7 +5692,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mouvement des bâtiments.<a id=96></a>
+### Mouvement des bâtiments.<a id=98></a>
 
 ###### Article Annexe à l'article R*351-1, art. 9
 
@@ -5593,7 +5724,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Amarrage.<a id=97></a>
+### Amarrage.<a id=99></a>
 
 ###### Article Annexe à l'article R*351-1, art. 10
 
@@ -5626,7 +5757,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Déplacements sur ordre.<a id=98></a>
+### Déplacements sur ordre.<a id=100></a>
 
 ###### Article Annexe à l'article R*351-1, art. 11
 
@@ -5648,7 +5779,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Personnel à maintenir à bord.<a id=99></a>
+### Personnel à maintenir à bord.<a id=101></a>
 
 ###### Article Annexe à l'article R*351-1, art. 12
 
@@ -5684,7 +5815,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Manoeuvres de chasse, vidange, pompage.<a id=100></a>
+### Manoeuvres de chasse, vidange, pompage.<a id=102></a>
 
 ###### Article Annexe à l'article R*351-1, art. 13
 
@@ -5708,9 +5839,9 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Affectations des quais<a id=101></a>
+### Affectations des quais<a id=103></a>
 
-#### Durée des opérations commerciales.<a id=102></a>
+#### Durée des opérations commerciales.<a id=104></a>
 
 ###### Article Annexe à l'article R*351-1, art. 14
 
@@ -5740,7 +5871,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Durée d'occupation des postes, quais et terre-pleins.<a id=103></a>
+### Durée d'occupation des postes, quais et terre-pleins.<a id=105></a>
 
 ###### Article Annexe à l'article R*351-1, art. 15
 
@@ -5772,7 +5903,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Conservation du plan d'eau et des profondeurs des bassins.<a id=104></a>
+### Conservation du plan d'eau et des profondeurs des bassins.<a id=106></a>
 
 ###### Article Annexe à l'article R*351-1, art. 16
 
@@ -5810,7 +5941,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Propreté des eaux du port.<a id=105></a>
+### Propreté des eaux du port.<a id=107></a>
 
 ###### Article Annexe à l'article R*351-1, art. 17
 
@@ -5851,7 +5982,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Ramonage et incinération des déchets.<a id=106></a>
+### Ramonage et incinération des déchets.<a id=108></a>
 
 ###### Article Annexe à l'article R*351-1, art. 18
 
@@ -5873,7 +6004,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Marchandises infectes.<a id=107></a>
+### Marchandises infectes.<a id=109></a>
 
 ###### Article Annexe à l'article R*351-1, art. 19
 
@@ -5896,7 +6027,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Nettoyage des quais et terre-pleins.<a id=108></a>
+### Nettoyage des quais et terre-pleins.<a id=110></a>
 
 ###### Article Annexe à l'article R*351-1, art. 20
 
@@ -5922,7 +6053,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Restrictions concernant l'usage du feu.<a id=109></a>
+### Restrictions concernant l'usage du feu.<a id=111></a>
 
 ###### Article Annexe à l'article R*351-1, art. 21
 
@@ -5944,7 +6075,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Interdiction de fumer.<a id=110></a>
+### Interdiction de fumer.<a id=112></a>
 
 ###### Article Annexe à l'article R*351-1, art. 22
 
@@ -5970,7 +6101,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Consignes de lutte contre les sinistres.<a id=111></a>
+### Consignes de lutte contre les sinistres.<a id=113></a>
 
 ###### Article Annexe à l'article R*351-1, art. 23
 
@@ -6002,7 +6133,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Réparations et essais des machines.<a id=112></a>
+### Réparations et essais des machines.<a id=114></a>
 
 ###### Article Annexe à l'article R*351-1, art. 24
 
@@ -6028,7 +6159,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mise à l'eau des bâtiments.<a id=113></a>
+### Mise à l'eau des bâtiments.<a id=115></a>
 
 ###### Article Annexe à l'article R*351-1, art. 25
 
@@ -6050,7 +6181,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Epaves et bâtiments vétustes ou désarmés.<a id=114></a>
+### Epaves et bâtiments vétustes ou désarmés.<a id=116></a>
 
 ###### Article Annexe à l'article R*351-1, art. 26
 
@@ -6076,7 +6207,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Conservation du domaine public.<a id=115></a>
+### Conservation du domaine public.<a id=117></a>
 
 ###### Article Annexe à l'article R*351-1, art. 27
 
@@ -6108,7 +6239,7 @@ _Créé par_:
   - Décret n°78-488 1978-03-22 JORF 2 avril 1978 rectificatif JORF 23 janvier 1979
 
 
-### Accès des personnes sur le port.<a id=116></a>
+### Accès des personnes sur le port.<a id=118></a>
 
 ###### Article Annexe à l'article R*351-1, art. 28
 
@@ -6129,7 +6260,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Circulation et stationnement des véhicules.<a id=117></a>
+### Circulation et stationnement des véhicules.<a id=119></a>
 
 ###### Article Annexe à l'article R*351-1, art. 29
 
@@ -6158,7 +6289,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Dépôt des marchandises.<a id=118></a>
+### Dépôt des marchandises.<a id=120></a>
 
 ###### Article Annexe à l'article R*351-1, art. 30
 
@@ -6189,7 +6320,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Rangement des appareils de manutention.<a id=119></a>
+### Rangement des appareils de manutention.<a id=121></a>
 
 ###### Article Annexe à l'article R*351-1, art. 31
 
@@ -6211,7 +6342,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Exécution des travaux et d'ouvrages.<a id=120></a>
+### Exécution des travaux et d'ouvrages.<a id=122></a>
 
 ###### Article Annexe à l'article R*351-1, art. 32
 
@@ -6233,7 +6364,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Manoeuvres des amarres.<a id=121></a>
+### Manoeuvres des amarres.<a id=123></a>
 
 ###### Article Annexe à l'article R*351-1, art. 33
 
