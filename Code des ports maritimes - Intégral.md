@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1990-09-16
+Version Consolidée au 1990-12-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -1539,8 +1539,12 @@ _Cité par_:
 
 ###### Article L331-2
 
-Quiconque a intentionnellement détruit, abattu ou dégradé un feu flottant, une bouée ou une balise est puni d'un
-emprisonnement de six mois à trois ans et d'une amende de 1300 à 3000 F sans préjudice de la réparation du dommage causé.
+Quiconque a intentionnellement, dans les zones portuaires ou en dehors d'elles, détruit, abattu ou dégradé un phare, feu,
+ouvrage ou d'une façon générale tout équipement ou installation de balisage ou d'aide à la navigation est puni d'un
+emprisonnement de six mois à trois ans et d'une amende de 10000 à 100000 F, sans préjudice de la réparation du dommage causé.
+
+Les dispositions du premier alinéa sont également applicables aux atteintes portées au bon fonctionnement de ces équipements
+et installations.
 
 **Liens relatifs à cet article**
 
@@ -1550,7 +1554,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-403 1979-05-09 art. 6 JORF 22 mai 1979
+  - Loi n°90-1143 du 21 décembre 1990 - art. 3 () JORF 26 décembre 1990
 
 _Cité par_:
 
