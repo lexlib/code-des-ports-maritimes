@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1984-07-17
+Version Consolidée au 1984-07-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -82,7 +82,7 @@ Version Consolidée au 1984-07-17
           - [Section 2 : Outillages (art. R*122-7 à R*122-18)](#79)
             - [Sous-section 1 : Dispositions générales. (art. R*122-7)](#80)
             - [Sous-section 2 : Outillages publics concédés. (art. R*122-9 à R*122-11)](#81)
-            - [Sous-section 3 : Outillages privés autorisés avec obligation de service public. (art. R*122-12)](#82)
+            - [Sous-section 3 : Outillages privés autorisés avec obligation de service public. (art. R*122-12 à R*122-13)](#82)
             - [Sous-section 4 : Dispositions communes relatives aux tarifs. (art. R*122-14 à R*122-18)](#83)
       - [Titre III : Installations portuaires de plaisance. (art. R*131-1 à R*134-2)](#84)
         - [Chapitre Ier : Dispositions générales. (art. R*131-1)](#85)
@@ -4677,6 +4677,10 @@ _Abrogé par_:
 Le dossier soumis à l'instruction comporte l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977
 lorsque le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.
 
+Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
+1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
+intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
 L'instruction comporte exclusivement les formalités ci-après qui sont effectuées simultanément :
 
 1° consultation de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté conjoint du ministre
@@ -4696,23 +4700,17 @@ chenaux d'accès ; dans les autres cas la consultation est faite auprès de la c
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°71-346 1971-05-06 art. 4 al. 4, al. 5
-
 _Cite_:
 
   - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
   - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
+  - Loi n°82-1153 1982-12-30 art. 14
+  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
+  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
 
 _Codifié par_:
 
   - Décret n°78-488 1978-03-22
-
-_Modifié par_:
-
-  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
-  - Décret n°83-1244 du 30 décembre 1983 - art. 2 () JORF 3 janvier 1984
 
 
 ###### Article R*115-5
@@ -4899,6 +4897,64 @@ _Modifié par_:
 _Cite_:
 
   - Code des ports maritimes R115-11, R115-12
+
+
+###### Article R*115-11
+
+L'instruction prévue à l'article R. 115-10 est effectuée à la diligence du directeur du port autonome.
+
+Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
+coût total des travaux excède le montant fixé au C de l'article 3 du même décret.
+
+Le dossier d'instruction comprend également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
+pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque
+les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
+Cette instruction comporte les formalités ci-après :
+
+1° consultation du conseil d'administration ;
+
+2° consultation de la commission permanente d'enquête ;
+
+3° consultation des collectivités publiques et des services publics intéressés ;
+
+4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions offertes
+à la navigation. Dans le cas contraire, ou sur décision du ministre chargé des ports maritimes, consultation de la grande
+commission nautique ;
+
+5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
+
+6° Enquête publique s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°52-1265 1952-11-29
+  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
+  - Loi n°82-1153 1982-12-30 art. 14
+  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
+  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
+  - Code des ports maritimes R115-10
+
+_Anciens textes_:
+
+  - Décret n°65-934 1965-11-08 art. 4
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 2 () JORF 3 janvier 1984
+  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
+
+_Abrogé par_:
+
+  - Décret n°99-782 du 9 septembre 1999 - art. 11 () JORF 11 septembre 1999
 
 
 ###### Article R*115-12
@@ -5752,6 +5808,63 @@ _Cite_:
   - Code des ports maritimes R122-8, R122-10, R122-11
 
 
+###### Article R*122-10
+
+L'instruction prévue à l'article R. 122-9 est effectuée à la diligence du directeur du port ou du chef du service maritime.
+
+Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
+coût total des travaux excède le montant fixé au C de l'article 3 du même décret.
+
+Le dossier d'instruction comprend également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
+pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
+les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
+Cette instruction comporte les formalités ci-après :
+
+1° consultation de la ou des chambres de commerce et d'industrie intéressées ;
+
+2° consultation du conseil portuaire ;
+
+3° consultation des collectivités publiques et des services publics intéressés ;
+
+4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions offertes
+à la navigation. Dans le cas contraire ou sur décision du ministre chargé des ports maritimes, consultation de la grande
+commission nautique ;
+
+5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
+
+6° enquête publique s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - 84-617 1984-07-17 art. 29 III JORF 18 juillet 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 5 () JORF 3 janvier 1984
+
+_Cite_:
+
+  - Loi n°52-1265 1952-11-29
+  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
+  - Loi n°82-1153 1982-12-30 art. 14
+  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
+  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
+  - Code des ports maritimes R122-9
+
+_Anciens textes_:
+
+  - Décret n°69-140 1969-02-06 art. 4
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+
 ###### Article R*122-11
 
 Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
@@ -5824,6 +5937,72 @@ _Cité par_:
 _Cite_:
 
   - Code des ports maritimes R122-13
+
+
+###### Article R*122-13
+
+L'instruction prévue à l'article R. 122-12 est effectuée à la diligence du directeur départemental de l'équipement ou, le cas
+échéant, de l'ingénieur en chef du service maritime spécialisé.
+
+Le dossier d'instruction comprend l'étude d'impact définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977 lorsque le
+coût total des travaux de création ou d'extension des installations excède le montant fixé au C de l'article 3 du même
+décret.
+
+Le dossier soumis à l'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet
+1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports
+intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
+Cette instruction comporte les formalités ci-après :
+
+1° consultation de la ou des chambres de commerce et d'industrie intéressées ;
+
+2° consultation du conseil portuaire ;
+
+3° consultation des collectivités locales et des services publics intéressés ;
+
+4° consultation de la commission nautique locale lorsque les installations projetées ne modifient pas les conditions
+apportées à la navigation. Dans le cas contraire ou sur décision du ministre chargé des ports maritimes, consultation de la
+grande commission nautique ;
+
+5° le cas échéant, instruction sur les travaux mixtes en application de la loi n° 52-1265 du 29 novembre 1952 modifiée ;
+
+6° enquête publique s'il y a lieu.
+
+Le délai imparti aux assemblées, collectivités, commissions et services consultés au cours de l'instruction pour faire
+connaître leur avis est de un mois. L'absence d'avis dans ce délai vaut avis favorable.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°52-1265 1952-11-29
+  - Décret n°77-1141 du 12 octobre 1977 - art. 2 (M)
+  - Décret n°77-1141 du 12 octobre 1977 - art. 3 (M)
+  - Loi n°82-1153 1982-12-30 art. 14
+  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
+  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
+  - Code des ports maritimes R122-12
+
+_Anciens textes_:
+
+  - Décret n°76-703 1976-07-23 art. 4
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 11 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 12 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
+  - Décret n°83-1244 du 30 décembre 1983 - art. 5 () JORF 3 janvier 1984
+  - Décret n°84-617 du 17 juillet 1984 - art. 29 () JORF 18 juillet 1984
+
+_Abrogé par_:
+
+  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
 
 
 ##### Sous-section 4 : Dispositions communes relatives aux tarifs.<a id=83></a>
