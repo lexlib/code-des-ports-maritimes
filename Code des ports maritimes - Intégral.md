@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1983-12-21
+Version Consolidée au 1983-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -63,7 +63,7 @@ Version Consolidée au 1983-12-21
       - [Titre Ier : Droits de port. (art. R*211-1 à R*215-1)](#60)
         - [Chapitre Ier : Dispositions communes. (art. R*211-1 à R*211-7)](#61)
           - [Section 1 : Taxes et redevances comprises dans le droit de port. (art. R*211-1)](#62)
-          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-7)](#63)
+          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-6 à R*211-7)](#63)
         - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-21)](#64)
           - [Section 1 : Taxes sur le navire et sur son stationnement. (art. R*212-2 à R*212-11)](#65)
           - [Section 2 : Taxe sur les marchandises. (art. R*212-13 à R*212-16)](#66)
@@ -2550,6 +2550,39 @@ _Cité par_:
 
 
 ##### Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat.<a id=63></a>
+
+###### Article R*211-6
+
+Les taux sont considérés comme approuvés, si, dans les quinze jours après leur transmission au commissaire du Gouvernement ou
+au préfet, suivant le cas, celui-ci n'a pas fait connaître son opposition. L'opposition du commissaire du Gouvernement ou du
+préfet, est levée de plein droit un mois après avoir été formulée, si elle n'a pas été confirmée par le ministre chargé des
+ports maritimes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R211-2-1 (Ab)
+  - Code des transports - art. R4323-2 (V)
+  - Code des transports - art. R4323-3 (V)
+  - Code des transports - art. R4323-38 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5321-7 (V)
+
+_Modifié par_:
+
+  - Décret n°83-1147 1982-12-23 art. 1 JORF 27 décembre 1983
+
 
 ###### Article R*211-7
 
