@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1978-04-02
+Version Consolidée au 1978-04-02 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -489,13 +489,17 @@ conservent.
 
 **Liens relatifs à cet article**
 
-**Liens**:
-
-  - TXT_ASSOCIE: CGI 1044 A
-
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Cite_:
+
+  - Code des ports maritimes
 
 _Cité par_:
 
@@ -503,10 +507,6 @@ _Cité par_:
   - Code des ports maritimes - art. L111-6 (Ab)
   - Code des ports maritimes - art. R*111-9 (Ab)
   - Code des ports maritimes - art. R*162-1 (Ab)
-
-_Cite_:
-
-  - Code des ports maritimes L111-4 à L111-7
 
 
 ###### Article L111-11
@@ -577,11 +577,11 @@ chacune des organisations syndicales les plus représentatives.
 
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2010-853 du 23 juillet 2010 - art. 8
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ##### Section 2 : Personnel.<a id=11></a>
@@ -648,7 +648,11 @@ conditions d'emploi, de rémunération et de retraite.
 
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cité par_:
 
@@ -657,7 +661,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des ports maritimes - art. L112-4 (M)
+  - Code des ports maritimes - art. L112-4
 
 
 ###### Article L112-6
@@ -864,7 +868,11 @@ maximum de vingt ans, avec faculté de remboursement anticipé.
 
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ### Titre VI : Dispositions particulières aux ports des départements d'outre-mer<a id=18></a>
