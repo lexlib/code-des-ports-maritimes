@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1982-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -1952,6 +1952,34 @@ _Nouveaux textes_:
 **Liens**:
 
   - TXT_ASSOCIE: Code des ports maritimes - art. R521-2 (M)
+
+
+###### Article L521-3
+
+L'indemnité de garantie n'est pas considérée comme constituant un salaire et n'est, en conséquence, passible d'aucun
+versement de cotisation pour charges sociales sinon par application de l'article L. 131-2 du code la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Loi n°82-1 1982-01-04 art. 7 II du 5 janvier 1982
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5343-20 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L131-2
 
 
 ###### Article L521-4
