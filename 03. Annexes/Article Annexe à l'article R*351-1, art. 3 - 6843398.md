@@ -1,21 +1,27 @@
 # Article Annexe à l'article R*351-1, art. 3
 
-Les capitaines des bâtiments doivent adresser à la capitainerie, vingt-quatre heures à l'avance, ou au plus tard au départ du
-port précédent lorsque celui-ci est situé à moins de vingt-quatre heures de route, leur prévision d'arrivée sur rade ou à la
-bouée d'atterrissage des chenaux d'accès, en indiquant :
+Sans préjudice des obligations déclaratives prévues par les dispositions régissant le transport et la manutention des
+matières dangereuses, les capitaines des bâtiments doivent adresser à la capitainerie du port de destination, vingt-quatre
+heures à l'avance, ou au plus tard au départ du port précédent lorsque celui-ci est situé à moins de vingt-quatre heures de
+route, ou à défaut dès que le port de destination est connu, leur prévision d'arrivée sur rade ou à la bouée d'atterrissage
+des chenaux d'accès en indiquant :
 
-Le nom du bâtiment, son tonnage, sa longueur et sa largeur ;
+- le nom et l'identification (numéro OMI) du bâtiment, son tonnage, sa longueur et sa largeur ;
 
-La date et l'heure de l'arrivée ;
+- la date et l'heure probables de l'arrivée ;
 
-Le tirant d'eau maximum du bâtiment à son arrivée au port ;
+- la date et l'heure probables de l'appareillage ;
 
-La nature et le tonnage des différentes matières et cargaisons dangereuses transportées (en transit ou à débarquer) ainsi que
-la nature et le tonnage des déchets d'exploitation et résidus de cargaison du navire ;
+- le tirant d'eau maximum du bâtiment à son arrivée au port ;
 
-Les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
+- la nature et le tonnage des différentes matières ou cargaisons dangereuses transportées (en transit ou à débarquer) ainsi
+que la nature et le tonnage des déchets d'exploitation et des résidus de cargaison ;
 
-Un message rectificatif doit être envoyé en cas de changement.
+- le nombre total de personnes à bord ;
+
+- les avaries éventuelles du bâtiment, de ses apparaux ou de la cargaison.
+
+Un message rectificatif doit être envoyé en cas de modification de l'une de ces informations.
 
 Les officiers de port peuvent interdire l'accès du port aux bâtiments dont l'entrée serait susceptible de compromettre la
 sécurité, la santé ou l'environnement ainsi que la conservation ou la bonne exploitation des ouvrages portuaires.
@@ -30,4 +36,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
+  - Décret n°2005-255 du 14 mars 2005 - art. 6 () JORF 19 mars 2005
+
+_Abrogé par_:
+
+  - Décret n°2009-877 du 17 juillet 2009 (Ab)
