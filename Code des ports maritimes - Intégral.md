@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1987-02-23
+Version Consolidée au 1987-06-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
