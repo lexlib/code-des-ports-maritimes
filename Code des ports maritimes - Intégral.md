@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -1047,6 +1047,31 @@ _Cité par_:
   - Code des ports maritimes - art. R*212-20 (Ab)
 
 
+###### Article L211-3-1
+
+Par dérogation aux dispositions des articles L. 211-1 à L. 211-3, la commune de Saint-Barthélemy peut fixer et percevoir une
+taxe sur les débarquements de passagers par voie maritime, dont le montant est fixé par délibération du conseil municipal
+dans la limite de 4,57 euros par passager, pour financer l'amélioration des installations portuaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 décembre 2000 en vigueur le 1er janvier 2002
+
+_Créé par_:
+
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
+
+_Cite_:
+
+  - Code des ports maritimes L211-1 à L211-3
+
+
 ###### Article L211-4
 
 Conformément aux dispositions du sixième alinéa de l'article 285 du code des douanes, les droits, taxes et redevances
@@ -1334,7 +1359,7 @@ _Cité par_:
 Nul ne peut porter atteinte au bon état des ports et havres tant dans leur profondeur et netteté que dans leurs
 installations.
 
-Il est défendu, sous peine d'une amende de 40 à 80 F :
+Il est défendu, sous peine d'une amende de 6 à 12 euros :
 
 De jeter des terres ou immondices dans les eaux des ports et de leurs dépendances ;
 
@@ -1348,13 +1373,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-403 1979-05-09 art. 1 JORF 22 mai 1979
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L322-2
 
 Les propriétaires de vieux bâtiments hors d'état de naviguer sont tenus de les démolir et d'en enlever les débris sans délai
-sous peine de confiscation et d'une amende de 160 à 600 F.
+sous peine de confiscation et d'une amende de 22 à 90 euros.
 
 **Liens relatifs à cet article**
 
@@ -1364,7 +1398,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-403 1979-05-09 art. 2 JORF 22 mai 1979
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre III : Exploitation du port.<a id=30></a>
@@ -1374,23 +1417,23 @@ _Modifié par_:
 Dans les limites d'un port maritime ou à l'intérieur de ses rades et chenaux d'accès, tout capitaine, maître ou patron d'un
 navire de commerce, de pêche ou de plaisance, d'un engin de servitude ou d'un bateau de navigation intérieure qui n'a pas
 obtempéré aux ordres donnés par le moyen des signaux réglementaires ou d'une manière quelconque par les officiers et
-surveillants de port concernant le mouvement de son bâtiment est passible d'une amende calculée comme suit :
+surveillants de port concernant le mouvement de son bâtiment, est passible d'une amende calculée comme suit :
 
-1° Pour les navires de mer :
+1° Pour les navires de mer.
 
-Navires de moins de 25 tonneaux de jauge brute : 160 à 600 F ;
+Navires de moins de 25 tonneaux de jauge brute : 22 à 90 euros ;
 
-Navires de 25 à 250 tonneaux : 600 à 1000 F ;
+Navires de 25 à 250 tonneaux : 90 à 150 euros ;
 
-Navires de plus de 250 tonneaux : 1000 à 2000 F.
+Navires de plus de 250 tonneaux : 150 à 300 euros.
 
-2° Pour tous les bâtiments autres que les navires de mer :
+2° Pour tous les bâtiments autres que les navires de mer.
 
-Bâtiments de moins de 25 tonnes de déplacement en charge : 160 à 600 F ;
+Bâtiments de moins de 25 tonneaux de déplacement en charge : 22 à 90 euros ;
 
-Bâtiments de 25 à 250 tonnes : 600 à 1000 F ;
+Bâtiments de 25 à 250 tonneaux : 90 à 150 euros ;
 
-Bâtiments de plus de 250 tonnes : 1000 à 2000 F.
+Bâtiments de plus de 250 tonneaux : 150 à 300 euros.
 
 En cas de récidive, l'amende peut être élevée au triple des chiffres fixés ci-dessus.
 
@@ -1402,12 +1445,21 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-403 1979-05-09 art. 3 JORF 22 mai 1979 rectificatif JORF 17 juin 1979
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
 
 _Cité par_:
 
   - Code des ports maritimes - art. R*311-1 (V)
   - Code des ports maritimes - art. R*323-5 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L323-2
@@ -1437,8 +1489,8 @@ _Cité par_:
 
 ###### Article L323-3
 
-Il est défendu à tout capitaine de jeter du lest dans les ports, canaux, bassins et rades sous peine d'une amende de 1000 à
-2000 F pour la première infraction et de saisie et confiscation de son bâtiment en cas de récidive.
+Il est défendu à tout capitaine de jeter du lest dans les ports, canaux, bassins et rades sous peine d'une amende de 150 à
+300 euros pour la première infraction et de saisie et confiscation de son bâtiment en cas de récidive.
 
 Il est défendu, sous les mêmes peines, aux capitaines de navires et aux entrepreneurs de procéder aux opérations de lestage
 et de délestage pendant la nuit, sauf autorisation des officiers de port.
@@ -1451,21 +1503,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-403 1979-05-09 art. 4 JORF 22 mai 1979
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L323-4
 
 Les marchandises ne peuvent séjourner sur les quais plus de trois jours ; passé ce délai, elles peuvent être enlevées
-d'office aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende 1000 à 2000 F.
+d'office aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende 150 à 300 euros.
 
 Toutefois, en cas d'encombrement ou de risque d'encombrement dans un port maritime de commerce, des arrêtés ministériels
 peuvent fixer une durée maxima de stationnement sur les quais, terre-pleins et dépendances du port pour toutes les
 marchandises ou pour certaines catégories de marchandises.
 
 A l'expiration du délai fixé comme il est dit à l'alinéa précédent, les marchandises peuvent être enlevées à la diligence des
-officiers de port et aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende qui peut varier entre 3600
-et 10800 F.
+officiers de port et aux dépens des propriétaires, lesquels sont, en outre, condamnés à une amende qui peut varier entre 450
+et 1 500 euros.
 
 **Liens relatifs à cet article**
 
@@ -1473,10 +1534,23 @@ _Codifié par_:
 
   - Décret n°78-487 1978-03-22
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+
 _Cité par_:
 
   - Code des ports maritimes - art. R*311-1 (V)
   - Code des ports maritimes - art. R*323-9 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 #### Chapitre IV : Dispositions communes.<a id=31></a>
@@ -1650,7 +1724,7 @@ Cette déclaration est faite en France à l'officier de port ou, à défaut, au 
 l'agent consulaire français le plus rapproché du port d'arrivée.
 
 Faute de cette déclaration et indépendamment de la réparation du dommage causé à l'ouvrage, il est puni d'un emprisonnement
-de trois mois et d'une amende de 25000 F.
+de trois mois et d'une amende de 3 750 euros.
 
 **Liens relatifs à cet article**
 
@@ -1660,7 +1734,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -1672,12 +1746,17 @@ _Cité par_:
   - Code rural - art. L241-15 (Ab)
   - Code rural - art. L242-26 (Ab)
 
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
 
 ###### Article L331-2
 
 Quiconque a intentionnellement, dans les zones portuaires ou en dehors d'elles, détruit, abattu ou dégradé un phare, feu,
 ouvrage ou d'une façon générale tout équipement ou installation de balisage ou d'aide à la navigation est puni d'un
-emprisonnement de trois ans et d'une amende de 100000 F, sans préjudice de la réparation du dommage causé.
+emprisonnement de trois ans et d'une amende de 15 000 euros, sans préjudice de la réparation du dommage causé.
 
 Les dispositions du premier alinéa sont également applicables aux atteintes portées au bon fonctionnement de ces équipements
 et installations.
@@ -1690,7 +1769,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -1700,6 +1779,11 @@ _Cité par_:
   - Code des ports maritimes - art. L331-3 (M)
   - Code rural - art. L241-15 (Ab)
   - Code rural - art. L242-26 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L331-3
@@ -1819,7 +1903,7 @@ _Cité par_:
 Quiconque a embarqué ou fait embarquer sur un navire de commerce employé à la navigation maritime ou à la navigation sur les
 rivières ou canaux, expédié ou fait expédier par voie de terre des matières pouvant être une cause d'explosion ou d'incendie,
 sans en avoir déclaré la nature au capitaine, maître ou patron, au commissionnaire expéditeur ou au voiturier, et sans avoir
-apposé des marques apparentes sur les emballages est puni d'une amende de 25000 F.
+apposé des marques apparentes sur les emballages est puni d'une amende de 3 750 euros.
 
 Cette disposition est applicable à l'embarquement sur navire étranger dans un port français ou sur un point quelconque des
 eaux françaises.
@@ -1832,12 +1916,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
   - Code des ports maritimes - art. L332-3 (Ab)
   - Code des ports maritimes - art. L332-4 (Ab)
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L332-3
@@ -2660,7 +2749,7 @@ bureau central de la main-d'oeuvre. Les contraventions sont passibles des sancti
 
 a) Avertissement ;
 
-b) Sanction pécuniaire dans la limite de 30000 F ;
+b) Sanction pécuniaire dans la limite de 4 500 euros ;
 
 c) En cas de nouvelle infraction dans le délai d'un an, la sanction mentionnée à l'alinéa précédent et l'interdiction
 temporaire d'utilisation de l'outillage public ou l'une de ces deux sanctions seulement ;
@@ -2689,13 +2778,30 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-496 du 9 juin 1992 - art. 1 () JORF 10 juin 1992
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5344-1 (V)
+  - Code des transports - art. L5344-2 (V)
+  - Code des transports - art. L5344-3 (V)
+  - Code des transports - art. L5344-4 (V)
 
 _Cité par_:
 
   - Code des ports maritimes - art. L511-4 (M)
   - Code des ports maritimes - art. L521-4 (M)
   - Code des ports maritimes - art. R531-1 (Ab)
+
+**Liens**:
+
+  - SPEC_APPLI: Code des ports maritimes - art. R531-1 (M)
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article L531-2
@@ -9997,7 +10103,7 @@ _Abrogé par_:
 ###### Article R*323-1
 
 Tout capitaine de navire entrant dans le port est tenu, dans les vingt-quatre heures, de se déclarer au bureau des officiers
-de port sous peine d'une amende de 1000 à 2000 F.
+de port sous peine d'une amende de 150 à 300 euros.
 
 **Liens relatifs à cet article**
 
@@ -10005,16 +10111,25 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des ports maritimes 55
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R*323-2
 
 Il doit toujours y avoir des matelots à bord des navires pendant leur séjour dans les ports pour faciliter le passage des
 bâtiments entrant et sortant, larguer les amarres et faire toutes manoeuvres nécessaires, sous peine pour les capitaines ou
-patrons d'une amende de 160 à 600 F.
+patrons d'une amende de 22 à 90 euros.
 
 **Liens relatifs à cet article**
 
@@ -10022,15 +10137,24 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des ports maritimes 56
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R*323-3
 
 Les navires ne peuvent être amarrés qu'aux organes spéciaux établis à cet effet sur les ouvrages, sous peine d'une amende de
-1000 à 2000 F.
+150 à 300 euros.
 
 **Liens relatifs à cet article**
 
@@ -10038,9 +10162,18 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des ports maritimes 57
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R*323-4
@@ -10095,7 +10228,7 @@ _Anciens textes_:
 ###### Article R*323-6
 
 Les capitaines de navires qui, en cas de nécessité absolue, mouillent des ancres dans le port, doivent les signaler par une
-bouée ou autre dispositif convenable, sous peine d'une amende de 160 à 600 F et de la réparation de tous dommages qui
+bouée ou autre dispositif convenable, sous peine d'une amende de 22 à 90 euros et de la réparation de tous dommages qui
 pourraient en résulter.
 
 **Liens relatifs à cet article**
@@ -10104,9 +10237,18 @@ _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code des ports maritimes 59
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Abrogé par_:
+
+  - Décret n°2009-876 du 17 juillet 2009 - art. 3
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
 ###### Article R*323-8
