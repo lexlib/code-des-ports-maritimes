@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1985-09-12
+Version Consolidée au 1986-03-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -111,10 +111,10 @@ Version Consolidée au 1985-09-12
           - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-2 à R*211-9)](#108)
           - [Section 3 : Fixation des taux des droits de port dans les ports maritimes de la compétence du département et de la commune. (art. R*211-9-2 à R*211-9-5)](#109)
           - [Section 4 : Affectation du produit du droit de port. (art. R*211-10 à R*211-12)](#110)
-        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-22)](#111)
+        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R212-19)](#111)
           - [Section 1 : Taxes sur le navire et sur son stationnement. (art. R*212-2 à R*212-12)](#112)
           - [Section 2 : Taxe sur les marchandises. (art. R*212-13 à R*212-16)](#113)
-          - [Section 3 : Taxe sur les passagers. (art. R*212-17 à R*212-22)](#114)
+          - [Section 3 : Taxe sur les passagers. (art. R*212-17 à R212-19)](#114)
         - [Chapitre III : Dispositions propres aux navires de pêche. (art. R*213-1 à R*213-5)](#115)
         - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-5)](#116)
         - [Chapitre V : Dispositions diverses. (art. R*215-1)](#117)
@@ -8023,6 +8023,47 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
+###### Article R*212-20
+
+Dans les ports maritimes de la Corse, les taux de la taxe sur les passagers de navires de commerce perçue au titre du droit
+de port sont les suivants :
+
+a) Passagers empruntant un aéroglisseur amphibie :
+
+1. Passagers à destination d'un port de la Corse, de la France continentale ou de la Sardaigne : 7,18 F (avec réduction de 50
+% pour les passagers de 4e classe) ;
+
+2. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités au 1 ci-dessus) ou en
+Afrique du Nord : 7,18 F ;
+
+3. Passagers en provenance ou à destination de tous les autres ports : 43,22 F.
+
+b) Passagers empruntant un navire non visé au paragraphe a :
+
+1. Passagers à destination d'un port de la Corse, de la France continentale ou de la Sardaigne : 7,18 F (avec réduction de 50
+% pour les passagers de 4e classe) ;
+
+2. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités au 1 ci-dessus) ou en
+Afrique du Nord : 7,18 F ;
+
+3. Passagers en provenance ou à destination de tous les autres ports : 43,22 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°81-556 1981-05-12 art. 2 JORF 16 mai 1981
+  - Décret n°83-115 1983-02-10 art. 2 JORF 13 février 1983
+  - Décret n°83-827 1983-09-12 art. 2 JORF 18 septembre 1983
+  - Décret n°84-222 1984-03-29 art. 2 JORF 31 mars 1984
+  - Décret n°85-386 1985-03-29 art. 2 JORF 31 mars 1985
+  - Décret n°86-436 1986-03-13 art. 2 JORF 15 mars 1986
+
+
 ###### Article R*212-21
 
 Les liaisons maritimes de caractère local au sens de l'article R. 212-9 peuvent donner lieu à des tarifs particuliers fixés
@@ -8069,6 +8110,73 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2001-566 du 29 juin 2001 - art. 10 () JORF 30 juin 2001
+
+
+###### Article R212-19
+
+Dans les ports maritimes de la France continentale, les taux de la taxe sur les passagers des navires de commerce perçue au
+titre du droit de port sont les suivants :
+
+a) Passagers empruntant un aéroglisseur amphibie :
+
+1. Passagers à destination d'un port de France continentale ou de la Corse : 7,18 F (avec réduction de 50 % pour les
+passagers de 4e classe). Les passagers de navires à classe unique sont assimilés aux passagers de 2e classe pour la
+perception de la taxe ;
+
+2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 15,17 F ;
+
+3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux situés aux 1 et 2 ci-dessus) ou
+en tout pays du bassin méditerranéen : 18,21 F ;
+
+4. Passagers en provenance ou à destination de tous les autres ports : 64,83 F.
+
+b) Passagers empruntant un navire non visé au paragraphe a :
+
+1. Passagers à destination d'un port de la France continentale ou de la Corse : 7,18 F (avec réduction de 50 % pour les
+passagers de 4e classe). Les passagers de navires à classe unique sont assimilés aux passagers de 2e classe pour la
+perception de la taxe ;
+
+2. Passagers en provenance ou à destination d'un port des îles Britanniques ou des îles Anglo-Normandes : 15,17 F ;
+
+3. Passagers en provenance ou à destination d'un port situé en Europe (à l'exception de ceux cités aux 1 et 2 ci-dessus) ou
+en tout pays du bassin méditerranéen : 18,21 F.
+
+4. Passagers en provenance ou à destination de tous les autres ports : 64,83 F.
+
+Les taux de la taxe sur les passagers sont réduits : 
+
+- de 50 p. 100 en faveur des passagers transbordés ; 
+
+- de 50 p. 100 en faveur des excursionnistes munis de billets aller et retour utilisés dans un délai inférieur à soixante-
+douze heures.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°68-803 du 10 septembre 1968 - art. 3 à 28 (Ab)
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°78-1236 du 28 décembre 1978, v. init.
+  - Décret n°79-1110 du 19 décembre 1979, v. init.
+  - Décret n°81-556 1981-05-12 art. 1 JORF 16 mai 1981
+  - Décret n°82-366 1982-04-29 art. 1 JORF 30 avril 1982
+  - Décret n°83-115 1983-02-10 art. 1 JORF 13 février 1983
+  - Décret n°83-233 1983-03-22 art. 1 JORF 26 mars 1983
+  - Décret n°83-827 1983-09-12 art. 1 JORF 18 septembre 1983
+  - Décret n°84-222 1984-03-29 art. 1 JORF 31 mars 1984
+  - Décret n°85-386 1985-03-29 art. 1 JORF 31 mars 1985
+  - Décret n°86-436 1986-03-13 art. 1 JORF 15 mars 1986
+
+_Cité par_:
+
+  - Code des transports - art. D4323-36 (M)
+  - Code des ports maritimes - art. R*231-5 (Ab)
 
 
 #### Chapitre III : Dispositions propres aux navires de pêche.<a id=115></a>
