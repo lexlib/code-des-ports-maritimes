@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1979-05-22
+Version Consolidée au 1979-06-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -30,7 +30,7 @@ Version Consolidée au 1979-05-22
       - [Titre II : Polices de la conservation et de l'exploitation (art. L321-1 à L323-4)](#27)
         - [Chapitre Ier : Répression des infractions. (art. L321-1 à L321-4)](#28)
         - [Chapitre II : Conservation du port proprement dit. (art. L322-1 à L322-2)](#29)
-        - [Chapitre III : Exploitation du port. (art. L323-2 à L323-4)](#30)
+        - [Chapitre III : Exploitation du port. (art. L323-1 à L323-4)](#30)
       - [Titre III : Polices du balisage et des matières dangereuses ou infectes (art. L331-1 à L332-4)](#31)
         - [Chapitre Ier : Balisage. (art. L331-1 à L331-6)](#32)
         - [Chapitre II : Matières dangereuses ou infectes. (art. L332-1 à L332-4)](#33)
@@ -1225,6 +1225,47 @@ _Modifié par_:
 
 
 #### Chapitre III : Exploitation du port.<a id=30></a>
+
+###### Article L323-1
+
+Dans les limites d'un port maritime ou à l'intérieur de ses rades et chenaux d'accès, tout capitaine, maître ou patron d'un
+navire de commerce, de pêche ou de plaisance, d'un engin de servitude ou d'un bateau de navigation intérieure qui n'a pas
+obtempéré aux ordres donnés par le moyen des signaux réglementaires ou d'une manière quelconque par les officiers et
+surveillants de port concernant le mouvement de son bâtiment est passible d'une amende calculée comme suit :
+
+1° Pour les navires de mer :
+
+Navires de moins de 25 tonneaux de jauge brute : 160 à 600 F ;
+
+Navires de 25 à 250 tonneaux : 600 à 1000 F ;
+
+Navires de plus de 250 tonneaux : 1000 à 2000 F.
+
+2° Pour tous les bâtiments autres que les navires de mer :
+
+Bâtiments de moins de 25 tonnes de déplacement en charge : 160 à 600 F ;
+
+Bâtiments de 25 à 250 tonnes : 600 à 1000 F ;
+
+Bâtiments de plus de 250 tonnes : 1000 à 2000 F.
+
+En cas de récidive, l'amende peut être élevée au triple des chiffres fixés ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°79-403 1979-05-09 art. 3 JORF 22 mai 1979 rectificatif JORF 17 juin 1979
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R*311-1 (V)
+  - Code des ports maritimes - art. R*323-5 (Ab)
+
 
 ###### Article L323-2
 
