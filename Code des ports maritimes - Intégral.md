@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1989-05-30
+Version Consolidée au 1990-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -1524,6 +1524,31 @@ _Cité par_:
   - Décret n°2009-877 du 17 juillet 2009 - art. 30 (Ab)
   - Code de l'environnement - art. L331-19 (V)
   - Code de l'environnement - art. L332-22 (V)
+  - Code des ports maritimes - art. L331-3 (M)
+  - Code rural - art. L241-15 (Ab)
+  - Code rural - art. L242-26 (Ab)
+
+
+###### Article L331-2
+
+Quiconque a intentionnellement détruit, abattu ou dégradé un feu flottant, une bouée ou une balise est puni d'un
+emprisonnement de six mois à trois ans et d'une amende de 1300 à 3000 F sans préjudice de la réparation du dommage causé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-487 1978-03-22
+
+_Modifié par_:
+
+  - Décret n°79-403 1979-05-09 art. 6 JORF 22 mai 1979
+
+_Cité par_:
+
+  - Code de l'environnement - art. L331-19 (V)
+  - Code de l'environnement - art. L332-22 (V)
+  - Code de procédure pénale - art. 689-5 (M)
   - Code des ports maritimes - art. L331-3 (M)
   - Code rural - art. L241-15 (Ab)
   - Code rural - art. L242-26 (Ab)
