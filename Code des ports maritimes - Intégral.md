@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 1996-02-27
+Version Consolidée au 1996-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L541-1)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-1 à L161-1)](#2)
@@ -81,12 +81,12 @@ Version Consolidée au 1996-02-27
           - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#78)
           - [Section 2 : Outillages (art. R*122-7 à R*122-18)](#79)
             - [Sous-section 1 : Dispositions générales. (art. R*122-7)](#80)
-            - [Sous-section 2 : Outillages publics concédés. (art. R*122-8 à R*122-11)](#81)
+            - [Sous-section 2 : Outillages publics concédés. (art. R*122-8 à R*122-11-1)](#81)
             - [Sous-section 3 : Outillages privés autorisés avec obligation de service public. (art. R*122-12 à R*122-13)](#82)
             - [Sous-section 4 : Dispositions communes relatives aux tarifs. (art. R*122-14 à R*122-18)](#83)
       - [Titre III : Installations portuaires de plaisance. (art. R*131-1 à R*134-2)](#84)
         - [Chapitre Ier : Dispositions générales. (art. R*131-1)](#85)
-        - [Chapitre II : Concessions. (art. R*132-1 à R*132-2)](#86)
+        - [Chapitre II : Concessions. (art. R*132-1 à R132-3)](#86)
         - [Chapitre III : Autorisations d'outillages privés avec obligation de service public. (art. R*133-1 à R*133-2)](#87)
         - [Chapitre IV : Dispositions communes relatives aux tarifs. (art. R*134-1 à R*134-2)](#88)
       - [Titre IV : Conseils portuaires (art. R*141-1 à R*142-5)](#89)
@@ -4866,31 +4866,34 @@ _Cite_:
 
 ###### Article R*113-25
 
-Les remises de biens au port autonome prévues par les articles R. 111-8 et R. 111-10 ne modifient pas le statut légal des
+Les remises de biens au port autonome prévues par les articles R. *111-8 et R. *111-10 ne modifient pas le statut légal des
 terrains, ouvrages et matériels en ce qui concerne la police de leur conservation. Sous réserve des dispositions du présent
 article, les pouvoirs du directeur du port autonome, en matière domaniale, sont ceux dévolus par les règlements en vigueur
 aux directeurs des ports à caractère national.
+
+Le port autonome a le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de
+l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de
+l'article 3 de la loi n° 94-631 du 25 juillet 1994.
 
 Les conditions techniques et financières des autorisations d'occupation du domaine public sont arrêtées par le conseil
 d'administration.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-934 1965-11-08 art. 32
-
 _Codifié par_:
 
   - Décret n°78-488 1978-03-22
 
-_Modifié par_:
-
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-
 _Cite_:
 
+  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+  - Code du domaine de l'Etat - art. R57-4 (M)
+  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
   - Code des ports maritimes R111-8, R111-10
+
+_Modifié par_:
+
+  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
 
 
 #### Chapitre IV : Contrôle.<a id=64></a>
@@ -6481,6 +6484,34 @@ _Modifié par_:
   - Décret n°83-1244 du 30 décembre 1983 - art. 4 () JORF 3 janvier 1984
 
 
+###### Article R*122-11-1
+
+Les concessionnaires d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat ont le pouvoir de
+délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres d'occupation du
+domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25
+juillet 1994.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Cite_:
+
+  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+  - Code du domaine de l'Etat - art. R57-4 (M)
+  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+_Créé par_:
+
+  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
+
+_Abrogé par_:
+
+  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+
+
 ##### Sous-section 3 : Outillages privés autorisés avec obligation de service public.<a id=82></a>
 
 ###### Article R*122-12
@@ -6840,6 +6871,30 @@ _Modifié par_:
 
   - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
   - Décret n°83-1244 du 30 décembre 1983 - art. 6 () JORF 3 janvier 1984
+
+
+###### Article R132-3
+
+Les concessionnaires d'installations portuaires de plaisance situées dans des ports relevant de la compétence de l'Etat ont
+le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4 du code du domaine de l'Etat, les titres
+d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 dudit code et de l'article 3 de la loi
+n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Cite_:
+
+  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+  - Code du domaine de l'Etat - art. R57-4 (M)
+  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+_Créé par_:
+
+  - Décret n°96-1058 du 2 décembre 1996 - art. 2 () JORF 10 décembre 1996
 
 
 #### Chapitre III : Autorisations d'outillages privés avec obligation de service public.<a id=87></a>
