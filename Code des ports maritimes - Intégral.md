@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-07-01
 ## Contenu: 
   - [Partie législative (art. L101-1 à L601-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L101-1 à L161-1)](#2)
@@ -40,8 +40,8 @@ Version Consolidée au 2006-01-06
       - [Titre Ier : Police du plan d'eau. (art. L311-1 à L311-4)](#37)
       - [Titre II : Sûreté portuaire. (art. L321-1 à L321-8)](#38)
       - [Titre III : Police de la grande voirie. (art. L331-1 à L334-1)](#39)
-        - [Chapitre Ier : Repression des atteintes au domaine public portuaire. (art. L331-1 à L331-3)](#40)
-        - [Chapitre II : Conservation du domaine public portuaire. (art. L332-1 à L332-2)](#41)
+        - [Chapitre Ier : Repression des atteintes au domaine public des ports maritimes. (art. L331-1 à L331-3)](#40)
+        - [Chapitre II : Conservation du domaine public des ports maritimes. (art. L332-1 à L332-2)](#41)
         - [Chapitre III :Exploitation du port. (art. L333-1 à L333-2)](#42)
         - [Chapitre IV : Usage du plan d'eau. (art. L334-1)](#43)
       - [Titre IV : Dispositions pénales. (art. L341-1 à L346-2)](#44)
@@ -2300,7 +2300,7 @@ _Nouveaux textes_:
 
 ### Titre III : Police de la grande voirie.<a id=39></a>
 
-#### Chapitre Ier : Repression des atteintes au domaine public portuaire.<a id=40></a>
+#### Chapitre Ier : Repression des atteintes au domaine public des ports maritimes.<a id=40></a>
 
 ###### Article L331-1
 
@@ -2314,11 +2314,11 @@ bonne utilisation du domaine public, tels que les occupations sans titre.
 
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
 
 _Modifié par_:
 
-  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 _Cité par_:
 
@@ -2329,6 +2329,14 @@ _Cité par_:
   - Code des ports maritimes - art. L331-3 (M)
   - Code rural - art. L241-15 (Ab)
   - Code rural - art. L242-26 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5337-1 (V)
 
 
 ###### Article L331-2
@@ -2360,7 +2368,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5337-2 (V)
 
 _Cité par_:
 
@@ -2373,8 +2389,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des ports maritimes - art. L303-3 (V)
-  - Code des ports maritimes - art. L303-4 (V)
+  - Code des ports maritimes - art. L303-3
+  - Code des ports maritimes - art. L303-4
 
 
 ###### Article L331-3
@@ -2391,14 +2407,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5337-3 (V)
 
 _Cite_:
 
-  - Code des ports maritimes - art. L345-6 (V)
+  - Code des ports maritimes - art. L345-6
 
 
-#### Chapitre II : Conservation du domaine public portuaire.<a id=41></a>
+#### Chapitre II : Conservation du domaine public des ports maritimes.<a id=41></a>
 
 ###### Article L332-1
 
@@ -2416,7 +2440,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5335-1 (V)
+  - Code des transports - art. L5335-2 (V)
 
 _Cité par_:
 
@@ -2435,11 +2468,15 @@ Le fait de jeter dans les eaux du port tous déchets, objets, terre, matériaux 
 
 _Codifié par_:
 
-  - Décret n°78-487 1978-03-22
+  - Décret n°78-487 du 22 mars 1978
 
 _Modifié par_:
 
-  - Ordonnance n°2005-898 du 2 août 2005 - art. 1 () JORF 3 août 2005
+  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 _Cité par_:
 
