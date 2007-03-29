@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2007-03-23
+Version Consolidée au 2007-03-30
 ## Contenu: 
   - [Partie législative (art. L101-1 à L601-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L101-1 à L161-1)](#2)
@@ -130,79 +130,99 @@ Version Consolidée au 2007-03-23
       - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-2)](#127)
     - [Livre III : Police des ports maritimes. (art. R*311-1 à R*353-4)](#128)
       - [Titre Ier : Officiers, officiers adjoints et surveillants de port. (art. R*311-1 à R*311-21)](#129)
-      - [Titre II : Polices de la conservation et de l'exploitation. (art. R*322-2 à R*326-7)](#130)
-        - [Chapitre II : Conservation du port proprement dit. (art. R*322-2)](#131)
-        - [Chapitre III : Exploitation du port. (art. R*323-1 à R*323-10)](#132)
-        - [Chapitre IV : Sûreté portuaire. (art. R*324-1 à R*324-5)](#133)
-        - [Chapitre V : Déchets d'exploitation et résidus de cargaison des navires. (art. R*325-1 à R*325-3)](#134)
-        - [Chapitre VI : Chargement et déchargement des navires vraquiers (art. R*326-1 à R*326-7)](#135)
-      - [Titre III : Polices du balisage et des matières dangereuses ou infectes. (art. R*331-1 à R*332-1)](#136)
-        - [Chapitre Ier : Balisage. (art. R*331-1 à R*331-2)](#137)
-        - [Chapitre II : Matières dangereuses ou infectes. (art. R*332-1)](#138)
-      - [Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses. (art. R*341-1 à R*341-7)](#139)
-      - [Titre V : Règlements de police. (art. R*351-1 à R*353-4)](#140)
-        - [Chapitre Ier : Ports de commerce et ports de pêche. (art. R*351-1 à R*351-2)](#141)
-        - [Chapitre II : Ports de plaisance. (art. R*352-1)](#142)
-        - [Chapitre III : Dispositions communes. (art. R*353-1 à R*353-4)](#143)
-    - [Livre IV : Voies ferrées des quais (art. R*411-4 à R**461-3)](#144)
-      - [Titre Ier : Dispositions générales. (art. R*411-4 à R411-3)](#145)
-      - [Titre II : Etablissement, entretien et exploitation de la voie ferrée. (art. R**421-2 à R*421-3)](#146)
-      - [Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains. (art. R**431-1 à R**431-6)](#147)
-      - [Titre IV : Perception des taxes et des frais accessoires. (art. R**441-1 à R**441-3)](#148)
-      - [Titre V : Police et surveillance. (art. R**451-1 à R**451-11)](#149)
-      - [Titre VI : Dispositions diverses. (art. R**461-1 à R**461-3)](#150)
-    - [Livre V : Régime du travail dans les ports maritimes. (art. R511-1 à R531-1)](#151)
-      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R511-1 à R511-4)](#152)
-      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R*521-1 à R521-8)](#153)
-      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#154)
-    - [Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements. (art. R*611-1 à R*631-6)](#155)
-      - [Titre Ier : Aménagement et exploitation des ports maritimes. (art. R*611-1 à R*614-1)](#156)
-        - [Chapitre Ier : Aménagement et organisation. (art. R*611-1 à R*611-4)](#157)
-        - [Chapitre II : Tarifs. (art. R*612-1 à R*612-3)](#158)
-        - [Chapitre III : Délimitation. (art. R*613-1)](#159)
-        - [Chapitre IV : Dispositions communes. (art. R*614-1)](#160)
-      - [Titre II : Conseils portuaires. (art. R*621-1 à R*623-4)](#161)
-        - [Chapitre Ier : Dispositions relatives aux ports départementaux. (art. R*621-1 à R*621-4)](#162)
-        - [Chapitre II : Dispositions relatives aux ports communaux. (art. R*622-1 à R*622-4)](#163)
-        - [Chapitre III : Dispositions communes. (art. R*623-1 à R*623-4)](#164)
-      - [Titre III : Domaine public portuaire. (art. R*631-1 à R*631-6)](#165)
-        - [Chapitre unique. (art. R*631-1 à R*631-6)](#166)
-  - [Annexes (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#167)
-    - [Règlement général de police des ports maritimes de commerce et de pêche (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#168)
-      - [Définitions. (art. Annexe à l'article R*351-1, art. 1)](#169)
-      - [Désignation des postes à quai. (art. Annexe à l'article R*351-1, art. 2)](#170)
-      - [Admission des bâtiments dans le port. (art. Annexe à l'article R*351-1, art. 3)](#171)
-      - [Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès. (art. Annexe à l'article R*351-1, art. 4)](#172)
-      - [Déclaration d'entrée et de sortie. (art. Annexe à l'article R*351-1, art. 5)](#173)
-      - [Bâtiments de pêche, de plaisance, bateaux. (art. Annexe à l'article R*351-1, art. 6)](#174)
-      - [Bâtiments militaires français et étrangers. (art. Annexe à l'article R*351-1, art. 7)](#175)
-      - [Mouillage et relevage des ancres. (art. Annexe à l'article R*351-1, art. 8)](#176)
-      - [Mouvement des bâtiments. (art. Annexe à l'article R*351-1, art. 9)](#177)
-      - [Amarrage. (art. Annexe à l'article R*351-1, art. 10)](#178)
-      - [Déplacements sur ordre. (art. Annexe à l'article R*351-1, art. 11)](#179)
-      - [Personnel à maintenir à bord. (art. Annexe à l'article R*351-1, art. 12)](#180)
-      - [Manoeuvres de chasse, vidange, pompage. (art. Annexe à l'article R*351-1, art. 13)](#181)
-      - [Affectations des quais (art. Annexe à l'article R*351-1, art. 14)](#182)
-        - [Durée des opérations commerciales. (art. Annexe à l'article R*351-1, art. 14)](#183)
-      - [Durée d'occupation des postes, quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 15)](#184)
-      - [Conservation du plan d'eau et des profondeurs des bassins. (art. Annexe à l'article R*351-1, art. 16)](#185)
-      - [Propreté des eaux du port. (art. Annexe à l'article R*351-1, art. 17)](#186)
-      - [Ramonage et incinération des déchets. (art. Annexe à l'article R*351-1, art. 18)](#187)
-      - [Marchandises infectes. (art. Annexe à l'article R*351-1, art. 19)](#188)
-      - [Nettoyage des quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 20)](#189)
-      - [Restrictions concernant l'usage du feu. (art. Annexe à l'article R*351-1, art. 21)](#190)
-      - [Interdiction de fumer. (art. Annexe à l'article R*351-1, art. 22)](#191)
-      - [Consignes de lutte contre les sinistres. (art. Annexe à l'article R*351-1, art. 23)](#192)
-      - [Réparations et essais des machines. (art. Annexe à l'article R*351-1, art. 24)](#193)
-      - [Mise à l'eau des bâtiments. (art. Annexe à l'article R*351-1, art. 25)](#194)
-      - [Epaves et bâtiments vétustes ou désarmés. (art. Annexe à l'article R*351-1, art. 26)](#195)
-      - [Conservation du domaine public. (art. Annexe à l'article R*351-1, art. 27)](#196)
-      - [Accès des personnes sur le port. (art. Annexe à l'article R*351-1, art. 28)](#197)
-      - [Circulation et stationnement des véhicules. (art. Annexe à l'article R*351-1, art. 29)](#198)
-      - [Dépôt des marchandises. (art. Annexe à l'article R*351-1, art. 30)](#199)
-      - [Rangement des appareils de manutention. (art. Annexe à l'article R*351-1, art. 31)](#200)
-      - [Exécution des travaux et d'ouvrages. (art. Annexe à l'article R*351-1, art. 32)](#201)
-      - [Manoeuvres des amarres. (art. Annexe à l'article R*351-1, art. 33)](#202)
+      - [Titre II : Polices de la conservation et de l'exploitation. (art. R321-1 à R*326-7)](#130)
+        - [Chapitre Ier : Sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-52)](#131)
+          - [Section 1 : Organisation administrative. (art. R321-1 à R321-6)](#132)
+            - [Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-3)](#133)
+            - [Sous-section 2 : Comités locaux de sûreté portuaire. (art. R321-4 à R321-5)](#134)
+            - [Sous-section 3 : Compétences du représentant de l'Etat dans le département. (art. R321-6)](#135)
+          - [Section 2 : Organismes de sûreté habilités. (art. R321-7 à R321-14)](#136)
+            - [Sous-section 1 : Habilitation des organismes de sûreté. (art. R321-7 à R321-11)](#137)
+            - [Sous-section 2 : Fonctions des organismes de sûreté habilités. (art. R321-12 à R321-14)](#138)
+          - [Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-15 à R321-30)](#139)
+            - [Sous-section 1 : Champ d'application. (art. R321-15 à R321-16)](#140)
+            - [Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire. (art. R321-17 à R321-22)](#141)
+            - [Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-23 à R321-30)](#142)
+          - [Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint. (art. R321-31 à R321-47)](#143)
+            - [Sous-section 1 : Création des zones d'accès restreint. (art. R321-31 à R321-32)](#144)
+            - [Sous-section 2 : Accès aux zones d'accès restreint. (art. R321-33 à R321-40)](#145)
+            - [Sous-section 3 : Equipements et systèmes de sûreté. (art. R321-41)](#146)
+            - [Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté. (art. R321-42 à R321-47)](#147)
+          - [Section 5 : Sûreté des plans d'eau portuaires. (art. R321-48)](#148)
+          - [Section 6 : Mesures d'exécution et sanctions. (art. R321-49 à R321-52)](#149)
+            - [Sous-section 1 : Sanctions administratives. (art. R321-49 à R321-51)](#150)
+            - [Sous-section 2 : Sanctions pénales. (art. R321-52)](#151)
+        - [Chapitre II : Conservation du port proprement dit. (art. R*322-2)](#152)
+        - [Chapitre III : Exploitation du port. (art. R*323-1 à R*323-10)](#153)
+        - [Chapitre V : Déchets d'exploitation et résidus de cargaison des navires. (art. R*325-1 à R*325-3)](#154)
+        - [Chapitre VI : Chargement et déchargement des navires vraquiers (art. R*326-1 à R*326-7)](#155)
+      - [Titre III : Polices du balisage et des matières dangereuses ou infectes. (art. R*331-1 à R*332-1)](#156)
+        - [Chapitre Ier : Balisage. (art. R*331-1 à R*331-2)](#157)
+        - [Chapitre II : Matières dangereuses ou infectes. (art. R*332-1)](#158)
+      - [Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses. (art. R*341-1 à R*341-7)](#159)
+      - [Titre V : Règlements de police. (art. R*351-1 à R*353-4)](#160)
+        - [Chapitre Ier : Ports de commerce et ports de pêche. (art. R*351-1 à R*351-2)](#161)
+        - [Chapitre II : Ports de plaisance. (art. R*352-1)](#162)
+        - [Chapitre III : Dispositions communes. (art. R*353-1 à R*353-4)](#163)
+    - [Livre IV : Voies ferrées des quais (art. R*411-4 à R**461-3)](#164)
+      - [Titre Ier : Dispositions générales. (art. R*411-4 à R411-3)](#165)
+      - [Titre II : Etablissement, entretien et exploitation de la voie ferrée. (art. R**421-2 à R*421-3)](#166)
+      - [Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains. (art. R**431-1 à R**431-6)](#167)
+      - [Titre IV : Perception des taxes et des frais accessoires. (art. R**441-1 à R**441-3)](#168)
+      - [Titre V : Police et surveillance. (art. R**451-1 à R**451-11)](#169)
+      - [Titre VI : Dispositions diverses. (art. R**461-1 à R**461-3)](#170)
+    - [Livre V : Régime du travail dans les ports maritimes. (art. R511-1 à R531-1)](#171)
+      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R511-1 à R511-4)](#172)
+      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R*521-1 à R521-8)](#173)
+      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#174)
+    - [Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements. (art. R*611-1 à R*631-6)](#175)
+      - [Titre Ier : Aménagement et exploitation des ports maritimes. (art. R*611-1 à R*614-1)](#176)
+        - [Chapitre Ier : Aménagement et organisation. (art. R*611-1 à R*611-4)](#177)
+        - [Chapitre II : Tarifs. (art. R*612-1 à R*612-3)](#178)
+        - [Chapitre III : Délimitation. (art. R*613-1)](#179)
+        - [Chapitre IV : Dispositions communes. (art. R*614-1)](#180)
+      - [Titre II : Conseils portuaires. (art. R*621-1 à R*623-4)](#181)
+        - [Chapitre Ier : Dispositions relatives aux ports départementaux. (art. R*621-1 à R*621-4)](#182)
+        - [Chapitre II : Dispositions relatives aux ports communaux. (art. R*622-1 à R*622-4)](#183)
+        - [Chapitre III : Dispositions communes. (art. R*623-1 à R*623-4)](#184)
+      - [Titre III : Domaine public portuaire. (art. R*631-1 à R*631-6)](#185)
+        - [Chapitre unique. (art. R*631-1 à R*631-6)](#186)
+  - [Annexes (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#187)
+    - [Règlement général de police des ports maritimes de commerce et de pêche (art. Annexe à l'article R*351-1, art. 1 à Annexe à l'article R*351-1, art. 33)](#188)
+      - [Définitions. (art. Annexe à l'article R*351-1, art. 1)](#189)
+      - [Désignation des postes à quai. (art. Annexe à l'article R*351-1, art. 2)](#190)
+      - [Admission des bâtiments dans le port. (art. Annexe à l'article R*351-1, art. 3)](#191)
+      - [Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès. (art. Annexe à l'article R*351-1, art. 4)](#192)
+      - [Déclaration d'entrée et de sortie. (art. Annexe à l'article R*351-1, art. 5)](#193)
+      - [Bâtiments de pêche, de plaisance, bateaux. (art. Annexe à l'article R*351-1, art. 6)](#194)
+      - [Bâtiments militaires français et étrangers. (art. Annexe à l'article R*351-1, art. 7)](#195)
+      - [Mouillage et relevage des ancres. (art. Annexe à l'article R*351-1, art. 8)](#196)
+      - [Mouvement des bâtiments. (art. Annexe à l'article R*351-1, art. 9)](#197)
+      - [Amarrage. (art. Annexe à l'article R*351-1, art. 10)](#198)
+      - [Déplacements sur ordre. (art. Annexe à l'article R*351-1, art. 11)](#199)
+      - [Personnel à maintenir à bord. (art. Annexe à l'article R*351-1, art. 12)](#200)
+      - [Manoeuvres de chasse, vidange, pompage. (art. Annexe à l'article R*351-1, art. 13)](#201)
+      - [Affectations des quais (art. Annexe à l'article R*351-1, art. 14)](#202)
+        - [Durée des opérations commerciales. (art. Annexe à l'article R*351-1, art. 14)](#203)
+      - [Durée d'occupation des postes, quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 15)](#204)
+      - [Conservation du plan d'eau et des profondeurs des bassins. (art. Annexe à l'article R*351-1, art. 16)](#205)
+      - [Propreté des eaux du port. (art. Annexe à l'article R*351-1, art. 17)](#206)
+      - [Ramonage et incinération des déchets. (art. Annexe à l'article R*351-1, art. 18)](#207)
+      - [Marchandises infectes. (art. Annexe à l'article R*351-1, art. 19)](#208)
+      - [Nettoyage des quais et terre-pleins. (art. Annexe à l'article R*351-1, art. 20)](#209)
+      - [Restrictions concernant l'usage du feu. (art. Annexe à l'article R*351-1, art. 21)](#210)
+      - [Interdiction de fumer. (art. Annexe à l'article R*351-1, art. 22)](#211)
+      - [Consignes de lutte contre les sinistres. (art. Annexe à l'article R*351-1, art. 23)](#212)
+      - [Réparations et essais des machines. (art. Annexe à l'article R*351-1, art. 24)](#213)
+      - [Mise à l'eau des bâtiments. (art. Annexe à l'article R*351-1, art. 25)](#214)
+      - [Epaves et bâtiments vétustes ou désarmés. (art. Annexe à l'article R*351-1, art. 26)](#215)
+      - [Conservation du domaine public. (art. Annexe à l'article R*351-1, art. 27)](#216)
+      - [Accès des personnes sur le port. (art. Annexe à l'article R*351-1, art. 28)](#217)
+      - [Circulation et stationnement des véhicules. (art. Annexe à l'article R*351-1, art. 29)](#218)
+      - [Dépôt des marchandises. (art. Annexe à l'article R*351-1, art. 30)](#219)
+      - [Rangement des appareils de manutention. (art. Annexe à l'article R*351-1, art. 31)](#220)
+      - [Exécution des travaux et d'ouvrages. (art. Annexe à l'article R*351-1, art. 32)](#221)
+      - [Manoeuvres des amarres. (art. Annexe à l'article R*351-1, art. 33)](#222)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes.<a id=2></a>
@@ -11911,7 +11931,2169 @@ _Anciens textes_:
 
 ### Titre II : Polices de la conservation et de l'exploitation.<a id=130></a>
 
-#### Chapitre II : Conservation du port proprement dit.<a id=131></a>
+#### Chapitre Ier : Sûreté du transport maritime et des opérations portuaires.<a id=131></a>
+
+##### Section 1 : Organisation administrative.<a id=132></a>
+
+##### Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires.<a id=133></a>
+
+###### Article R321-1
+
+Il est institué un groupe interministériel de sûreté du transport maritime et des opérations portuaires, présidé par le
+ministre chargé des transports. Outre son président, ce groupe comprend douze membres à raison de :
+
+- deux désignés par le Premier ministre ;
+
+- deux désignés par le ministre chargé des transports ;
+
+- deux désignés par le ministre de l'intérieur ;
+
+- deux désignés par le ministre de la défense ;
+
+- un désigné par le ministre chargé des douanes ;
+
+- un désigné par le ministre de la justice ;
+
+- un désigné par le ministre chargé de l'outre-mer ;
+
+- un désigné par le ministre des affaires étrangères.
+
+Le président du groupe interministériel peut être suppléé par l'un des membres désignés par le ministre chargé des
+transports. Le secrétariat du groupe interministériel est assuré par les services du ministre chargé des transports.
+
+Sur proposition de son président, le groupe peut entendre toute personne qualifiée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-1 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-2
+
+Le groupe interministériel de sûreté du transport maritime et des opérations portuaires :
+
+- propose aux ministres compétents les orientations générales de la politique nationale de sûreté du transport maritime et
+des opérations portuaires, ainsi que toutes dispositions législatives ou réglementaires et toutes actions permettant
+d'assurer et de renforcer la sûreté des navires et des ports maritimes ;
+
+- formule un avis sur toutes questions de sa compétence qui lui sont soumises par les ministres concernés ;
+
+- oriente l'action des comités locaux de sûreté portuaire institués à l'article R. 321-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+  - Code des ports maritimes - art. R321-2 (Ab)
+
+
+###### Article R321-3
+
+Le groupe interministériel de sûreté du transport maritime et des opérations portuaires se réunit au moins deux fois par an
+et, le cas échéant, à la demande de l'un de ses membres, sur convocation de son président qui fixe l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-3 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Sous-section 2 : Comités locaux de sûreté portuaire.<a id=134></a>
+
+###### Article R321-4
+
+Dans chacun des ports mentionnés à l'article R. 321-15, un comité local de sûreté portuaire regroupe, sous la présidence du
+représentant de l'Etat dans le département, les membres suivants :
+
+- les chefs des services déconcentrés de l'Etat dont l'action concourt à la sûreté du transport maritime et des opérations
+portuaires ;
+
+- le préfet maritime ou le délégué du Gouvernement pour l'action de l'Etat en mer ;
+
+- le commandant de zone maritime pour les ports métropolitains ou le commandant supérieur des forces armées pour les ports
+d'outre-mer ;
+
+- l'autorité portuaire et l'agent de sûreté portuaire mentionné à l'article R. 321-22 ;
+
+- l'autorité investie du pouvoir de police portuaire ;
+
+- le gestionnaire du port le cas échéant.
+
+Les délibérations du comité local de sûreté portuaire et les informations dont ses membres ont connaissance à l'occasion de
+leurs travaux sont secrètes.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité local de
+sûreté portuaire).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Comité local de sûreté portuaire).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
+  - Décret n°2014-589 du 6 juin 2014 - art. (M)
+  - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-4 (M)
+
+
+###### Article R321-5
+
+Le comité local de sûreté portuaire émet un avis sur :
+
+- le projet d'évaluation de la sûreté portuaire et le projet de plan de sûreté portuaire ;
+
+- les projets d'évaluation de la sûreté des installations portuaires et les projets de plans de sûreté des installations
+portuaires ;
+
+- les projets de travaux de construction et de modernisation des infrastructures et des équipements portuaires, lorsque le
+représentant de l'Etat dans le département estime qu'ils présentent des enjeux en matière de sûreté ;
+
+- sauf en cas d'urgence, les mesures de sûreté qu'il est proposé de prendre dans la zone maritime et fluviale de régulation
+définie à l'article L. 301-1.
+
+Le comité local de sûreté portuaire peut également être consulté par le représentant de l'Etat dans le département en vue :
+
+- d'émettre un avis sur toutes les questions relatives à la sûreté dans la zone portuaire de sûreté définie à l'article L.
+321-1 ;
+
+- de proposer toute mesure concourant au renforcement du niveau de vigilance dans le port, notamment en ce qui concerne les
+actions d'information, de sensibilisation, les formations, les exercices et les entraînements ;
+
+- de proposer toute mesure de coordination entre les services publics compétents en matière de sûreté et les organismes
+privés s'il y a lieu.
+
+**Nota:**
+
+Décret n° 2009-620 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Comité local de
+sûreté portuaire).
+
+Décret n° 2014-589 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Comité local de sûreté portuaire).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2009-620 du 6 juin 2009 - art. Annexe (VD)
+  - Décret n°2014-589 du 6 juin 2014 - art. (M)
+  - Décret n°2015-622 du 5 juin 2015 - art. Annexe 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. L301-1
+  - Code des ports maritimes - art. L321-1
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-5 (M)
+
+
+##### Sous-section 3 : Compétences du représentant de l'Etat dans le département.<a id=135></a>
+
+###### Article R321-6
+
+Lorsque l'emprise d'un port s'étend sur plusieurs départements, un arrêté du ministre de l'intérieur pris après avis du
+ministre chargé des transports désigne le préfet de département qui exerce les prérogatives dévolues par le présent chapitre
+au représentant de l'Etat dans le département. Cet arrêté prévoit les modalités d'information des préfets des autres
+départements sur lesquels s'étend le port.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 18 juin 2008 - art. 7 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R*5332-6 (M)
+
+
+##### Section 2 : Organismes de sûreté habilités.<a id=136></a>
+
+##### Sous-section 1 : Habilitation des organismes de sûreté.<a id=137></a>
+
+###### Article R321-7
+
+Il est institué une commission d'habilitation des organismes de sûreté mentionnés à l'article L. 321-6 du code des ports
+maritimes et à l'article 2-2 de la loi n° 83-581 du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer, l'habitabilité
+à bord des navires et la prévention de la pollution.
+
+Cette commission est présidée par le ministre chargé des transports.
+
+Outre son président, la commission comprend sept membres à raison de :
+
+- deux désignés par le ministre chargé des transports ;
+
+- deux désignés par le ministre de l'intérieur ;
+
+- deux désignés par le ministre de la défense ;
+
+- un désigné par le ministre chargé des douanes.
+
+Le président de la commission peut être suppléé par l'un des membres désignés par le ministre chargé des transports. Sa voix
+est prépondérante en cas de partage.
+
+Le secrétariat de la commission d'habilitation est assuré par les services du ministre chargé des transports.
+
+Chacun des membres peut se faire assister des personnes de son choix.
+
+Sur proposition de son président, la commission d'habilitation peut entendre toute personne qualifiée.
+
+La commission d'habilitation se réunit sur convocation de son président qui établit l'ordre du jour de la réunion.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Cite_:
+
+  - Loi n°83-581 du 5 juillet 1983 - art. 2-2
+  - Code des ports maritimes - art. L321-6
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-8 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-8
+
+La demande d'habilitation en qualité d'organisme de sûreté est adressée au ministre chargé des transports selon des modalités
+définies par arrêté de ce ministre.
+
+La demande précise la ou les catégories d'installations portuaires ou de navires pour lesquelles l'organisme demande
+l'habilitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-9 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-9
+
+L'habilitation en qualité d'organisme de sûreté est délivrée par arrêté du ministre chargé des transports pris après avis de
+la commission d'habilitation instituée à l'article R. 321-7, en fonction de critères définis par un arrêté de ce ministre.
+
+L'habilitation est délivrée pour une durée maximale de cinq ans.
+
+La décision d'habilitation précise la ou les catégories d'installations portuaires ou de navires pour lesquelles l'organisme
+de sûreté est habilité. Elle est notifiée à l'organisme et publiée au Journal officiel de la République française.
+
+L'organisme de sûreté habilité informe le ministre chargé des transports de toute modification des informations mentionnées
+dans sa demande d'habilitation. Les modifications sont communiquées à la commission d'habilitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-10 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-10
+
+Les membres de la commission d'habilitation et les personnes habilitées à cet effet par le ministre chargé des transports ont
+accès aux locaux de tout organisme de sûreté habilité, à l'exception des parties à usage exclusif d'habitation et des locaux
+syndicaux, pour y procéder aux contrôles permettant de vérifier que l'organisme continue de répondre aux critères ayant
+justifié son habilitation. Celui-ci fournit à la demande tout document utile au contrôle et à l'évaluation de son activité.
+
+Le coût de ces contrôles est à la charge de l'organisme de sûreté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-11 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-11
+
+L'habilitation peut être retirée par le ministre chargé des transports, après avis ou sur proposition de la commission
+d'habilitation, lorsque l'organisme de sûreté ne répond plus aux critères d'habilitation ou ne respecte pas les prescriptions
+de la présente section. L'organisme est préalablement avisé de la mesure de retrait envisagée et dispose d'un délai d'un mois
+pour présenter ses observations.
+
+En cas d'urgence, l'habilitation peut être suspendue sans préavis pour une durée maximale de deux mois par une décision
+motivée du ministre chargé des transports.
+
+Les décisions de retrait et de suspension d'habilitation sont notifiées et publiées dans les mêmes conditions que les
+décisions d'habilitation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-12 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Sous-section 2 : Fonctions des organismes de sûreté habilités.<a id=138></a>
+
+###### Article R321-12
+
+I. - L'Etat peut confier aux organismes de sûreté habilités la réalisation pour son compte des missions d'évaluation et de
+contrôles prévus au présent chapitre.
+
+II. - Les autorités portuaires, les exploitants d'installations portuaires et les armateurs de navires peuvent confier aux
+organismes de sûreté habilités l'établissement pour leur compte des évaluations de la sûreté et, sauf en ce qui concerne les
+plans d'eau de la zone portuaire de sûreté, des plans de sûreté définis à la section 3 du présent chapitre ainsi que des
+évaluations de la sûreté et des plans de sûreté des navires, ou leur demander d'y participer.
+
+Un organisme qui a participé à l'établissement de l'évaluation de la sûreté portuaire ne peut participer à l'établissement du
+plan de sûreté portuaire correspondant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Cité par_:
+
+  - Décret n°2005-1124 du 6 septembre 2005 - art. 1 (VT)
+  - Code de la sécurité intérieure - art. R114-2 (M)
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-13 (M)
+  - Code des transports - art. R5332-14 (M)
+  - Code des transports - art. R5332-15 (M)
+
+
+###### Article R321-13
+
+L'organisme de sûreté habilité adresse au ministre chargé des transports un rapport d'activité annuel dont le cadre est fixé
+par arrêté de ce ministre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 30 septembre 2010 - art. 1 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-16 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-14
+
+L'organisme de sûreté habilité garantit la confidentialité des faits, informations et documents dont il a connaissance dans
+l'exercice de ses missions.
+
+Il ne confie l'exécution pour son compte des missions définies à l'article R. 321-12 qu'à des personnes agréées par le
+représentant de l'Etat dans le département. Cet agrément, valable sur l'ensemble du territoire national, est demandé par
+l'organisme de sûreté habilité qui établit, pour chaque agent, un dossier dont la composition et les modalités de
+transmission sont fixées par un arrêté conjoint des ministres de la justice, de l'intérieur, de la défense et des ministres
+chargés des transports et des douanes. Cet arrêté définit également la procédure d'agrément. L'agrément est délivré à l'issue
+d'une enquête administrative pour une durée qui ne peut excéder cinq ans.
+
+L'agrément ne peut être accordé en cas de condamnation criminelle ou correctionnelle incompatible avec les fonctions à
+exercer. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du
+bulletin n° 2 du casier judiciaire au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de
+son équivalent, s'agissant des ressortissants étrangers, auprès du casier judiciaire de l'Etat de nationalité selon les
+dispositions des conventions internationales en vigueur.
+
+L'agrément peut être refusé, retiré ou suspendu par le représentant de l'Etat dans le département lorsque la moralité ou le
+comportement de l'intéressé ne présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité
+publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice des fonctions prévues dans la
+présente sous-section.
+
+Lorsque les conditions de sa délivrance ne sont plus réunies, l'agrément est retiré par le représentant de l'Etat dans le
+département après que l'intéressé a été mis à même de présenter des observations.
+
+En cas d'urgence, l'agrément peut être suspendu sans préavis par le représentant de l'Etat dans le département pour une durée
+maximale de deux mois.
+
+Les décisions d'agrément et celles de retrait ou de suspension d'agrément sont notifiées à l'intéressé et à l'organisme de
+sûreté habilité.
+
+L'agrément ouvre à son détenteur les mêmes droits que l'habilitation mentionnée à l'article R. 321-36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+  - Arrêté du 15 avril 2009 - art. 1 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-17 (M)
+
+
+##### Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires.<a id=139></a>
+
+##### Sous-section 1 : Champ d'application.<a id=140></a>
+
+###### Article R321-15
+
+Les dispositions de la présente section s'appliquent dans les ports soumis au règlement (CE) n° 725/2004 du Parlement
+européen et du Conseil du 31 mars 2004 relatif à l'amélioration de la sûreté des navires et des installations portuaires. Le
+ministre chargé des transports en fixe la liste par arrêté.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 10 avril 2007 - art. 1 (M)
+  - Arrêté du 1er mai 2009 (Ab)
+  - Arrêté du 27 juillet 2009 (Ab)
+  - Arrêté du 1er septembre 2009 (Ab)
+  - Arrêté du 15 juillet 2019 - art. 4 (V)
+  - Code des ports maritimes - art. R321-6-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-18 (M)
+
+_Cite_:
+
+  - Règlement CE 725/2004 2004-03-31
+
+
+###### Article R321-16
+
+La zone portuaire de sûreté instituée par l'article L. 321-1 est délimitée par arrêté du représentant de l'Etat dans le
+département après avis de l'autorité portuaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-19 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. L321-1
+
+
+##### Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire.<a id=141></a>
+
+###### Article R321-17
+
+L'autorité portuaire prend les mesures propres à assurer la sûreté des emprises terrestres dans la zone portuaire de sûreté
+en fonction du niveau de sûreté fixé par le Premier ministre en application du règlement (CE) n° 725/2004 du 31 mars 2004 du
+Parlement européen et du Conseil.
+
+L'autorité portuaire définit et met en oeuvre les mesures de sûreté dans les emprises terrestres qui n'appartiennent pas à
+une installation portuaire et coordonne la définition et la mise en oeuvre des mesures concernant ces installations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-20 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Règlement CE 725/2004 2004-03-31
+
+
+###### Article R321-18
+
+Une évaluation de la sûreté portuaire, portant sur la zone portuaire de sûreté ainsi que sur toute zone adjacente intéressant
+la sûreté du port, est établie par les services de l'Etat ou par un organisme de sûreté habilité, selon des modalités
+définies par un arrêté du ministre chargé des transports. Cette évaluation tient compte notamment de la directive nationale
+de sécurité prévue au chapitre IV du décret n° 2006-212 du 23 février 2006 relatif à la sécurité des activités d'importance
+vitale.
+
+L'évaluation est approuvée par arrêté conjoint du représentant de l'Etat dans le département et du préfet maritime ou du
+délégué du Gouvernement pour l'action de l'Etat en mer après avis du comité local de sûreté portuaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Cite_:
+
+  - Décret n°2006-212 du 23 février 2006
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. 1 (V)
+  - Arrêté du 22 avril 2008 - art. 5 (M)
+  - Arrêté du 22 avril 2008 - art. Annexe 1 (M)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-21 (M)
+
+
+###### Article R321-19
+
+A l'issue de l'évaluation de la sûreté portuaire, un plan de sûreté portuaire est établi par l'autorité portuaire selon des
+modalités définies par un arrêté du ministre chargé des transports. 
+
+Les éléments du plan relatifs aux plans d'eau de la zone portuaire de sûreté sont établis conjointement par l'autorité
+portuaire et par les services de l'Etat. 
+
+Le plan de sûreté portuaire détermine, pour chacun des niveaux de sûreté prévus par le règlement (CE) n° 725 / 2004 du 31
+mars 2004 du Parlement européen et du Conseil, les procédures à suivre, les mesures à mettre en place et les actions à mener
+en matière de sûreté. Il couvre l'ensemble de la zone portuaire de sûreté instituée par l'article L. 321-1. Si le port
+contient au moins un point d'importance vitale au sens du décret n° 2006-212 du 23 février 2006, le plan ou une partie de
+celui-ci tient lieu du plan particulier de protection du port prévu par ce décret par dérogation à la procédure définie à son
+article 28. Dans ce cas, la règle de protection fixée au dernier alinéa de l'article 18 du même décret ne fait pas obstacle à
+la communication au personnel du port de la partie du plan de sûreté portuaire contenant les informations et instructions
+opérationnelles que doit connaître ce personnel. 
+
+Le plan de sûreté portuaire est approuvé, après avis du comité local de sûreté portuaire, par un arrêté du représentant de
+l'Etat dans le département qui détermine les restrictions apportées à sa publicité. 
+
+Le représentant de l'Etat dans le département atteste, par une déclaration de conformité dont la durée de validité peut être
+inférieure à celle du plan de sûreté portuaire approuvé, que le respect par le port des dispositions législatives et
+réglementaires en matière de sûreté a été vérifié et que l'exploitation du port respecte le plan. 
+
+Le ministre chargé des transports ou le représentant de l'Etat dans le département peut vérifier à tout moment la conformité
+du plan de sûreté portuaire à la réglementation en vigueur ainsi que le degré de sûreté effectivement assuré dans le port, au
+moyen d'un audit, éventuellement inopiné, réalisé par les services de l'Etat ou par un organisme de sûreté
+habilité.L'autorité portuaire autorise les personnes chargées de l'audit à accéder à tous les équipements intéressant la
+sûreté du port ainsi qu'à l'ensemble des documents ayant trait, directement ou indirectement, à celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Cite_:
+
+  - Décret n°2006-212 du 23 février 2006
+  - Code des ports maritimes - art. L321-1
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. 8 (M)
+  - Arrêté du 2 juin 2008 - art. 3 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-22 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-20
+
+Le plan de sûreté portuaire est élaboré pour une durée de cinq ans. Il peut être modifié pendant sa période de validité sur
+instruction du ministre chargé des transports ou du représentant de l'Etat dans le département ou à l'initiative de
+l'autorité portuaire. Une modification ne peut faire courir un nouveau délai de validité de cinq ans qu'en cas d'approbation
+selon les mêmes modalités que le plan initial.
+
+Le plan est modifié ou complété lors de tout changement ayant des conséquences en matière de sûreté. Les projets de
+modifications ou de compléments sont portés à la connaissance du représentant de l'Etat dans le département, qui peut
+prescrire l'approbation du plan modifié ou complété selon les mêmes modalités que le plan initial si l'importance des
+modifications ou des compléments le justifie.
+
+En cas d'insuffisance majeure, le plan de sûreté portuaire fait l'objet d'une modification qui donne lieu à approbation selon
+les mêmes modalités que le plan initial. Si, après une mise en demeure non suivie d'effet, cette modification n'intervient
+pas, le représentant de l'Etat dans le département peut retirer l'approbation du plan.
+
+Lorsqu'il constate, éventuellement lors d'un audit, un défaut majeur de conformité de la sûreté du port, le représentant de
+l'Etat dans le département peut, après une mise en demeure non suivie d'effet, retirer la déclaration de conformité du port.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-23 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-21
+
+La mise en oeuvre du plan de sûreté portuaire donne lieu à des exercices et des entraînements organisés par l'autorité
+portuaire dans des conditions fixées par un arrêté conjoint des ministres des finances, de l'intérieur, de la défense et du
+ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-24 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-22
+
+L'autorité portuaire désigne parmi le personnel placé sous son autorité, pour une durée maximale de cinq ans renouvelable, un
+agent de sûreté chargé de préparer et de mettre en oeuvre le plan de sûreté portuaire. Si la zone portuaire de sûreté
+contient une zone d'importance vitale, cet agent exerce les fonctions de délégué pour la défense et la sécurité de cette zone
+par dérogation au III de l'article 29 du décret n° 2006-212 du 23 février 2006.
+
+L'agent de sûreté portuaire travaille en collaboration avec les agents de sûreté des installations portuaires mentionnés à
+l'article R. 321-29 afin de coordonner la mise en oeuvre du plan de sûreté portuaire avec celle des plans de sûreté des
+installations portuaires prévus à l'article R. 321-26.
+
+La désignation en qualité d'agent de sûreté portuaire est subordonnée à la possession d'un agrément délivré par le
+représentant de l'Etat dans le département dans les conditions définies ci-après et d'un certificat d'aptitude dont les
+conditions d'obtention et de délivrance sont définies par un arrêté du ministre chargé des transports.
+
+Il est mis fin aux fonctions de l'agent de sûreté portuaire lorsque l'une de ces conditions n'est plus remplie. Afin
+d'assurer la permanence des fonctions, l'autorité portuaire peut désigner un ou plusieurs suppléants qui sont agréés dans les
+mêmes conditions que l'agent de sûreté titulaire.
+
+L'agent de sûreté portuaire et ses suppléants garantissent la confidentialité des faits, informations et documents dont ils
+ont connaissance dans l'exercice de leurs missions, notamment de l'évaluation de la sûreté du port et des parties sensibles
+du plan de sûreté.
+
+L'agrément d'agent de sûreté portuaire ou de suppléant d'agent de sûreté portuaire est valable sur l'ensemble du territoire
+national. Il est demandé par l'autorité portuaire, qui établit, pour chaque agent, un dossier dont la composition et les
+modalités de transmission sont fixées par arrêté conjoint des ministres de la justice, de l'intérieur et de la défense et des
+ministres chargé des transports et chargé des douanes. Ce même arrêté définit en outre la procédure d'agrément. L'agrément
+est délivré, à l'issue d'une enquête administrative, pour une durée qui ne peut excéder cinq ans.
+
+L'agrément ne peut être accordé en cas de condamnation criminelle ou correctionnelle incompatible avec les fonctions à
+exercer. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du
+bulletin n° 2 du casier judiciaire au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de
+son équivalent, s'agissant des ressortissants étrangers, auprès du casier judiciaire de l'Etat de nationalité selon les
+dispositions des conventions internationales en vigueur.
+
+L'agrément peut être refusé, retiré ou suspendu par le représentant de l'Etat dans le département lorsque la moralité ou le
+comportement de l'intéressé ne présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité
+publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice d'une des fonctions prévues
+au présent article.
+
+Lorsque les conditions de sa délivrance ne sont plus réunies, l'agrément est retiré par le représentant de l'Etat dans le
+département après que l'intéressé a été mis à même de présenter des observations.
+
+En cas d'urgence, l'agrément peut être suspendu sans préavis par le représentant de l'Etat dans le département pour une durée
+maximale de deux mois.
+
+Les décisions d'agrément et celles de retrait ou de suspension d'agrément sont notifiées à l'intéressé et à l'autorité
+portuaire.
+
+L'agrément ouvre à son détenteur les mêmes droits que l'habilitation mentionnée à l'article R. 321-36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Cite_:
+
+  - Décret n°2006-212 du 23 février 2006
+  - Code des ports maritimes
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-25 (M)
+
+
+##### Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires.<a id=142></a>
+
+###### Article R321-23
+
+La liste des installations portuaires situées à l'intérieur de la zone portuaire de sûreté qui sont soumises aux dispositions
+de la présente sous-section est arrêtée pour chaque port par le représentant de l'Etat dans le département sur proposition de
+l'autorité portuaire. L'arrêté identifie l'exploitant, le périmètre et les principales caractéristiques physiques et
+fonctionnelles de chaque installation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-26 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-24
+
+L'exploitant de l'installation portuaire prend les mesures propres à assurer la sûreté de cette installation, en tenant
+compte notamment des prescriptions définies à la section 4 relative aux zones d'accès restreint. Ces mesures correspondent au
+niveau de sûreté fixé par le Premier ministre en application du règlement (CE) n° 725/2004 du 31 mars 2004 du Parlement
+européen et du Conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-27 (M)
+
+_Cite_:
+
+  - Règlement CE 725/2004 2004-03-31
+
+
+###### Article R321-25
+
+Une évaluation de la sûreté de l'installation portuaire est établie par les services de l'Etat ou par un organisme de sûreté
+habilité selon des modalités définies par un arrêté du ministre chargé des transports. Elle est approuvée par un arrêté du
+représentant de l'Etat dans le département après avis de l'autorité portuaire et du comité local de sûreté portuaire. L'avis
+de l'autorité portuaire est réputé favorable s'il n'est pas exprimé dans un délai de deux mois à compter de sa saisine par le
+représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 22 avril 2008 - art. 5 (M)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-28 (M)
+
+
+###### Article R321-26
+
+A l'issue de l'évaluation de la sûreté de l'installation portuaire, un plan de sûreté de cette installation est établi par
+l'exploitant de celle-ci selon des modalités définies par un arrêté du ministre chargé des transports. 
+
+Ce plan de sûreté est approuvé par un arrêté du représentant de l'Etat dans le département après avis de l'autorité portuaire
+et du comité local de sûreté portuaire.L'avis de l'autorité portuaire est réputé favorable s'il n'est pas exprimé dans un
+délai de deux mois à compter de sa saisine par le représentant de l'Etat dans le département. Si l'installation portuaire est
+qualifiée de point d'importance vitale en application de l'article 4 du décret n° 2006-212 du 23 février 2006, son plan de
+sûreté vaut plan particulier de protection par dérogation à la procédure prévue à l'article 28 de ce décret après mise en
+oeuvre des procédures décrites à la section 2 du chapitre V du même décret. Dans ce cas, la règle de protection fixée au
+dernier alinéa de l'article 18 de ce décret ne fait pas obstacle à la communication au personnel du port de la partie du plan
+de sûreté de l'installation portuaire que doit connaître ce personnel. 
+
+Le plan de sûreté de l'installation portuaire détermine, pour chacun des niveaux de sûreté prévus par le règlement (CE) n°
+725 / 2004 du 31 mars 2004 du Parlement européen et du Conseil, les procédures à suivre, les mesures à mettre en place et les
+actions à mener en matière de sûreté. 
+
+Il prend en compte les prescriptions de l'arrêté du représentant de l'Etat dans le département prévu par l'article R.
+321-33. 
+
+Le représentant de l'Etat dans le département atteste, par une déclaration de conformité dont la durée de validité peut être
+inférieure à celle du plan de sûreté de l'installation portuaire, que le respect par celle-ci des dispositions législatives
+et réglementaires en matière de sûreté a été vérifié et que l'exploitation de l'installation respecte le plan. 
+
+Le ministre chargé des transports ou le représentant de l'Etat dans le département peuvent vérifier à tout moment la
+conformité du plan de sûreté de l'installation portuaire à la réglementation en vigueur et au contexte ainsi que le degré de
+sûreté effectivement assuré dans l'installation, au moyen d'un audit, éventuellement inopiné, de celle-ci et de son plan de
+sûreté réalisé par les services de l'Etat ou par un organisme de sûreté habilité.L'exploitant de l'installation portuaire
+autorise les personnes chargées de l'audit à accéder à tous les équipements intéressant la sûreté de l'installation ainsi
+qu'à l'ensemble des documents ayant trait, directement ou indirectement, à la sûreté de celle-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Cite_:
+
+  - Décret n°2006-212 du 23 février 2006 - art. 4
+  - Code des ports maritimes - art. R321-33
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. 8 (M)
+  - Arrêté du 2 juin 2008 - art. 1 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-29 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-27
+
+Le plan de sûreté de l'installation portuaire est élaboré pour une durée de cinq ans. Il peut être modifié pendant sa période
+de validité sur instruction du ministre chargé des transports ou du représentant de l'Etat dans le département ou à
+l'initiative de l'exploitant de l'installation portuaire. Une modification ne peut faire courir un nouveau délai de validité
+de cinq ans qu'en cas d'approbation selon les mêmes modalités que le plan initial.
+
+Le plan est modifié ou complété lors de tout changement ayant des conséquences en matière de sûreté. Les projets de
+modifications ou de compléments sont portés à la connaissance du représentant de l'Etat dans le département, qui peut
+prescrire l'approbation du plan modifié ou complété selon les mêmes modalités que le plan initial si l'importance des
+modifications ou des compléments le justifie.
+
+En cas d'insuffisance majeure, le plan de sûreté de l'installation portuaire fait l'objet d'une modification donnant lieu à
+approbation selon les mêmes modalités que le plan initial. Si, après une mise en demeure non suivie d'effet, cette
+modification n'intervient pas, le représentant de l'Etat dans le département peut retirer l'approbation du plan.
+
+Lorsqu'il constate, éventuellement lors d'un audit, un défaut majeur de conformité de la sûreté de l'installation portuaire,
+le représentant de l'Etat dans le département peut, après une mise en demeure non suivie d'effet, retirer la déclaration de
+conformité de cette installation. Dans ce cas, cette installation établit avec tout navire y faisant escale soumis au code
+international pour la sûreté des navires et des installations portuaires (ISPS) adopté par l'Organisation maritime
+internationale le 12 décembre 2002 une déclaration de sûreté telle que prévue par ce code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-30 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-28
+
+La mise en oeuvre du plan de sûreté de l'installation portuaire donne lieu à des exercices et des entraînements organisés par
+l'exploitant de l'installation portuaire dans des conditions fixées par un arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 2 juin 2008 - art. 2 (M)
+  - Arrêté du 2 juin 2008 - art. 4 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-31 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-29
+
+L'exploitant de l'installation portuaire désigne parmi son personnel, pour une durée maximale de cinq ans renouvelable, un
+agent de sûreté chargé de préparer et de mettre en oeuvre le plan de sûreté de l'installation. Si celle-ci a été qualifiée de
+point d'importance vitale en application du décret n° 2006-212 du 23 février 2006, cet agent exerce les fonctions de délégué
+pour la défense et la sécurité prévues à l'article 6 de ce décret.
+
+La désignation de l'agent de sûreté de l'installation portuaire est subordonnée à la possession d'un agrément délivré par le
+représentant de l'Etat dans le département dans les conditions définies ci-après et d'un certificat d'aptitude dont les
+conditions d'obtention et de délivrance sont définies par un arrêté du ministre chargé des transports.
+
+Il est mis fin aux fonctions d'agent de sûreté de l'installation portuaire lorsque l'une de ces conditions n'est plus
+remplie. Afin d'assurer la permanence des fonctions, l'exploitant de l'installation portuaire peut désigner un ou plusieurs
+suppléants qui sont agréés dans les mêmes conditions que l'agent de sûreté titulaire.
+
+L'agent de sûreté de l'installation portuaire et ses suppléants garantissent la confidentialité des faits, informations et
+documents dont ils ont connaissance dans l'exercice de leurs missions, notamment de l'évaluation de la sûreté de
+l'installation et des parties sensibles du plan de sûreté.
+
+L'agrément d'agent de sûreté d'installation portuaire ou de suppléant d'agent de sûreté d'installation portuaire est valable
+sur l'ensemble du territoire national. Il est demandé par l'exploitant de l'installation portuaire qui établit pour chaque
+agent un dossier dont la composition et les modalités de transmission sont fixées par arrêté conjoint des ministres de la
+justice, de l'intérieur et de la défense et des ministres chargé des transports et chargé des douanes. Ce même arrêté définit
+en outre la procédure d'agrément. L'agrément est délivré pour une durée qui ne peut excéder cinq ans, à l'issue d'une enquête
+administrative.
+
+L'agrément ne peut être accordé en cas de condamnation criminelle ou correctionnelle incompatible avec les fonctions à
+exercer. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du
+bulletin n° 2 du casier judiciaire au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de
+son équivalent, s'agissant des ressortissants étrangers, auprès du casier judiciaire de l'Etat de nationalité selon les
+dispositions des conventions internationales en vigueur.
+
+L'agrément peut être refusé, retiré ou suspendu par le représentant de l'Etat dans le département lorsque la moralité ou le
+comportement de l'intéressé ne présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité
+publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice d'une des fonctions prévues
+au présent article.
+
+Lorsque les conditions de sa délivrance ne sont plus réunies, l'agrément est retiré par le représentant de l'Etat dans le
+département, après que l'intéressé a été mis à même de présenter des observations.
+
+En cas d'urgence, l'agrément peut être suspendu sans préavis par le représentant de l'Etat dans le département pour une durée
+maximale de deux mois.
+
+Les décisions d'agrément et celles de retrait ou de suspension d'agrément sont notifiées à l'intéressé, à l'autorité
+portuaire et à l'exploitant de l'installation portuaire.
+
+L'agrément ouvre à son détenteur les mêmes droits que l'habilitation mentionnée à l'article R. 321-36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Cite_:
+
+  - Décret n°2006-212 du 23 février 2006
+  - Code des ports maritimes
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-32 (M)
+
+
+###### Article R321-30
+
+Sous réserve de l'accord du représentant de l'Etat dans le département, une même évaluation de la sûreté, un même plan de
+sûreté ou même un agent de sûreté peuvent, à l'intérieur d'un port, couvrir plusieurs installations portuaires voisines ayant
+des caractéristiques et un environnement similaires. Les exploitants de ces installations concluent alors entre eux une
+convention définissant leurs responsabilités respectives.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-33 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint.<a id=143></a>
+
+##### Sous-section 1 : Création des zones d'accès restreint.<a id=144></a>
+
+###### Article R321-31
+
+Une ou plusieurs zones d'accès restreint, éventuellement divisées en secteurs, peuvent être créées dans toute installation
+portuaire par arrêté du représentant de l'Etat dans le département conformément aux dispositions de l'article L. 321-5, après
+avis de l'exploitant de l'installation portuaire et de l'autorité portuaire.
+
+L'avis respectivement de l'exploitant de l'installation portuaire et de l'autorité portuaire est réputé favorable s'il n'est
+pas rendu dans le délai d'un mois à compter de la saisine par le représentant de l'Etat dans le département. 
+
+Une zone d'accès restreint est, sauf impossibilité technique avérée, créée dans toute installation portuaire dédiée à
+l'accueil de navires à passagers, à l'accueil de navires porte-conteneurs ou à l'accueil de navires pétroliers, gaziers ou
+transportant des marchandises dangereuses.L'exploitant qui estime se trouver dans un cas d'impossibilité présente un dossier
+le justifiant au représentant de l'Etat dans le département qui recueille l'avis du comité local de sûreté portuaire avant de
+statuer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. Annexe 3 (M)
+  - Arrêté du 22 avril 2008 - art. Annexe 4 (M)
+  - Arrêté du 4 juin 2008 - art. 1 (M)
+  - Arrêté du 4 juin 2008 - art. 47 (M)
+  - Arrêté du 29 juin 2020 (V)
+  - Code des ports maritimes - art. R321-35 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. L321-5
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-34 (M)
+
+
+###### Article R321-32
+
+Une ou plusieurs zones d'accès restreint, éventuellement divisées en secteurs, peuvent être créées dans la zone portuaire de
+sûreté en dehors de toute installation portuaire, par arrêté du représentant de l'Etat dans le département conformément aux
+dispositions de l'article L. 321-5, après avis de l'autorité portuaire. Dans ces zones, l'autorité portuaire a la charge des
+obligations qui pèsent sur l'exploitant d'installation portuaire au titre de la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. Annexe 3 (M)
+  - Arrêté du 22 avril 2008 - art. Annexe 4 (M)
+  - Arrêté du 4 juin 2008 - art. 2 (M)
+  - Arrêté du 29 juin 2020 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. L321-5
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-35 (M)
+
+
+##### Sous-section 2 : Accès aux zones d'accès restreint.<a id=145></a>
+
+###### Article R321-33
+
+Le représentant de l'Etat dans le département fixe par arrêté, pour chaque zone d'accès restreint, les conditions
+particulières d'accès, de circulation et de stationnement des personnes, des véhicules et des marchandises ainsi que les
+modalités de signalisation correspondantes. 
+
+La circulation des personnes et des véhicules dans une zone d'accès restreint est subordonnée au port apparent de l'un des
+titres de circulation définis dans la présente sous-section.
+
+L'exploitant de l'installation portuaire construit autour de chaque zone d'accès restreint et entretient une clôture,
+conformément aux spécifications techniques arrêtées en application de l'article R. 321-41, et prend pour cette zone les
+mesures de surveillance qui correspondent au niveau de sûreté fixé par le Premier ministre en application du règlement (CE)
+n° 725 / 2004 du 31 mars 2004 du Parlement européen et du Conseil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. Annexe 3 (M)
+  - Arrêté du 22 avril 2008 - art. Annexe 4 (M)
+  - Arrêté du 4 juin 2008 - art. 4 (M)
+  - Arrêté du 4 juin 2008 - art. 72 (M)
+  - Code des ports maritimes - art. R321-26 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-36 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. R321-41
+
+
+###### Article R321-34
+
+L'exploitant d'une installation portuaire n'autorise à pénétrer dans une zone d'accès restreint de cette installation que les
+personnes désignées ci-après :
+
+I. - Les personnels de l'autorité portuaire, les personnels de l'exploitant de l'installation portuaire, les personnels des
+services sociaux, ainsi que les personnels intervenant habituellement dans la zone d'accès restreint pour leur activité
+professionnelle, munis d'une habilitation et d'un titre de circulation.
+
+II. - Les fonctionnaires et agents chargés d'exercer habituellement les missions de police, de sécurité et de secours sur le
+port, munis d'une habilitation sauf en ce qui concerne les fonctionnaires et agents de l'Etat en uniforme ou munis d'un ordre
+de mission ou d'une commission d'emploi, et d'un titre de circulation.
+
+III. - Les personnels navigants des navires accueillis par l'installation portuaire et les personnes se trouvant à bord de
+ces navires pour y effectuer des tâches professionnelles liées à l'exploitation du navire, munis d'un titre de circulation
+temporaire.
+
+IV. - Les personnes admises pour une courte durée dans la zone d'accès restreint, munies d'un titre de circulation
+temporaire.
+
+V. - Les passagers des navires accueillis par l'installation portuaire, munis du titre de transport approprié.
+
+VI. - Les agents des services de police, de sécurité ou de secours, dans le cadre de leurs interventions d'urgence.
+
+VII. - Les représentants désignés par les organisations syndicales représentatives des personnels navigants des navires et
+des personnes se trouvant à bord de ces navires pour y effectuer des tâches professionnelles liées à l'exploitation du
+navire, munis d'un titre de circulation temporaire ou, exceptionnellement, d'une habilitation et d'un titre de circulation
+permanent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 22 avril 2008 - art. Annexe 3 (M)
+  - Arrêté du 22 avril 2008 - art. Annexe 4 (M)
+  - Arrêté du 4 juin 2008 - art. 1 (M)
+  - Arrêté du 4 juin 2008 - art. 12 (M)
+  - Arrêté du 4 juin 2008 - art. 27 (M)
+  - Arrêté du 4 juin 2008 - art. 28 (M)
+  - Arrêté du 4 juin 2008 - art. 4 (M)
+  - Arrêté du 4 juin 2008 - art. 54 (M)
+  - Arrêté du 4 juin 2008 - art. 55 (M)
+  - Arrêté du 4 juin 2008 - art. 58 (M)
+  - Arrêté du 4 juin 2008 - art. 7 (M)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+  - Arrêté du 18 juin 2008 - art. 3 (V)
+  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-37 (M)
+
+
+###### Article R321-35
+
+Les inspecteurs et contrôleurs de l'inspection du travail ainsi que les fonctionnaires et agents publics exerçant des
+missions d'évaluation ou de contrôle en matière de sûreté ou de sécurité sont munis d'un titre de circulation national
+délivré par le directeur général de la mer et des transports et sont autorisés à pénétrer dans les zones d'accès restreint
+mentionnées à l'article R. 321-31.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 4 juin 2008 - art. 4 (M)
+  - Arrêté du 4 juin 2008 - art. 52 (M)
+  - Arrêté du 4 juin 2008 - art. 6 (M)
+  - Arrêté du 4 juin 2008 - art. 63 (M)
+  - Arrêté du 4 juin 2008 - art. 7 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-38 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. R321-31 (Ab)
+
+
+###### Article R321-36
+
+L'habilitation mentionnée à l'article R. 321-34 est valable sur l'ensemble du territoire national. Elle est demandée par
+l'employeur qui établit pour chaque agent un dossier dont la composition et les modalités de transmission sont fixées par
+arrêté conjoint des ministres de la justice, de l'intérieur et de la défense et des ministres chargé des transports et chargé
+des douanes. Ce même arrêté définit en outre la procédure d'habilitation. L'habilitation est délivrée pour une durée qui ne
+peut excéder cinq ans par le représentant de l'Etat dans le département à l'issue d'une enquête administrative.
+
+L'habilitation ne peut être accordée en cas de condamnation criminelle ou correctionnelle incompatible avec les fonctions à
+exercer. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du
+bulletin n° 2 du casier judiciaire au Casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de
+son équivalent, s'agissant des ressortissants étrangers auprès du casier judiciaire de l'Etat de nationalité selon les
+dispositions des conventions internationales en vigueur.
+
+L'habilitation peut être refusée, retirée ou suspendue par le représentant de l'Etat dans le département lorsque la moralité
+ou le comportement de l'intéressé ne présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité
+publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice d'une activité dans les zones
+d'accès restreint.
+
+L'habilitation est retirée par le représentant de l'Etat dans le département, après que l'intéressé ait été mis à même de
+présenter des observations, lorsque les conditions de sa délivrance ne sont plus réunies.
+
+En cas d'urgence, l'habilitation peut être suspendue sans préavis par le représentant de l'Etat dans le département pour une
+durée maximale de deux mois.
+
+En cas d'urgence impérieuse, l'habilitation peut être suspendue à titre conservatoire pour une durée maximale de quarante-
+huit heures par le représentant de l'autorité investie du pouvoir de police portuaire qui en informe immédiatement le
+représentant de l'Etat dans le département.
+
+Les décisions d'habilitation et celles de retrait ou de suspension d'habilitation sont notifiées à l'intéressé et à
+l'exploitant de l'installation portuaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 4 juin 2008 - art. 52 (M)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-39 (M)
+
+
+###### Article R321-37
+
+Le titre de circulation permanent exigé au I, au II et à titre exceptionnel au VII de l'article R. 321-34 est délivré par
+l'exploitant de l'installation portuaire aux personnes habilitées pour la durée strictement nécessaire à l'exercice de
+l'activité en zone d'accès restreint de chacune d'elles, dans la limite de durée de validité de l'habilitation et sans
+pouvoir dépasser cinq ans.
+
+Il précise, le cas échéant, les secteurs de la zone d'accès restreint auxquels son titulaire est autorisé à accéder.
+
+L'exploitant de l'installation portuaire informe les personnes mentionnées au I et au II et, s'il y a lieu, celles
+mentionnées au VII de l'article R. 321-34, des principes généraux de sûreté et des règles particulières de sûreté à respecter
+à l'intérieur de la zone d'accès restreint.
+
+Le titre de circulation est retiré par l'exploitant de l'installation portuaire lorsque l'une des conditions qui ont prévalu
+à sa délivrance n'est plus remplie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 4 juin 2008 - art. 55 (M)
+  - Arrêté du 15 avril 2009 - art. 1 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-40 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-38
+
+L'exploitant de l'installation portuaire délivre aux personnes mentionnées au III et au IV et le cas échéant à celles
+mentionnées au VII de l'article R. 321-34 un titre de circulation temporaire indiquant, notamment, la période d'autorisation
+d'accès. Il porte à leur connaissance les règles essentielles de sûreté à respecter à l'intérieur de la zone d'accès
+restreint.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-41 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-39
+
+L'accès et le stationnement des véhicules à l'intérieur de la zone d'accès restreint sont limités aux besoins justifiés de
+l'exploitation de l'installation portuaire et du navire et de l'exercice des missions des autorités publiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-42 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-40
+
+Un arrêté conjoint des ministres de l'intérieur et de la défense et des ministres chargé des douanes et chargé des transports
+fixe les caractéristiques des titres de circulation en zone d'accès restreint, leurs modalités de délivrance, ainsi que leurs
+règles de port et d'utilisation. Cet arrêté prévoit notamment les conditions dans lesquelles est délivré le titre de
+circulation temporaire des personnels navigants des navires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-43 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Sous-section 3 : Equipements et systèmes de sûreté.<a id=146></a>
+
+###### Article R321-41
+
+Le ministre chargé des transports fixe par arrêté la liste des équipements et systèmes intéressant la sûreté portuaire ou
+celle des installations portuaires, des navires, des marchandises, du personnel ou des passagers qui ne peuvent être mis en
+oeuvre, dans les zones d'accès restreint, que s'ils respectent des spécifications techniques définies par le même arrêté.
+
+Le respect de ces spécifications peut être attesté par une certification de type ou individuelle délivrée par le ministre
+chargé des transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-44 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R321-33 (Ab)
+
+
+##### Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté.<a id=147></a>
+
+###### Article R321-42
+
+Un arrêté conjoint des ministres de l'intérieur et de la défense et des ministres chargé des transports et chargé des douanes
+fixe la liste des objets ou marchandises dont l'introduction dans les zones d'accès restreint et à bord des navires est
+interdite ou est soumise à des prescriptions particulières. Cette liste est portée à la connaissance des usagers par les
+exploitants des installations portuaires et les armateurs de navires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-45 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+###### Article R321-43
+
+L'exploitant de l'installation portuaire procède, dans les conditions prévues par l'article L. 321-5, à la visite de sûreté
+des personnes et des véhicules pénétrant dans la zone d'accès restreint de l'installation portuaire, ainsi que des colis,
+bagages et marchandises qu'ils transportent.
+
+L'armateur de navire procède, dans les conditions prévues par l'article L. 321-5, à la visite de sûreté des personnes et des
+véhicules pénétrant dans le navire, ainsi que des colis, bagages et marchandises qu'ils transportent.
+
+Un arrêté conjoint des ministres de l'intérieur et de la défense et des ministres chargé des transports et chargé des douanes
+définit :
+
+a) La répartition des tâches entre l'exploitant de l'installation portuaire et les armateurs de navires pour les visites de
+sûreté et les conditions dans lesquelles il peut être éventuellement dérogé à cette répartition ;
+
+b) Les prescriptions techniques applicables aux visites de sûreté et les modalités de détermination de la fréquence de
+celles-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 4 juin 2008 - art. 48 (M)
+  - Arrêté du 18 juin 2008 - art. 9 (V)
+  - Arrêté du 23 septembre 2009 - art. 8 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes - art. L321-5
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-46 (M)
+
+
+###### Article R321-44
+
+L'exploitant de l'installation portuaire interdit l'accès de la zone d'accès restreint à toute personne refusant de se
+soumettre aux visites de sûreté prévues à l'article R. 321-43. Il en avise sans délai les services de police ou de
+gendarmerie territorialement compétents.
+
+L'armateur de navire interdit l'accès du navire à toute personne refusant de se soumettre aux visites de sûreté prévues à
+l'article R. 321-43. Il en avise sans délai les services de police ou de gendarmerie territorialement compétents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-47 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-45
+
+Les personnes chargées des visites de sûreté prévues par l'article R. 321-43 doivent avoir reçu l'agrément du représentant de
+l'Etat dans le département et du procureur de la République territorialement compétent. L'agrément est demandé selon le cas
+par l'exploitant de l'installation portuaire, l'armateur de navire ou le prestataire de services portuaires qui constituent à
+cette fin, pour chaque agent qu'ils désignent, un dossier dont la composition et les modalités de transmission sont fixées
+par arrêté conjoint des ministres de la justice, de l'intérieur et de la défense et des ministres chargé des transports et
+chargé des douanes. Ce même arrêté définit par ailleurs la procédure d'agrément.
+
+La demande d'agrément au titre du présent article tient lieu sous le même dossier de demande d'habilitation au titre de
+l'article R. 321-36.
+
+L'agrément est accordé pour une durée maximale de cinq ans renouvelable à l'issue d'une enquête administrative.
+
+L'agrément ne peut être accordé en cas de condamnation criminelle ou correctionnelle incompatible avec les fonctions à
+exercer. Le représentant de l'Etat dans le département s'assure du respect de cette condition en demandant communication du
+bulletin n° 2 du casier judiciaire au casier judiciaire national automatisé par un moyen de télécommunication sécurisé ou de
+son équivalent pour un ressortissant de la Communauté européenne.
+
+L'agrément est refusé, retiré ou suspendu par le représentant de l'Etat dans le département lorsque la moralité ou le
+comportement de l'intéressé ne présentent pas les garanties requises au regard de la sûreté de l'Etat, de la sécurité
+publique, de la sécurité des personnes, de l'ordre public ou sont incompatibles avec l'exercice d'une activité dans les zones
+d'accès restreint.
+
+L'agrément est retiré par le représentant de l'Etat dans le département ou par le procureur de la République lorsque les
+conditions de délivrance ne sont plus remplies. L'intéressé est préalablement informé de la mesure envisagée et dispose d'un
+délai de quinze jours pour présenter ses observations, selon le cas, au représentant de l'Etat dans le département ou au
+procureur de la République.
+
+En cas d'urgence, l'agrément est suspendu sans préavis pour une durée maximale de deux mois par le représentant de l'Etat
+dans le département ou le procureur de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 3 (V)
+  - Arrêté du 18 juin 2008 - art. 1 (V)
+  - Arrêté du 18 juin 2008 - art. 4 (V)
+  - Arrêté du 23 septembre 2009 - art. 1 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-48 (M)
+
+
+###### Article R321-46
+
+Les agents chargés des visites de sûreté qui ont été agréés à cette fin se voient délivrer le titre de circulation mentionné
+au I de l'article R. 321-34. Ils portent en permanence de manière apparente, outre ce titre, un signe distinctif de leur
+fonction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-49 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-47
+
+L'employeur des personnes agréées en application de l'article R. 321-45 dispense à celles-ci une formation initiale et une
+formation continue portant sur la déontologie des visites de sûreté, les principes généraux de sûreté et l'utilisation des
+dispositifs techniques de contrôle, ainsi que des entraînements périodiques à la détection des objets et substances
+illicites. Il ne peut faire exécuter les tâches prévues à l'article R. 321-43 que par des personnes ayant suivi ces
+formations et ces entraînements. Les conditions d'approbation de ces formations sont fixées par arrêté du ministre chargé des
+transports.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-50 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+##### Section 5 : Sûreté des plans d'eau portuaires.<a id=148></a>
+
+###### Article R321-48
+
+Le représentant de l'Etat dans le département, assisté par l'autorité investie du pouvoir de police portuaire, organise et
+assure la surveillance des plans d'eau inclus dans la zone portuaire de sûreté.
+
+Dans les ports dont la liste est fixée par arrêté conjoint des ministres de l'intérieur et de la défense et des ministres
+chargé des douanes et chargé des transports, les concours apportés par les services de l'Etat pour assurer la sûreté des
+plans d'eau et les modalités de coordination de ceux-ci sont définis par un arrêté conjoint du préfet maritime et du
+représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Cité par_:
+
+  - Arrêté du 22 avril 2008 - art. Annexe 3 (M)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5332-51 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Section 6 : Mesures d'exécution et sanctions.<a id=149></a>
+
+##### Sous-section 1 : Sanctions administratives.<a id=150></a>
+
+###### Article R321-49
+
+I. - En cas de manquement constaté aux dispositions :
+
+- des articles R. 321-22, R. 321-29, R. 321-33, R. 321-37, R. 321-43, R. 321-44 et R. 321-46 et des textes pris pour leur
+application ;
+
+- de l'arrêté du représentant de l'Etat dans le département prévu par l'article R. 321-33,
+
+le représentant de l'Etat dans le département peut, en tenant compte de la nature et de la gravité des manquements et
+éventuellement des avantages qui en sont tirés :
+
+- soit prononcer à l'encontre de la personne physique auteur du manquement une amende administrative d'un montant maximal de
+750 euros ;
+
+- soit suspendre l'habilitation prévue à l'article R. 321-36 pour une durée ne pouvant pas excéder deux mois.
+
+II. - En cas de manquement constaté aux dispositions :
+
+- des articles R. 321-14, R. 321-17, R. 321-19, R. 321-21, R. 321-22, R. 321-24, R. 321-26 R. 321-28, R. 321-29 et des textes
+pris pour leur application ;
+
+- des articles R. 321-33, R. 321-34, R. 321-37, R. 321-38, R. 321-39, R. 321-43, R. 321-44, R. 321-47 et des textes pris pour
+leur application ;
+
+- des arrêtés du représentant de l'Etat dans le département prévus par les articles R. 321-31 et R. 321-33. 
+
+Le représentant de l'Etat dans le département peut, en tenant compte de la nature et de la gravité des manquements et
+éventuellement des avantages qui en sont tirés, prononcer à l'encontre de la personne morale responsable une amende
+administrative d'un montant maximal de 7 500 euros.
+
+III. - Le représentant de l'Etat dans le département peut suspendre l'exploitation d'une installation portuaire ou d'un port,
+pendant un délai et dans des conditions qu'il détermine, dans les cas suivants :
+
+a) Manquement grave aux dispositions énumérées au II, et notamment défaut de désignation d'un agent de sûreté portuaire ou
+agent de sûreté de l'installation portuaire ou défaut d'établissement de plan de sûreté portuaire ou de l'installation
+portuaire ;
+
+b) Retrait de l'approbation du plan de sûreté portuaire ou de l'installation portuaire ;
+
+c) Retrait de la déclaration de conformité visé aux articles R. 321-19 et R. 321-26.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5336-1 (M)
+  - Code des transports - art. R5336-2 (M)
+  - Code des transports - art. R5336-3 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+
+###### Article R321-50
+
+Les manquements aux dispositions énumérées à l'article R. 321-49 font l'objet de constats écrits dressés par les agents
+mentionnés au I de l'article L. 321-7.
+
+Les constats portent la mention des sanctions encourues. Ils sont notifiés à la personne concernée et communiqués au
+représentant de l'Etat dans le département par le chef du service auquel appartient le rédacteur du constat, ou, le cas
+échéant, par le ministre dont il relève.
+
+La personne concernée a accès à l'ensemble des éléments de son dossier. Elle doit pouvoir être entendue par le représentant
+de l'Etat dans le département ou par la personne que celui-ci désigne à cet effet ; elle peut se faire représenter ou
+assister par la personne de son choix. Le représentant de l'Etat dans le département ou la personne qu'il désigne à cet effet
+peut également entendre l'employeur d'une personne physique mise en cause.
+
+Aucune amende ou mesure de suspension ne peut être prononcée plus de deux ans après la constatation d'un manquement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5336-4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+  - Code des ports maritimes - art. L321-7
+
+
+###### Article R321-51
+
+Les amendes et mesures de suspension font l'objet d'une décision motivée notifiée à la personne concernée. Les amendes sont
+recouvrées comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5336-5 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+
+##### Sous-section 2 : Sanctions pénales.<a id=151></a>
+
+###### Article R321-52
+
+Est punie de l'amende prévue pour la contravention de la cinquième classe :
+
+- l'introduction ou le non-respect des prescriptions particulières d'introduction dans une zone d'accès restreint ou à bord
+d'un navire d'objets ou de marchandises inscrits sur la liste figurant dans l'arrêté prévu au premier alinéa de l'article R.
+321-42 ;
+
+- la circulation en zone d'accès restreint sans la possession d'un des titres de circulation prévus aux articles R. 321-37 et
+R. 321-38 ;
+
+- le fait, pour l'exploitant d'un port ou d'une installation portuaire, de faire obstacle à l'accomplissement d'une des
+visites d'audit prévues aux articles R. 321-20 et R. 321-27 ;
+
+- le fait, pour le responsable d'un organisme de sûreté reconnu, de s'opposer à la réalisation d'un contrôle prévu à
+l'article R. 321-10.
+
+La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15 du code
+pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-488 1978-03-22
+
+_Créé par_:
+
+  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5336-7 (M)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cite_:
+
+  - Code pénal - art. 132-11
+  - Code pénal - art. 132-15
+  - Code des ports maritimes
+
+
+#### Chapitre II : Conservation du port proprement dit.<a id=152></a>
 
 ###### Article R*322-2
 
@@ -11936,7 +14118,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-#### Chapitre III : Exploitation du port.<a id=132></a>
+#### Chapitre III : Exploitation du port.<a id=153></a>
 
 ###### Article R*323-1
 
@@ -12165,182 +14347,7 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-#### Chapitre IV : Sûreté portuaire.<a id=133></a>
-
-###### Article R*324-1
-
-La sûreté des transports maritimes et des opérations portuaires qui s'y rattachent mentionnée à l'article L. 323-5 consiste à
-assurer la protection des passagers, des équipages, des personnels portuaires, des navires ou autres engins de navigation,
-des véhicules, des marchandises et des installations portuaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Créé par_:
-
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Cite_:
-
-  - Code des ports maritimes - art. L323-5 (M)
-
-_Anciens textes_:
-
-  - Code des ports maritimes R323-11
-
-
-###### Article R*324-2
-
-Le périmètre des zones portuaires non librement accessibles au public, dans lesquelles peuvent s'exercer les prérogatives
-énoncées à l'article L. 323-5, est délimité par arrêté préfectoral, sur proposition du directeur du port ou de l'autorité
-portuaire compétente et après consultation des services de police ou de gendarmerie, du chef de circonscription des douanes
-territorialement compétent et, le cas échéant, du concessionnaire des installations portuaires. A défaut de réponse dans le
-délai de deux mois à compter de leur saisine, l'avis de ces services et du concessionnaire est réputé favorable.
-
-Le périmètre comprend les zones dans lesquelles s'effectuent l'embarquement, le débarquement des passagers et de leurs
-véhicules, ainsi que le chargement, déchargement, stockage ou dépôt de marchandises. Il fait l'objet d'une signalisation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Créé par_:
-
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Cite_:
-
-  - Code des ports maritimes - art. L323-5 (M)
-
-_Anciens textes_:
-
-  - Code des ports maritimes R323-12
-
-
-###### Article R*324-3
-
-La désignation des personnes susceptibles d'être agréées, en application du b de l'article L. 323-5, est faite, selon le cas,
-par le directeur du port s'il s'agit d'un port autonome, par le chef du service maritime pour un port d'intérêt national, par
-le président du conseil général ou par le maire pour les ports relevant de la compétence des départements ou des communes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Créé par_:
-
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Cite_:
-
-  - Code des ports maritimes - art. L323-5 (M)
-
-_Anciens textes_:
-
-  - Code des ports maritimes R323-13
-
-
-###### Article R*324-4
-
-La personne publique gestionnaire du port constitue, pour chaque agent présenté en vue de l'agrément pour l'exercice des
-missions de sûreté prévues à l'article L. 323-5, un dossier de demande d'agrément dont la composition et les modalités de
-transmission sont fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé des ports
-maritimes, du ministre de la défense, du ministre de l'intérieur et du ministre chargé des douanes.
-
-Ce dossier comprend notamment les pièces établissant la qualité ou la raison sociale du gestionnaire du port et, s'il y a
-lieu, la raison sociale de l'employeur lorsque l'accomplissement des tâches de sûreté est confié à une entreprise liée par
-contrat avec le demandeur, ainsi que l'identité de l'agent, sa nationalité, les tâches qu'il devra exercer et son expérience
-professionnelle.
-
-L'agrément est accordé pour un port déterminé sur décision conjointe du préfet et du procureur de la République
-territorialement compétents. Le préfet demande communication du bulletin n° 2 du casier judiciaire de l'agent ou de son
-équivalent pour les ressortissants d'un Etat membre de la Communauté européenne.
-
-L'agrément est refusé sur décision de l'une ou l'autre des autorités susmentionnées, lorsque la moralité de la personne ou
-son comportement apparaît incompatible avec l'exercice de sa fonction. L'agrément ne peut être accordé en cas de condamnation
-mentionnée au bulletin n° 2 du casier judiciaire ou pour les ressortissants étrangers dans un document équivalent. Le défaut
-de réponse dans un délai de deux mois à compter de la réception du dossier complet vaut rejet de la demande d'agrément.
-
-L'agrément est retiré pour les mêmes motifs par le préfet ou le procureur de la République. L'intéressé est préalablement
-informé de la mesure envisagée et dispose d'un délai de deux mois pour présenter ses observations, selon le cas, au préfet ou
-au procureur de la République.
-
-En cas d'urgence, l'agrément fait l'objet d'une suspension immédiate d'une durée maximum de trois mois. Dans ce cas,
-l'autorité compétente notifie à l'intéressé en même temps le retrait envisagé et la mesure de suspension.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Créé par_:
-
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Cite_:
-
-  - Code des ports maritimes - art. L323-5 (M)
-
-_Anciens textes_:
-
-  - Code des ports maritimes R323-14
-
-
-###### Article R*324-5
-
-L'agent agréé porte en permanence une carte professionnelle avec sa photographie d'identité ainsi qu'un signe distinctif de
-sa fonction.
-
-Une formation portant sur les principes généraux de sûreté et les aspects pratiques de celle-ci compte tenu des besoins
-spécifiques du port est dispensée aux personnels agréés.
-
-Les services compétents de l'Etat s'assurent de la qualification des agents pour l'exercice des tâches qui leur sont
-confiées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Créé par_:
-
-  - Décret n°2003-920 du 22 septembre 2003 - art. 3 () JORF 27 septembre 2003
-
-_Abrogé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Anciens textes_:
-
-  - Code des ports maritimes R323-15
-
-
-#### Chapitre V : Déchets d'exploitation et résidus de cargaison des navires.<a id=134></a>
+#### Chapitre V : Déchets d'exploitation et résidus de cargaison des navires.<a id=154></a>
 
 ###### Article R*325-1
 
@@ -12441,7 +14448,7 @@ _Nouveaux textes_:
   - Code des ports maritimes - art. R343-3 (Ab)
 
 
-#### Chapitre VI : Chargement et déchargement des navires vraquiers<a id=135></a>
+#### Chapitre VI : Chargement et déchargement des navires vraquiers<a id=155></a>
 
 ###### Article R*326-1
 
@@ -12664,9 +14671,9 @@ _Abrogé par_:
   - TRANSFERE: Décret n°2009-876 du 17 juillet 2009 - art. 5
 
 
-### Titre III : Polices du balisage et des matières dangereuses ou infectes.<a id=136></a>
+### Titre III : Polices du balisage et des matières dangereuses ou infectes.<a id=156></a>
 
-#### Chapitre Ier : Balisage.<a id=137></a>
+#### Chapitre Ier : Balisage.<a id=157></a>
 
 ###### Article R*331-1
 
@@ -12721,7 +14728,7 @@ _Cite_:
   - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-#### Chapitre II : Matières dangereuses ou infectes.<a id=138></a>
+#### Chapitre II : Matières dangereuses ou infectes.<a id=158></a>
 
 ###### Article R*332-1
 
@@ -12751,7 +14758,7 @@ _Anciens textes_:
   - Code des ports maritimes 80
 
 
-### Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses.<a id=139></a>
+### Titre IV : Clôture des quais et terre-pleins dans les ports maritimes et police des surfaces encloses.<a id=159></a>
 
 ###### Article R*341-1
 
@@ -12963,9 +14970,9 @@ _Abrogé par_:
   - Décret n°2009-876 du 17 juillet 2009 - art. 5
 
 
-### Titre V : Règlements de police.<a id=140></a>
+### Titre V : Règlements de police.<a id=160></a>
 
-#### Chapitre Ier : Ports de commerce et ports de pêche.<a id=141></a>
+#### Chapitre Ier : Ports de commerce et ports de pêche.<a id=161></a>
 
 ###### Article R*351-1
 
@@ -13027,7 +15034,7 @@ _Abrogé par_:
   - Décret n°2009-876 du 17 juillet 2009 - art. 6
 
 
-#### Chapitre II : Ports de plaisance.<a id=142></a>
+#### Chapitre II : Ports de plaisance.<a id=162></a>
 
 ###### Article R*352-1
 
@@ -13053,7 +15060,7 @@ _Abrogé par_:
   - Décret n°2009-876 du 17 juillet 2009 - art. 6
 
 
-#### Chapitre III : Dispositions communes.<a id=143></a>
+#### Chapitre III : Dispositions communes.<a id=163></a>
 
 ###### Article R*353-1
 
@@ -13183,9 +15190,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code pénal - art. 131-13 (M)
 
 
-## Livre IV : Voies ferrées des quais<a id=144></a>
+## Livre IV : Voies ferrées des quais<a id=164></a>
 
-### Titre Ier : Dispositions générales.<a id=145></a>
+### Titre Ier : Dispositions générales.<a id=165></a>
 
 ###### Article R*411-4
 
@@ -13329,7 +15336,7 @@ _Codifié par_:
   - Décret n°78-488 1978-03-22
 
 
-### Titre II : Etablissement, entretien et exploitation de la voie ferrée.<a id=146></a>
+### Titre II : Etablissement, entretien et exploitation de la voie ferrée.<a id=166></a>
 
 ###### Article R**421-2
 
@@ -13622,7 +15629,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains.<a id=147></a>
+### Titre III : Matériel, composition, circulation et stationnement des wagons, rames et trains.<a id=167></a>
 
 ###### Article R**431-1
 
@@ -13764,7 +15771,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre IV : Perception des taxes et des frais accessoires.<a id=148></a>
+### Titre IV : Perception des taxes et des frais accessoires.<a id=168></a>
 
 ###### Article R**441-1
 
@@ -13853,7 +15860,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre V : Police et surveillance.<a id=149></a>
+### Titre V : Police et surveillance.<a id=169></a>
 
 ###### Article R**451-1
 
@@ -14172,7 +16179,7 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-### Titre VI : Dispositions diverses.<a id=150></a>
+### Titre VI : Dispositions diverses.<a id=170></a>
 
 ###### Article R**461-1
 
@@ -14249,9 +16256,9 @@ _Abrogé par_:
   - Décret n°2007-1867 du 26 décembre 2007 - art. 1
 
 
-## Livre V : Régime du travail dans les ports maritimes.<a id=151></a>
+## Livre V : Régime du travail dans les ports maritimes.<a id=171></a>
 
-### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=152></a>
+### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=172></a>
 
 ###### Article R511-1
 
@@ -14572,7 +16579,7 @@ _Cité par_:
   - Code des ports maritimes - art. R*511-5 (Ab)
 
 
-### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=153></a>
+### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=173></a>
 
 ###### Article R*521-1
 
@@ -14831,7 +16838,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre III : Sanctions et dispositions diverses.<a id=154></a>
+### Titre III : Sanctions et dispositions diverses.<a id=174></a>
 
 ###### Article R531-1
 
@@ -14890,11 +16897,11 @@ _Cite_:
   - SPEC_APPLI: Code des ports maritimes - art. L531-1 (VT)
 
 
-## Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements.<a id=155></a>
+## Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements.<a id=175></a>
 
-### Titre Ier : Aménagement et exploitation des ports maritimes.<a id=156></a>
+### Titre Ier : Aménagement et exploitation des ports maritimes.<a id=176></a>
 
-#### Chapitre Ier : Aménagement et organisation.<a id=157></a>
+#### Chapitre Ier : Aménagement et organisation.<a id=177></a>
 
 ###### Article R*611-1
 
@@ -15024,7 +17031,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre II : Tarifs.<a id=158></a>
+#### Chapitre II : Tarifs.<a id=178></a>
 
 ###### Article R*612-1
 
@@ -15121,7 +17128,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre III : Délimitation.<a id=159></a>
+#### Chapitre III : Délimitation.<a id=179></a>
 
 ###### Article R*613-1
 
@@ -15147,7 +17154,7 @@ _Modifié par_:
   - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
 
 
-#### Chapitre IV : Dispositions communes.<a id=160></a>
+#### Chapitre IV : Dispositions communes.<a id=180></a>
 
 ###### Article R*614-1
 
@@ -15169,9 +17176,9 @@ _Cite_:
   - Code des ports maritimes R611-3, R612-2, R612-3, R613-1
 
 
-### Titre II : Conseils portuaires.<a id=161></a>
+### Titre II : Conseils portuaires.<a id=181></a>
 
-#### Chapitre Ier : Dispositions relatives aux ports départementaux.<a id=162></a>
+#### Chapitre Ier : Dispositions relatives aux ports départementaux.<a id=182></a>
 
 ###### Article R*621-1
 
@@ -15355,7 +17362,7 @@ _Cite_:
   - Code des ports maritimes R621-1, R621-2
 
 
-#### Chapitre II : Dispositions relatives aux ports communaux.<a id=163></a>
+#### Chapitre II : Dispositions relatives aux ports communaux.<a id=183></a>
 
 ###### Article R*622-1
 
@@ -15488,7 +17495,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre III : Dispositions communes.<a id=164></a>
+#### Chapitre III : Dispositions communes.<a id=184></a>
 
 ###### Article R*623-1
 
@@ -15610,9 +17617,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre III : Domaine public portuaire.<a id=165></a>
+### Titre III : Domaine public portuaire.<a id=185></a>
 
-#### Chapitre unique.<a id=166></a>
+#### Chapitre unique.<a id=186></a>
 
 ###### Article R*631-1
 
@@ -15804,11 +17811,11 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R2124-63 (M)
 
 
-# Annexes<a id=167></a>
+# Annexes<a id=187></a>
 
-## Règlement général de police des ports maritimes de commerce et de pêche<a id=168></a>
+## Règlement général de police des ports maritimes de commerce et de pêche<a id=188></a>
 
-### Définitions.<a id=169></a>
+### Définitions.<a id=189></a>
 
 ###### Article Annexe à l'article R*351-1, art. 1
 
@@ -15842,7 +17849,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Désignation des postes à quai.<a id=170></a>
+### Désignation des postes à quai.<a id=190></a>
 
 ###### Article Annexe à l'article R*351-1, art. 2
 
@@ -15874,7 +17881,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Admission des bâtiments dans le port.<a id=171></a>
+### Admission des bâtiments dans le port.<a id=191></a>
 
 ###### Article Annexe à l'article R*351-1, art. 3
 
@@ -15921,7 +17928,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.<a id=172></a>
+### Autorisation d'entrée et navigation des bâtiments dans les ports, rades et chenaux d'accès.<a id=192></a>
 
 ###### Article Annexe à l'article R*351-1, art. 4
 
@@ -15961,7 +17968,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Déclaration d'entrée et de sortie.<a id=173></a>
+### Déclaration d'entrée et de sortie.<a id=193></a>
 
 ###### Article Annexe à l'article R*351-1, art. 5
 
@@ -15997,7 +18004,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Bâtiments de pêche, de plaisance, bateaux.<a id=174></a>
+### Bâtiments de pêche, de plaisance, bateaux.<a id=194></a>
 
 ###### Article Annexe à l'article R*351-1, art. 6
 
@@ -16020,7 +18027,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Bâtiments militaires français et étrangers.<a id=175></a>
+### Bâtiments militaires français et étrangers.<a id=195></a>
 
 ###### Article Annexe à l'article R*351-1, art. 7
 
@@ -16043,7 +18050,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mouillage et relevage des ancres.<a id=176></a>
+### Mouillage et relevage des ancres.<a id=196></a>
 
 ###### Article Annexe à l'article R*351-1, art. 8
 
@@ -16076,7 +18083,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mouvement des bâtiments.<a id=177></a>
+### Mouvement des bâtiments.<a id=197></a>
 
 ###### Article Annexe à l'article R*351-1, art. 9
 
@@ -16108,7 +18115,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Amarrage.<a id=178></a>
+### Amarrage.<a id=198></a>
 
 ###### Article Annexe à l'article R*351-1, art. 10
 
@@ -16141,7 +18148,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Déplacements sur ordre.<a id=179></a>
+### Déplacements sur ordre.<a id=199></a>
 
 ###### Article Annexe à l'article R*351-1, art. 11
 
@@ -16163,7 +18170,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Personnel à maintenir à bord.<a id=180></a>
+### Personnel à maintenir à bord.<a id=200></a>
 
 ###### Article Annexe à l'article R*351-1, art. 12
 
@@ -16199,7 +18206,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Manoeuvres de chasse, vidange, pompage.<a id=181></a>
+### Manoeuvres de chasse, vidange, pompage.<a id=201></a>
 
 ###### Article Annexe à l'article R*351-1, art. 13
 
@@ -16223,9 +18230,9 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Affectations des quais<a id=182></a>
+### Affectations des quais<a id=202></a>
 
-#### Durée des opérations commerciales.<a id=183></a>
+#### Durée des opérations commerciales.<a id=203></a>
 
 ###### Article Annexe à l'article R*351-1, art. 14
 
@@ -16255,7 +18262,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Durée d'occupation des postes, quais et terre-pleins.<a id=184></a>
+### Durée d'occupation des postes, quais et terre-pleins.<a id=204></a>
 
 ###### Article Annexe à l'article R*351-1, art. 15
 
@@ -16287,7 +18294,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Conservation du plan d'eau et des profondeurs des bassins.<a id=185></a>
+### Conservation du plan d'eau et des profondeurs des bassins.<a id=205></a>
 
 ###### Article Annexe à l'article R*351-1, art. 16
 
@@ -16325,7 +18332,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Propreté des eaux du port.<a id=186></a>
+### Propreté des eaux du port.<a id=206></a>
 
 ###### Article Annexe à l'article R*351-1, art. 17
 
@@ -16366,7 +18373,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Ramonage et incinération des déchets.<a id=187></a>
+### Ramonage et incinération des déchets.<a id=207></a>
 
 ###### Article Annexe à l'article R*351-1, art. 18
 
@@ -16388,7 +18395,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Marchandises infectes.<a id=188></a>
+### Marchandises infectes.<a id=208></a>
 
 ###### Article Annexe à l'article R*351-1, art. 19
 
@@ -16411,7 +18418,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Nettoyage des quais et terre-pleins.<a id=189></a>
+### Nettoyage des quais et terre-pleins.<a id=209></a>
 
 ###### Article Annexe à l'article R*351-1, art. 20
 
@@ -16437,7 +18444,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Restrictions concernant l'usage du feu.<a id=190></a>
+### Restrictions concernant l'usage du feu.<a id=210></a>
 
 ###### Article Annexe à l'article R*351-1, art. 21
 
@@ -16459,7 +18466,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Interdiction de fumer.<a id=191></a>
+### Interdiction de fumer.<a id=211></a>
 
 ###### Article Annexe à l'article R*351-1, art. 22
 
@@ -16485,7 +18492,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Consignes de lutte contre les sinistres.<a id=192></a>
+### Consignes de lutte contre les sinistres.<a id=212></a>
 
 ###### Article Annexe à l'article R*351-1, art. 23
 
@@ -16517,7 +18524,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Réparations et essais des machines.<a id=193></a>
+### Réparations et essais des machines.<a id=213></a>
 
 ###### Article Annexe à l'article R*351-1, art. 24
 
@@ -16543,7 +18550,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Mise à l'eau des bâtiments.<a id=194></a>
+### Mise à l'eau des bâtiments.<a id=214></a>
 
 ###### Article Annexe à l'article R*351-1, art. 25
 
@@ -16565,7 +18572,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Epaves et bâtiments vétustes ou désarmés.<a id=195></a>
+### Epaves et bâtiments vétustes ou désarmés.<a id=215></a>
 
 ###### Article Annexe à l'article R*351-1, art. 26
 
@@ -16591,7 +18598,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Conservation du domaine public.<a id=196></a>
+### Conservation du domaine public.<a id=216></a>
 
 ###### Article Annexe à l'article R*351-1, art. 27
 
@@ -16627,7 +18634,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Accès des personnes sur le port.<a id=197></a>
+### Accès des personnes sur le port.<a id=217></a>
 
 ###### Article Annexe à l'article R*351-1, art. 28
 
@@ -16648,7 +18655,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Circulation et stationnement des véhicules.<a id=198></a>
+### Circulation et stationnement des véhicules.<a id=218></a>
 
 ###### Article Annexe à l'article R*351-1, art. 29
 
@@ -16677,7 +18684,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Dépôt des marchandises.<a id=199></a>
+### Dépôt des marchandises.<a id=219></a>
 
 ###### Article Annexe à l'article R*351-1, art. 30
 
@@ -16708,7 +18715,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Rangement des appareils de manutention.<a id=200></a>
+### Rangement des appareils de manutention.<a id=220></a>
 
 ###### Article Annexe à l'article R*351-1, art. 31
 
@@ -16730,7 +18737,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Exécution des travaux et d'ouvrages.<a id=201></a>
+### Exécution des travaux et d'ouvrages.<a id=221></a>
 
 ###### Article Annexe à l'article R*351-1, art. 32
 
@@ -16752,7 +18759,7 @@ _Abrogé par_:
   - Décret n°2009-877 du 17 juillet 2009 (Ab)
 
 
-### Manoeuvres des amarres.<a id=202></a>
+### Manoeuvres des amarres.<a id=222></a>
 
 ###### Article Annexe à l'article R*351-1, art. 33
 
