@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2008-07-06
+Version Consolidée au 2008-07-06 00:00:01 +0200
 ## Contenu: 
   - [Partie législative (art. L100-1 à L601-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L100-1 à L163-2)](#2)
@@ -486,9 +486,14 @@ conditions prévues à l'article L. 101-4.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2008-660 du 4 juillet 2008 - art. 1
+  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+_Nouveaux textes_:
+
+  - Code des transports - art. L5312-16 (V)
+  - Code des transports - art. L5312-5 (V)
 
 _Cite_:
 
