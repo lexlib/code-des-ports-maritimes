@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2008-10-11
+Version Consolidée au 2009-01-24
 ## Contenu: 
   - [Partie législative (art. L100-1 à L601-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L100-1 à L163-2)](#2)
@@ -9074,9 +9074,9 @@ _Abrogé par_:
 
 Le fonctionnement comptable du port autonome est assuré dans les conditions prévues pour les établissements publics à
 caractère industriel et commercial dotés d'un agent comptable, par les articles 190 à 225 du décret du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+portant règlement général sur la comptabilité publique. 
 
-Il est élaboré un plan comptable commun, applicable à l'ensemble des ports autonomes.
+Il est élaboré un plan comptable commun, applicable à l'ensemble des ports autonomes. 
 
 Ce plan comptable détermine notamment :
 
@@ -9089,28 +9089,20 @@ Ce plan comptable détermine notamment :
 - les méthodes d'évaluation des stocks ;
 
 - les normes d'élaboration de la comptabilité analytique d'exploitation, de manière à assurer la connaissance de prix de
-revient établis sur les bases homogènes.
+revient établis sur les bases homogènes. 
 
 Le plan comptable est approuvé par arrêté conjoint du ministre chargé des ports maritimes et du ministre de l'économie et des
-finances, après avis du conseil national de la comptabilité.
+finances, après avis de l'Autorité des normes comptables.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°62-1587 1962-12-29 art. 190 à 225
-
-_Anciens textes_:
-
-  - Décret n°65-933 1965-11-08 art. 9, art. 20
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
+  - Décret n°62-1587 du 29 décembre 1962
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Ordonnance n°2009-79 du 22 janvier 2009 - art. 6 (V)
 
 
 ###### Article R*113-13
