@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2010-09-04
 ## Contenu: 
   - [Partie législative (art. L100-1 à L601-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L100-1 à L163-2)](#2)
@@ -88,9 +88,9 @@ Version Consolidée au 2010-07-14
           - [Section 4 : Substitution d'un grand port maritime à un port maritime relevant de l'Etat. (art. R101-7 à R101-10)](#85)
           - [Section 5 : Services connexes. (art. R101-11)](#86)
           - [Section 6 : Réception des déchets. (art. R101-12)](#87)
-        - [Chapitre II : Organisation. (art. R*102-10 à R102-29)](#88)
-          - [Section 1 : Conseil de surveillance. (art. R*102-10 à R102-14)](#89)
-          - [Section 2 : Directoire. (art. R* 102-15 à R102-23)](#90)
+        - [Chapitre II : Organisation. (art. R102-1 à R102-29)](#88)
+          - [Section 1 : Conseil de surveillance. (art. R102-1 à R102-14)](#89)
+          - [Section 2 : Directoire. (art. R102-15 à R102-23)](#90)
           - [Section 3 : Conseil de développement. (art. R102-24 à R102-27)](#91)
           - [Section 4 : Personnels. (art. R102-28)](#92)
           - [Section 5 : Commissaire du Gouvernement et autorité chargée du contrôle économique et financier. (art. R102-29)](#93)
@@ -5560,17 +5560,6 @@ _Abrogé par_:
 
 ##### Section 1 : Conseil de surveillance.<a id=89></a>
 
-###### Article R*102-10
-
-Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1031 du 9 octobre 2008 - art. 1
-
-
 ###### Article R102-1
 
 I. ― Les représentants de l'Etat au conseil de surveillance sont : 
@@ -5912,6 +5901,17 @@ _Cite_:
   - Code des ports maritimes - art. R102-4 (Ab)
 
 
+###### Article R102-10
+
+Le mandat du président du conseil de surveillance est d'une durée de cinq ans renouvelable.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+
 ###### Article R102-11
 
 Le conseil de surveillance établit son règlement intérieur. Il peut constituer en son sein des commissions spécialisées. 
@@ -6053,16 +6053,24 @@ _Nouveaux textes_:
 
 ##### Section 2 : Directoire.<a id=90></a>
 
-###### Article R* 102-15
+###### Article R102-15
 
 Les membres du directoire sont nommés pour une durée de cinq ans renouvelable. Le président du directoire est nommé pour une
 durée de cinq ans renouvelable.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1031 du 9 octobre 2008 - art. 2
+  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5312-27 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R102-16
