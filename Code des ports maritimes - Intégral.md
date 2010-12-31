@@ -1,284 +1,172 @@
 # Code des ports maritimes  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2011-01-01
 ## Contenu: 
-  - [Partie législative (art. L101-5 à L346-2)](#1)
-    - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L101-5 à L111-9)](#2)
-      - [Titre préliminaire : Organisation portuaire et grands ports maritimes. (art. L101-5 à L103-1)](#3)
-        - [Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes. (art. L101-5)](#4)
-          - [Section 4 :  Régime financier. (art. L101-5)](#5)
-        - [Chapitre III : Fonctionnement du grand port maritime. (art. L103-1)](#6)
-          - [Section 1 : Projet stratégique. (art. L103-1)](#7)
-      - [Titre Ier : Ports autonomes. (art. L111-4 à L111-9)](#8)
-        - [Chapitre Ier : Institution, attributions et régime financier. (art. L111-4 à L111-9)](#9)
-          - [Section 3 : Régime financier. (art. L111-4 à L111-9)](#10)
-    - [Livre II : Droits de port et de navigation. (art. L211-3-1)](#11)
-      - [Titre Ier : Droits de port. (art. L211-3-1)](#12)
-        - [Chapitre Ier : Dispositions communes. (art. L211-3-1)](#13)
-    - [Livre III : Police des ports maritimes. (art. L346-2)](#14)
-      - [Titre IV : Dispositions pénales. (art. L346-2)](#15)
-        - [Chapitre VI : Consignation et paiement immédiat de l'amende forfaitaire. (art. L346-2)](#16)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R101-1 à R*631-6)](#17)
-    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R101-1 à R*162-7)](#18)
-      - [Titre préliminaire : Organisation portuaire et grands ports maritimes. (art. R101-1 à R105-5)](#19)
-        - [Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes. (art. R101-1 à R101-12)](#20)
-          - [Section 1 : Institution. (art. R101-1)](#21)
-          - [Section 2 : Circonscription. (art. R101-2 à R101-4)](#22)
-          - [Section 3 : Régime financier. (art. R101-5 à R101-6)](#23)
-          - [Section 4 : Substitution d'un grand port maritime à un port maritime relevant de l'Etat. (art. R101-7 à R101-10)](#24)
-          - [Section 5 : Services connexes. (art. R101-11)](#25)
-          - [Section 6 : Réception des déchets. (art. R101-12)](#26)
-        - [Chapitre II : Organisation. (art. R102-1 à R102-29)](#27)
-          - [Section 1 : Conseil de surveillance. (art. R102-1 à R102-14)](#28)
-          - [Section 2 : Directoire. (art. R102-15 à R102-23)](#29)
-          - [Section 3 : Conseil de développement. (art. R102-24 à R102-27)](#30)
-          - [Section 4 : Personnels. (art. R102-28)](#31)
-          - [Section 5 : Commissaire du Gouvernement et autorité chargée du contrôle économique et financier. (art. R102-29)](#32)
-        - [Chapitre III : Fonctionnement du grand port maritime. (art. R103-1 à R103-14)](#33)
-          - [Section 1 : Projet stratégique. (art. R103-1 à R103-3)](#34)
-          - [Section 2 : Gestion financière et comptable. (art. R103-4 à R103-11)](#35)
-          - [Section 3 : Régime domanial. (art. R103-12 à R103-14)](#36)
-        - [Chapitre IV : Contrôle. (art. R104-1 à R104-5)](#37)
-        - [Chapitre V : Aménagement. (art. R105-1 à R105-5)](#38)
-          - [Section 1 : Terminaux. (art. R105-1 à R105-5)](#39)
-      - [Titre Ier : Ports autonomes. (art. R*111-1 à R*116-2)](#40)
-        - [Chapitre Ier : Institution, attributions et régime financier. (art. R*111-1 à R*111-15)](#41)
-          - [Section 1 : Institution et attributions. (art. R*111-1)](#42)
-          - [Section 2 : Circonscription. (art. R*111-3 à R*111-5-1)](#43)
-          - [Section 3 : Régime financier. (art. R*111-6 à R*111-7)](#44)
-          - [Section 4 : Substitution du régime d'autonomie défini au présent titre, au régime antérieur. (art. R*111-8 à R*111-11)](#45)
-          - [Section 5 : Services et activités connexes et annexes. (art. R*111-12 à R*111-15)](#46)
-        - [Chapitre II : Organisation. (art. R*112-1 à R*112-21)](#47)
-          - [Section 1 : Conseil d'administration. (art. R*112-1 à R*112-10-1)](#48)
-          - [Section 2 : Personnel. (art. R*112-11 à R*112-20)](#49)
-          - [Section 3 : Commissaire du Gouvernement et contrôleur d'Etat. (art. R*112-21)](#50)
-        - [Chapitre III : Fonctionnement du port autonome. (art. R*113-1 à R*113-25)](#51)
-          - [Section 1 : Fonctionnement et pouvoirs du conseil d'administration. (art. R*113-1 à R*113-6)](#52)
-          - [Section 2 : Attributions du directeur. (art. R*113-7 à R*113-11)](#53)
-          - [Section 3 : Gestion financière et comptable. (art. R*113-12 à R*113-21)](#54)
-          - [Section 4 : Régime domanial. (art. R*113-22 à R*113-25)](#55)
-        - [Chapitre IV : Contrôle. (art. R*114-1 à R*114-5)](#56)
-        - [Chapitre V : Aménagement. (art. R*115-1 à R*115-23)](#57)
-          - [Section 1 : Travaux. (art. R*115-1 à R*115-6)](#58)
-          - [Section 2 : Outillages et terminaux. (art. R*115-7 à R*115-18)](#59)
-            - [Sous-Section 1 : Dispositions générales. (art. R*115-7)](#60)
-            - [Sous-section 2 : Outillages publics gérés par le port autonome lui-même. (art. R*115-8)](#61)
-            - [Sous-section 3 : Outillages publics concédés. (art. R*115-9 à R*115-10)](#62)
-            - [Sous-section 4 : Autorisations d'outillages privés et d'exploitation de terminal. (art. R*115-13 à R*115-14)](#63)
-            - [Sous-section 5 : Dispositions communes relatives aux tarifs. (art. R*115-15 à R*115-18)](#64)
-          - [Section 3 : Commissions permanentes d'enquête. (art. R*115-19 à R*115-23)](#65)
-        - [Chapitre VI : Dispositions diverses. (art. R*116-1 à R*116-2)](#66)
-      - [Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat. (art. R*121-1 à R*122-17)](#67)
-        - [Chapitre Ier : Organisation. (art. R*121-1 à R*121-7)](#68)
-        - [Chapitre II : Aménagement. (art. R*122-1 à R*122-17)](#69)
-          - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#70)
-          - [Section 2 : Exploitation. (art. R*122-7 à R*122-17)](#71)
-            - [Sous-section 1 : Concession. (art. R*122-7 à R*122-10)](#72)
-            - [Sous-section 2 : Outillages privés. (art. R*122-11 à R*122-12)](#73)
-            - [Sous-section 3 : Dispositions relatives aux tarifs. (art. R*122-14 à R*122-17)](#74)
-      - [Titre III : Installations portuaires de plaisance. (art. R*131-1 à R*134-2)](#75)
-        - [Chapitre Ier : Dispositions générales. (art. R*131-1)](#76)
-        - [Chapitre II : Concessions. (art. R*132-1 à R132-3)](#77)
-        - [Chapitre III : Autorisations d'outillages privés avec obligation de service public. (art. R*133-1 à R*133-2)](#78)
-        - [Chapitre IV : Dispositions communes relatives aux tarifs. (art. R*134-1 à R*134-2)](#79)
-      - [Titre IV : Conseil portuaire et comité de pilotage stratégique. (art. R*141-1 à R*142-5)](#80)
-        - [Chapitre Ier : Rôle et fonctionnement du conseil portuaire. (art. R*141-1 à R*141-4)](#81)
-        - [Chapitre II : Composition du conseil portuaire. (art. R*142-1 à R*142-5)](#82)
-      - [Titre V : Dispositions communes à tous les ports relevant de la compétence de l'Etat. (art. R*151-1 à R155-6)](#83)
-        - [Chapitre Ier : Délimitation des ports maritimes. (art. R*151-1)](#84)
-        - [Chapitre III : Matériel de dragage. (art. R153-1 à R153-2)](#85)
-        - [Chapitre IV : Suivi du trafic maritime. (art. R154-1 à R154-2)](#86)
-        - [Chapitre V : Sécurité des ouvrages maritimes portuaires. (art. R155-1 à R155-6)](#87)
-      - [Titre VI : Dispositions particulières aux ports des départements d'outre-mer. (art. R*161-1 à R*162-7)](#88)
-        - [Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer. (art. R*161-1)](#89)
-        - [Chapitre II : Dispositions particulières au port autonome de la Guadeloupe. (art. R*162-1 à R*162-7)](#90)
-    - [Livre II : Droits de port et de navigation. (art. R*211-1 à R*231-2)](#91)
-      - [Titre Ier : Droits de port. (art. R*211-1 à R*215-1)](#92)
-        - [Chapitre Ier : Dispositions communes. (art. R*211-1 à R211-10)](#93)
-          - [Section 1 : Redevances comprises dans le droit de port. (art. R*211-1)](#94)
-          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-2 à R211-5-1)](#95)
-          - [Section 3 : Fixation des taux des droits de port dans les ports maritimes ne relevant pas de la compétence de l'Etat. (art. R*211-9-1 à R*211-9-5)](#96)
-          - [Section 4 : Affectation du produit du droit de port. (art. R*211-11 à R211-10)](#97)
-        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-21)](#98)
-          - [Section 1 : Redevance sur le navire et redevance de stationnement. (art. R*212-2 à R212-6)](#99)
-          - [Section 2 : Redevance sur les marchandises. (art. R*212-13 à R*212-16)](#100)
-          - [Section 3 : Redevances sur les passagers. (art. R*212-17 à R212-19)](#101)
-          - [Section 4 : Financement des coûts de réception et de traitement des déchets d'exploitation des navires. (art. R*212-20 à R*212-21)](#102)
-        - [Chapitre III : Dispositions propres aux navires de pêche. (art. R*213-1 à R*213-5)](#103)
-        - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-6)](#104)
-        - [Chapitre V : Dispositions diverses. (art. R*215-1)](#105)
-      - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-2)](#106)
-    - [Livre III : Police des ports maritimes. (art. R*301-1 à R343-4)](#107)
-      - [Titre préliminaire : Dispositions générales. (art. R*301-1 à R304-11)](#108)
-        - [Chapitre Ier : Champ d'application et principes généraux d'organisation. (art. R*301-1 à R301-6)](#109)
-        - [Chapitre II : Compétences en matière de règlement de police dans les ports maritimes. (art. R302-1 à R302-2)](#110)
-        - [Chapitre III : Agents chargés de la police dans les ports maritimes. (art. R303-1 à R303-8)](#111)
-        - [Chapitre IV : Dispositions applicables à certaines situations particulières. (art. R304-1 à R304-11)](#112)
-          - [Section 1 : Opérations de secours en cas de sinistre. (art. R304-1 à R304-7)](#113)
-          - [Section 2 : Dispositifs propres aux besoins de la défense nationale. (art. R304-8 à R304-10)](#114)
-          - [Section 3 : Restrictions applicables aux navires présentant un danger. (art. R304-11)](#115)
-      - [Titre Ier : Police du plan d'eau. (art. R311-1)](#116)
-      - [Titre II : Sûreté portuaire. (art. R321-1 à R321-52)](#117)
-        - [Chapitre unique :  Sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-52)](#118)
-          - [Section 1 : Organisation administrative. (art. R321-1 à R321-6-1)](#119)
-            - [Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-3)](#120)
-            - [Sous-section 2 : Comités locaux de sûreté portuaire. (art. R321-4 à R321-5)](#121)
-            - [Sous-section 3 : Compétences du représentant de l'Etat dans le département. (art. R321-6 à R321-6-1)](#122)
-          - [Section 2 : Organismes de sûreté habilités. (art. R321-7 à R321-14)](#123)
-            - [Sous-section 1 : Habilitation des organismes de sûreté. (art. R321-7 à R321-11)](#124)
-            - [Sous-section 2 : Fonctions des organismes de sûreté habilités. (art. R321-12 à R321-14)](#125)
-          - [Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-15 à R321-30)](#126)
-            - [Sous-section 1 : Champ d'application. (art. R321-15 à R321-16)](#127)
-            - [Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire. (art. R321-17 à R321-22)](#128)
-            - [Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-23 à R321-30)](#129)
-          - [Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint. (art. R321-31 à R321-47)](#130)
-            - [Sous-section 1 : Création des zones d'accès restreint. (art. R321-31 à R321-32)](#131)
-            - [Sous-section 2 : Accès aux zones d'accès restreint. (art. R321-33 à R321-40)](#132)
-            - [Sous-section 3 : Equipements et systèmes de sûreté. (art. R321-41)](#133)
-            - [Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté. (art. R321-42 à R321-47)](#134)
-          - [Section 5 : Sûreté des plans d'eau portuaires. (art. R321-48)](#135)
-          - [Section 6 : Mesures d'exécution et sanctions. (art. R321-49 à R321-52)](#136)
-            - [Sous-section 1 : Sanctions administratives. (art. R321-49 à R321-51)](#137)
-            - [Sous-section 2 : Sanctions pénales. (art. R321-52)](#138)
-      - [Titre III : Polices de la grande voirie. (art. R330-1)](#139)
-      - [Titre IV : Dispositions spéciales. (art. R341-1 à R343-4)](#140)
-        - [Chapitre Ier : Police de la signalisation maritime. (art. R341-1)](#141)
-        - [Chapitre II : Chargement et déchargement des navires vraquiers. (art. R342-1 à R342-7)](#142)
-        - [Chapitre III : Déchets d'exploitation et résidus de cargaison. (art. R343-1 à R343-4)](#143)
-    - [Livre IV : Voies ferrées portuaires. (art. R411-1 à R411-9)](#144)
-    - [Livre V : Régime du travail dans les ports maritimes. (art. R511-1 à R531-1)](#145)
-      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R511-1 à R511-4)](#146)
-      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R521-1 à R521-8)](#147)
-      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#148)
-    - [Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements. (art. R*611-1 à R*631-6)](#149)
-      - [Titre Ier : Aménagement et exploitation des ports maritimes. (art. R*611-1 à R616-2)](#150)
-        - [Chapitre Ier : Aménagement et organisation. (art. R*611-1 à R*611-4)](#151)
-        - [Chapitre II : Tarifs. (art. R*612-1 à R*612-3)](#152)
-        - [Chapitre III : Délimitation. (art. R*613-1)](#153)
-        - [Chapitre IV : Dispositions communes. (art. R*614-1)](#154)
-        - [Chapitre V : Suivi du trafic maritime. (art. R615-1)](#155)
-        - [Chapitre VI : Sécurité des ouvrages maritimes portuaires. (art. R616-1 à R616-2)](#156)
-      - [Titre II : Conseils portuaires. (art. R*621-1 à R*623-4)](#157)
-        - [Chapitre Ier : Dispositions relatives aux ports départementaux. (art. R*621-1 à R*621-4)](#158)
-        - [Chapitre II : Dispositions relatives aux ports communaux. (art. R*622-1 à R*622-4)](#159)
-        - [Chapitre III : Dispositions communes. (art. R*623-1 à R*623-4)](#160)
-      - [Titre III : Domaine public portuaire. (art. R*631-1 à R*631-6)](#161)
-        - [Chapitre unique. (art. R*631-1 à R*631-6)](#162)
+  - [Partie législative (art. L111-4 à L346-2)](#1)
+    - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-4 à L111-9)](#2)
+      - [Titre Ier : Ports autonomes. (art. L111-4 à L111-9)](#3)
+        - [Chapitre Ier : Institution, attributions et régime financier. (art. L111-4 à L111-9)](#4)
+          - [Section 3 : Régime financier. (art. L111-4 à L111-9)](#5)
+    - [Livre II : Droits de port et de navigation. (art. L211-3-1)](#6)
+      - [Titre Ier : Droits de port. (art. L211-3-1)](#7)
+        - [Chapitre Ier : Dispositions communes. (art. L211-3-1)](#8)
+    - [Livre III : Police des ports maritimes. (art. L346-2)](#9)
+      - [Titre IV : Dispositions pénales. (art. L346-2)](#10)
+        - [Chapitre VI : Consignation et paiement immédiat de l'amende forfaitaire. (art. L346-2)](#11)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R101-1 à R*631-6)](#12)
+    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R101-1 à R*162-7)](#13)
+      - [Titre préliminaire : Organisation portuaire et grands ports maritimes. (art. R101-1 à R105-5)](#14)
+        - [Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes. (art. R101-1 à R101-12)](#15)
+          - [Section 1 : Institution. (art. R101-1)](#16)
+          - [Section 2 : Circonscription. (art. R101-2 à R101-4)](#17)
+          - [Section 3 : Régime financier. (art. R101-5 à R101-6)](#18)
+          - [Section 4 : Substitution d'un grand port maritime à un port maritime relevant de l'Etat. (art. R101-7 à R101-10)](#19)
+          - [Section 5 : Services connexes. (art. R101-11)](#20)
+          - [Section 6 : Réception des déchets. (art. R101-12)](#21)
+        - [Chapitre II : Organisation. (art. R102-1 à R102-29)](#22)
+          - [Section 1 : Conseil de surveillance. (art. R102-1 à R102-14)](#23)
+          - [Section 2 : Directoire. (art. R102-15 à R102-23)](#24)
+          - [Section 3 : Conseil de développement. (art. R102-24 à R102-27)](#25)
+          - [Section 4 : Personnels. (art. R102-28)](#26)
+          - [Section 5 : Commissaire du Gouvernement et autorité chargée du contrôle économique et financier. (art. R102-29)](#27)
+        - [Chapitre III : Fonctionnement du grand port maritime. (art. R103-1 à R103-14)](#28)
+          - [Section 1 : Projet stratégique. (art. R103-1 à R103-3)](#29)
+          - [Section 2 : Gestion financière et comptable. (art. R103-4 à R103-11)](#30)
+          - [Section 3 : Régime domanial. (art. R103-12 à R103-14)](#31)
+        - [Chapitre IV : Contrôle. (art. R104-1 à R104-5)](#32)
+        - [Chapitre V : Aménagement. (art. R105-1 à R105-5)](#33)
+          - [Section 1 : Terminaux. (art. R105-1 à R105-5)](#34)
+      - [Titre Ier : Ports autonomes. (art. R*111-1 à R*116-2)](#35)
+        - [Chapitre Ier : Institution, attributions et régime financier. (art. R*111-1 à R*111-15)](#36)
+          - [Section 1 : Institution et attributions. (art. R*111-1)](#37)
+          - [Section 2 : Circonscription. (art. R*111-3 à R*111-5-1)](#38)
+          - [Section 3 : Régime financier. (art. R*111-6 à R*111-7)](#39)
+          - [Section 4 : Substitution du régime d'autonomie défini au présent titre, au régime antérieur. (art. R*111-8 à R*111-11)](#40)
+          - [Section 5 : Services et activités connexes et annexes. (art. R*111-12 à R*111-15)](#41)
+        - [Chapitre II : Organisation. (art. R*112-1 à R*112-21)](#42)
+          - [Section 1 : Conseil d'administration. (art. R*112-1 à R*112-10-1)](#43)
+          - [Section 2 : Personnel. (art. R*112-11 à R*112-20)](#44)
+          - [Section 3 : Commissaire du Gouvernement et contrôleur d'Etat. (art. R*112-21)](#45)
+        - [Chapitre III : Fonctionnement du port autonome. (art. R*113-1 à R*113-25)](#46)
+          - [Section 1 : Fonctionnement et pouvoirs du conseil d'administration. (art. R*113-1 à R*113-6)](#47)
+          - [Section 2 : Attributions du directeur. (art. R*113-7 à R*113-11)](#48)
+          - [Section 3 : Gestion financière et comptable. (art. R*113-12 à R*113-21)](#49)
+          - [Section 4 : Régime domanial. (art. R*113-22 à R*113-25)](#50)
+        - [Chapitre IV : Contrôle. (art. R*114-1 à R*114-5)](#51)
+        - [Chapitre V : Aménagement. (art. R*115-1 à R*115-23)](#52)
+          - [Section 1 : Travaux. (art. R*115-1 à R*115-6)](#53)
+          - [Section 2 : Outillages et terminaux. (art. R*115-7 à R*115-18)](#54)
+            - [Sous-Section 1 : Dispositions générales. (art. R*115-7)](#55)
+            - [Sous-section 2 : Outillages publics gérés par le port autonome lui-même. (art. R*115-8)](#56)
+            - [Sous-section 3 : Outillages publics concédés. (art. R*115-9 à R*115-10)](#57)
+            - [Sous-section 4 : Autorisations d'outillages privés et d'exploitation de terminal. (art. R*115-13 à R*115-14)](#58)
+            - [Sous-section 5 : Dispositions communes relatives aux tarifs. (art. R*115-15 à R*115-18)](#59)
+          - [Section 3 : Commissions permanentes d'enquête. (art. R*115-19 à R*115-23)](#60)
+        - [Chapitre VI : Dispositions diverses. (art. R*116-1 à R*116-2)](#61)
+      - [Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat. (art. R*121-1 à R*122-17)](#62)
+        - [Chapitre Ier : Organisation. (art. R*121-1 à R*121-7)](#63)
+        - [Chapitre II : Aménagement. (art. R*122-1 à R*122-17)](#64)
+          - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#65)
+          - [Section 2 : Exploitation. (art. R*122-7 à R*122-17)](#66)
+            - [Sous-section 1 : Concession. (art. R*122-7 à R*122-10)](#67)
+            - [Sous-section 2 : Outillages privés. (art. R*122-11 à R*122-12)](#68)
+            - [Sous-section 3 : Dispositions relatives aux tarifs. (art. R*122-14 à R*122-17)](#69)
+      - [Titre III : Installations portuaires de plaisance. (art. R*131-1 à R*134-2)](#70)
+        - [Chapitre Ier : Dispositions générales. (art. R*131-1)](#71)
+        - [Chapitre II : Concessions. (art. R*132-1 à R132-3)](#72)
+        - [Chapitre III : Autorisations d'outillages privés avec obligation de service public. (art. R*133-1 à R*133-2)](#73)
+        - [Chapitre IV : Dispositions communes relatives aux tarifs. (art. R*134-1 à R*134-2)](#74)
+      - [Titre IV : Conseil portuaire et comité de pilotage stratégique. (art. R*141-1 à R*142-5)](#75)
+        - [Chapitre Ier : Rôle et fonctionnement du conseil portuaire. (art. R*141-1 à R*141-4)](#76)
+        - [Chapitre II : Composition du conseil portuaire. (art. R*142-1 à R*142-5)](#77)
+      - [Titre V : Dispositions communes à tous les ports relevant de la compétence de l'Etat. (art. R*151-1 à R155-6)](#78)
+        - [Chapitre Ier : Délimitation des ports maritimes. (art. R*151-1)](#79)
+        - [Chapitre III : Matériel de dragage. (art. R153-1 à R153-2)](#80)
+        - [Chapitre IV : Suivi du trafic maritime. (art. R154-1 à R154-2)](#81)
+        - [Chapitre V : Sécurité des ouvrages maritimes portuaires. (art. R155-1 à R155-6)](#82)
+      - [Titre VI : Dispositions particulières aux ports des départements d'outre-mer. (art. R*161-1 à R*162-7)](#83)
+        - [Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer. (art. R*161-1)](#84)
+        - [Chapitre II : Dispositions particulières au port autonome de la Guadeloupe. (art. R*162-1 à R*162-7)](#85)
+    - [Livre II : Droits de port et de navigation. (art. R*211-1 à R*231-2)](#86)
+      - [Titre Ier : Droits de port. (art. R*211-1 à R*215-1)](#87)
+        - [Chapitre Ier : Dispositions communes. (art. R*211-1 à R211-10)](#88)
+          - [Section 1 : Redevances comprises dans le droit de port. (art. R*211-1)](#89)
+          - [Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat. (art. R*211-2 à R211-5-1)](#90)
+          - [Section 3 : Fixation des taux des droits de port dans les ports maritimes ne relevant pas de la compétence de l'Etat. (art. R*211-9-1 à R*211-9-5)](#91)
+          - [Section 4 : Affectation du produit du droit de port. (art. R*211-11 à R211-10)](#92)
+        - [Chapitre II : Dispositions propres aux navires de commerce. (art. R*212-1 à R*212-21)](#93)
+          - [Section 1 : Redevance sur le navire et redevance de stationnement. (art. R*212-2 à R212-6)](#94)
+          - [Section 2 : Redevance sur les marchandises. (art. R*212-13 à R*212-16)](#95)
+          - [Section 3 : Redevances sur les passagers. (art. R*212-17 à R212-19)](#96)
+          - [Section 4 : Financement des coûts de réception et de traitement des déchets d'exploitation des navires. (art. R*212-20 à R*212-21)](#97)
+        - [Chapitre III : Dispositions propres aux navires de pêche. (art. R*213-1 à R*213-5)](#98)
+        - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-6)](#99)
+        - [Chapitre V : Dispositions diverses. (art. R*215-1)](#100)
+      - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-2)](#101)
+    - [Livre III : Police des ports maritimes. (art. R*301-1 à R343-4)](#102)
+      - [Titre préliminaire : Dispositions générales. (art. R*301-1 à R304-11)](#103)
+        - [Chapitre Ier : Champ d'application et principes généraux d'organisation. (art. R*301-1 à R301-6)](#104)
+        - [Chapitre II : Compétences en matière de règlement de police dans les ports maritimes. (art. R302-1 à R302-2)](#105)
+        - [Chapitre III : Agents chargés de la police dans les ports maritimes. (art. R303-1 à R303-8)](#106)
+        - [Chapitre IV : Dispositions applicables à certaines situations particulières. (art. R304-1 à R304-11)](#107)
+          - [Section 1 : Opérations de secours en cas de sinistre. (art. R304-1 à R304-7)](#108)
+          - [Section 2 : Dispositifs propres aux besoins de la défense nationale. (art. R304-8 à R304-10)](#109)
+          - [Section 3 : Restrictions applicables aux navires présentant un danger. (art. R304-11)](#110)
+      - [Titre Ier : Police du plan d'eau. (art. R311-1)](#111)
+      - [Titre II : Sûreté portuaire. (art. R321-1 à R321-52)](#112)
+        - [Chapitre unique :  Sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-52)](#113)
+          - [Section 1 : Organisation administrative. (art. R321-1 à R321-6-1)](#114)
+            - [Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-3)](#115)
+            - [Sous-section 2 : Comités locaux de sûreté portuaire. (art. R321-4 à R321-5)](#116)
+            - [Sous-section 3 : Compétences du représentant de l'Etat dans le département. (art. R321-6 à R321-6-1)](#117)
+          - [Section 2 : Organismes de sûreté habilités. (art. R321-7 à R321-14)](#118)
+            - [Sous-section 1 : Habilitation des organismes de sûreté. (art. R321-7 à R321-11)](#119)
+            - [Sous-section 2 : Fonctions des organismes de sûreté habilités. (art. R321-12 à R321-14)](#120)
+          - [Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-15 à R321-30)](#121)
+            - [Sous-section 1 : Champ d'application. (art. R321-15 à R321-16)](#122)
+            - [Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire. (art. R321-17 à R321-22)](#123)
+            - [Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires. (art. R321-23 à R321-30)](#124)
+          - [Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint. (art. R321-31 à R321-47)](#125)
+            - [Sous-section 1 : Création des zones d'accès restreint. (art. R321-31 à R321-32)](#126)
+            - [Sous-section 2 : Accès aux zones d'accès restreint. (art. R321-33 à R321-40)](#127)
+            - [Sous-section 3 : Equipements et systèmes de sûreté. (art. R321-41)](#128)
+            - [Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté. (art. R321-42 à R321-47)](#129)
+          - [Section 5 : Sûreté des plans d'eau portuaires. (art. R321-48)](#130)
+          - [Section 6 : Mesures d'exécution et sanctions. (art. R321-49 à R321-52)](#131)
+            - [Sous-section 1 : Sanctions administratives. (art. R321-49 à R321-51)](#132)
+            - [Sous-section 2 : Sanctions pénales. (art. R321-52)](#133)
+      - [Titre III : Polices de la grande voirie. (art. R330-1)](#134)
+      - [Titre IV : Dispositions spéciales. (art. R341-1 à R343-4)](#135)
+        - [Chapitre Ier : Police de la signalisation maritime. (art. R341-1)](#136)
+        - [Chapitre II : Chargement et déchargement des navires vraquiers. (art. R342-1 à R342-7)](#137)
+        - [Chapitre III : Déchets d'exploitation et résidus de cargaison. (art. R343-1 à R343-4)](#138)
+    - [Livre IV : Voies ferrées portuaires. (art. R411-1 à R411-9)](#139)
+    - [Livre V : Régime du travail dans les ports maritimes. (art. R511-1 à R531-1)](#140)
+      - [Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers). (art. R511-1 à R511-4)](#141)
+      - [Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers. (art. R521-1 à R521-8)](#142)
+      - [Titre III : Sanctions et dispositions diverses. (art. R531-1)](#143)
+    - [Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements. (art. R*611-1 à R*631-6)](#144)
+      - [Titre Ier : Aménagement et exploitation des ports maritimes. (art. R*611-1 à R616-2)](#145)
+        - [Chapitre Ier : Aménagement et organisation. (art. R*611-1 à R*611-4)](#146)
+        - [Chapitre II : Tarifs. (art. R*612-1 à R*612-3)](#147)
+        - [Chapitre III : Délimitation. (art. R*613-1)](#148)
+        - [Chapitre IV : Dispositions communes. (art. R*614-1)](#149)
+        - [Chapitre V : Suivi du trafic maritime. (art. R615-1)](#150)
+        - [Chapitre VI : Sécurité des ouvrages maritimes portuaires. (art. R616-1 à R616-2)](#151)
+      - [Titre II : Conseils portuaires. (art. R*621-1 à R*623-4)](#152)
+        - [Chapitre Ier : Dispositions relatives aux ports départementaux. (art. R*621-1 à R*621-4)](#153)
+        - [Chapitre II : Dispositions relatives aux ports communaux. (art. R*622-1 à R*622-4)](#154)
+        - [Chapitre III : Dispositions communes. (art. R*623-1 à R*623-4)](#155)
+      - [Titre III : Domaine public portuaire. (art. R*631-1 à R*631-6)](#156)
+        - [Chapitre unique. (art. R*631-1 à R*631-6)](#157)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes.<a id=2></a>
 
-### Titre préliminaire : Organisation portuaire et grands ports maritimes.<a id=3></a>
+### Titre Ier : Ports autonomes.<a id=3></a>
 
-#### Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes.<a id=4></a>
+#### Chapitre Ier : Institution, attributions et régime financier.<a id=4></a>
 
-##### Section 4 :  Régime financier.<a id=5></a>
-
-###### Article L101-5
-
-L'article L. 111-4 est applicable aux grands ports maritimes. 
-
-Pour les travaux devant être effectués dans le cadre des missions définies à l'article L. 101-3 sans le concours financier de
-l'Etat et n'entraînant pas de modification essentielle dans les accès ou ouvrages du port, le grand port maritime statue
-définitivement.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article L.
-101-5.
-
-Le décret n° 2014-1670 du 30 décembre 2014 relatif aux dispositions du  livre III de la cinquième partie réglementaire du
-code des transports et  à leur adaptation à l'outre-mer est paru au JORF du 31 décembre 2014.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-660 du 4 juillet 2008 - art. 1
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R5312-87 (V)
-
-_Cite_:
-
-  - Code des ports maritimes - art. L101-3
-  - Code des ports maritimes - art. L111-4
-
-_Cité par_:
-
-  - Code des ports maritimes - art. L101-6 (VT)
-
-
-#### Chapitre III : Fonctionnement du grand port maritime.<a id=6></a>
-
-##### Section 1 : Projet stratégique.<a id=7></a>
-
-###### Article L103-1
-
-Pour l'exercice des missions définies à l'article L. 101-3, le projet stratégique de chaque grand port maritime détermine ses
-grandes orientations, les modalités de son action et les dépenses et recettes prévisionnelles nécessaires à sa mise en œuvre.
-Il doit être compatible avec les orientations nationales en matière de dessertes intermodales des ports et les orientations
-prévues par le document de coordination mentionné à l'article L. 102-7, lorsqu'il existe. 
-
-Il comporte des documents graphiques indiquant les différentes zones et leur vocation, notamment les zones ayant des enjeux
-naturels. 
-
-Un décret en Conseil d'Etat fixe les modalités d'élaboration et de révision du projet stratégique et précise son contenu. 
-
-Le grand port maritime conclut un contrat pluriannuel avec l'Etat et, le cas échéant, avec les collectivités territoriales
-intéressées ou leurs groupements, qui a pour objet de préciser les modalités de mise en œuvre du projet stratégique dans
-leurs domaines de compétences respectifs. Ce contrat porte également sur la politique de dividendes versés à l'Etat.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le quatrième
-alinéa de l'article L. 103-1.
-
-Le décret n° 2014-1670 du 30 décembre 2014 relatif aux dispositions du livre III de la cinquième partie réglementaire du code
-des transports et à leur adaptation à l'outre-mer est paru au JORF du 31 décembre 2014.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2008-660 du 4 juillet 2008 - art. 1
-
-_Cité par_:
-
-  - Loi n°2008-660 du 4 juillet 2008 - art. 8 (V)
-  - Code des ports maritimes - art. L102-3 (VT)
-  - Code des ports maritimes - art. R102-12 (Ab)
-  - Code des ports maritimes - art. R102-17 (Ab)
-  - Code des ports maritimes - art. R102-27 (V)
-  - Code des ports maritimes - art. R103-1 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-_Cite_:
-
-  - Code des ports maritimes - art. L101-3
-  - Code des ports maritimes - art. L102-7
-
-_Nouveaux textes_:
-
-  - Code des transports - art. L5312-13 (V)
-  - Code des transports - art. L5312-18 (V)
-  - Code des transports - art. R5312-66 (Ab)
-
-
-### Titre Ier : Ports autonomes.<a id=8></a>
-
-#### Chapitre Ier : Institution, attributions et régime financier.<a id=9></a>
-
-##### Section 3 : Régime financier.<a id=10></a>
+##### Section 3 : Régime financier.<a id=5></a>
 
 ###### Article L111-4
 
@@ -481,11 +369,11 @@ _Nouveaux textes_:
   - Code des transports - art. R5313-49 (V)
 
 
-## Livre II : Droits de port et de navigation.<a id=11></a>
+## Livre II : Droits de port et de navigation.<a id=6></a>
 
-### Titre Ier : Droits de port.<a id=12></a>
+### Titre Ier : Droits de port.<a id=7></a>
 
-#### Chapitre Ier : Dispositions communes.<a id=13></a>
+#### Chapitre Ier : Dispositions communes.<a id=8></a>
 
 ###### Article L211-3-1
 
@@ -512,11 +400,11 @@ _Cite_:
   - Code des ports maritimes L211-1 à L211-3
 
 
-## Livre III : Police des ports maritimes.<a id=14></a>
+## Livre III : Police des ports maritimes.<a id=9></a>
 
-### Titre IV : Dispositions pénales.<a id=15></a>
+### Titre IV : Dispositions pénales.<a id=10></a>
 
-#### Chapitre VI : Consignation et paiement immédiat de l'amende forfaitaire.<a id=16></a>
+#### Chapitre VI : Consignation et paiement immédiat de l'amende forfaitaire.<a id=11></a>
 
 ###### Article L346-2
 
@@ -556,15 +444,15 @@ _Cité par_:
   - Code des ports maritimes - art. L345-6 (VT)
 
 
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=17></a>
+# Partie réglementaire - Décrets en Conseil d'Etat<a id=12></a>
 
-## Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat.<a id=18></a>
+## Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat.<a id=13></a>
 
-### Titre préliminaire : Organisation portuaire et grands ports maritimes.<a id=19></a>
+### Titre préliminaire : Organisation portuaire et grands ports maritimes.<a id=14></a>
 
-#### Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes.<a id=20></a>
+#### Chapitre Ier : Institution, attributions et régime financier des grands ports maritimes.<a id=15></a>
 
-##### Section 1 : Institution.<a id=21></a>
+##### Section 1 : Institution.<a id=16></a>
 
 ###### Article R101-1
 
@@ -599,7 +487,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 2 : Circonscription.<a id=22></a>
+##### Section 2 : Circonscription.<a id=17></a>
 
 ###### Article R101-2
 
@@ -716,7 +604,7 @@ _Cite_:
   - Code des ports maritimes - art. R101-2
 
 
-##### Section 3 : Régime financier.<a id=23></a>
+##### Section 3 : Régime financier.<a id=18></a>
 
 ###### Article R101-5
 
@@ -763,7 +651,7 @@ _Cite_:
   - Code des ports maritimes - art. R*111-6
 
 
-##### Section 4 : Substitution d'un grand port maritime à un port maritime relevant de l'Etat.<a id=24></a>
+##### Section 4 : Substitution d'un grand port maritime à un port maritime relevant de l'Etat.<a id=19></a>
 
 ###### Article R101-7
 
@@ -893,7 +781,7 @@ _Cite_:
   - Code des ports maritimes - art. R101-7
 
 
-##### Section 5 : Services connexes.<a id=25></a>
+##### Section 5 : Services connexes.<a id=20></a>
 
 ###### Article R101-11
 
@@ -923,7 +811,7 @@ _Cite_:
   - Code des ports maritimes - art. R*151-1
 
 
-##### Section 6 : Réception des déchets.<a id=26></a>
+##### Section 6 : Réception des déchets.<a id=21></a>
 
 ###### Article R101-12
 
@@ -964,9 +852,9 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Organisation.<a id=27></a>
+#### Chapitre II : Organisation.<a id=22></a>
 
-##### Section 1 : Conseil de surveillance.<a id=28></a>
+##### Section 1 : Conseil de surveillance.<a id=23></a>
 
 ###### Article R102-1
 
@@ -1459,7 +1347,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5312-25 (V)
 
 
-##### Section 2 : Directoire.<a id=29></a>
+##### Section 2 : Directoire.<a id=24></a>
 
 ###### Article R102-15
 
@@ -1702,7 +1590,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5312-35 (M)
 
 
-##### Section 3 : Conseil de développement.<a id=30></a>
+##### Section 3 : Conseil de développement.<a id=25></a>
 
 ###### Article R102-24
 
@@ -1873,7 +1761,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5312-39 (M)
 
 
-##### Section 4 : Personnels.<a id=31></a>
+##### Section 4 : Personnels.<a id=26></a>
 
 ###### Article R102-28
 
@@ -1898,7 +1786,7 @@ _Cite_:
   - Code des ports maritimes - art. R*112-14
 
 
-##### Section 5 : Commissaire du Gouvernement et autorité chargée du contrôle économique et financier.<a id=32></a>
+##### Section 5 : Commissaire du Gouvernement et autorité chargée du contrôle économique et financier.<a id=27></a>
 
 ###### Article R102-29
 
@@ -1931,9 +1819,9 @@ _Nouveaux textes_:
   - Code des transports - art. R5312-62 (M)
 
 
-#### Chapitre III : Fonctionnement du grand port maritime.<a id=33></a>
+#### Chapitre III : Fonctionnement du grand port maritime.<a id=28></a>
 
-##### Section 1 : Projet stratégique.<a id=34></a>
+##### Section 1 : Projet stratégique.<a id=29></a>
 
 ###### Article R103-1
 
@@ -2033,7 +1921,7 @@ _Cite_:
   - Code des ports maritimes - art. L103-2
 
 
-##### Section 2 : Gestion financière et comptable.<a id=35></a>
+##### Section 2 : Gestion financière et comptable.<a id=30></a>
 
 ###### Article R103-4
 
@@ -2267,7 +2155,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Régime domanial.<a id=36></a>
+##### Section 3 : Régime domanial.<a id=31></a>
 
 ###### Article R103-12
 
@@ -2339,7 +2227,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre IV : Contrôle.<a id=37></a>
+#### Chapitre IV : Contrôle.<a id=32></a>
 
 ###### Article R104-1
 
@@ -2472,9 +2360,9 @@ _Nouveaux textes_:
   - Code des transports - art. R5312-82 (V)
 
 
-#### Chapitre V : Aménagement.<a id=38></a>
+#### Chapitre V : Aménagement.<a id=33></a>
 
-##### Section 1 : Terminaux.<a id=39></a>
+##### Section 1 : Terminaux.<a id=34></a>
 
 ###### Article R105-1
 
@@ -2622,11 +2510,11 @@ _Cité par_:
   - Code des ports maritimes - art. R163-14 (Ab)
 
 
-### Titre Ier : Ports autonomes.<a id=40></a>
+### Titre Ier : Ports autonomes.<a id=35></a>
 
-#### Chapitre Ier : Institution, attributions et régime financier.<a id=41></a>
+#### Chapitre Ier : Institution, attributions et régime financier.<a id=36></a>
 
-##### Section 1 : Institution et attributions.<a id=42></a>
+##### Section 1 : Institution et attributions.<a id=37></a>
 
 ###### Article R*111-1
 
@@ -2662,7 +2550,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 2 : Circonscription.<a id=43></a>
+##### Section 2 : Circonscription.<a id=38></a>
 
 ###### Article R*111-3
 
@@ -2826,7 +2714,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Section 3 : Régime financier.<a id=44></a>
+##### Section 3 : Régime financier.<a id=39></a>
 
 ###### Article R*111-6
 
@@ -2897,7 +2785,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 4 : Substitution du régime d'autonomie défini au présent titre, au régime antérieur.<a id=45></a>
+##### Section 4 : Substitution du régime d'autonomie défini au présent titre, au régime antérieur.<a id=40></a>
 
 ###### Article R*111-8
 
@@ -2951,70 +2839,81 @@ _Cité par_:
 ###### Article R*111-9
 
 La date à laquelle prend effet, dans les conditions fixées par l'article L. 111-10, la remise en toute propriété au port
-autonome de l'actif et du passif des chambres de commerce et d'industrie visés par le même article est la date de
-substitution du nouveau régime d'autonomie au régime antérieur.
+autonome de l'actif et du passif des      chambres de commerce et d'industrie territoriales visés par le même article est la
+date de substitution du nouveau régime d'autonomie au régime antérieur. 
 
 Les dispositions de l'article L. 111-10 sont applicables aux concessions et services organisés des établissements publics ou
-associations de toute nature formés entre les chambres de commerce et d'industrie de la circonscription du port.
+associations de toute nature formés entre les      chambres de commerce et d'industrie territoriales de la circonscription du
+port. 
 
-Les éléments d'actif visés au même article comportent les participations que les chambres de commerce et d'industrie ont
-prises au titre du compte des droits de port, des services organisés et des concessions dans les organismes de toute nature.
+Les éléments d'actif visés au même article comportent les participations que les      chambres de commerce et d'industrie
+territoriales ont prises au titre du compte des droits de port, des services organisés et des concessions dans les organismes
+de toute nature.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-934 1965-11-08 art. 29
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-7 (V)
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes - art. L111-10 (V)
+  - Code des ports maritimes - art. L111-10
 
 
 ###### Article R*111-11
 
 Lors de chacune des remises prévues aux articles R. *111-8 à R. *111-10, il est dressé contradictoirement un inventaire
 descriptif des terrains, ouvrages, bâtiments, ainsi que du matériel compris dans la remise. Pour les remises effectuées par
-l'Etat, cet inventaire est divisé en deux parties relatives, la première au domaine public, la deuxième au domaine privé.
+l'Etat, cet inventaire est divisé en deux parties relatives, la première au domaine public, la deuxième au domaine privé. 
 
 Il est également dressé contradictoirement un état des éléments d'actif autres que ceux visés à l'alinéa précédent et détenus
-par les chambres de commerce et d'industrie au titre du compte des droits de port, des services organisés et des concessions
-ainsi que de la totalité des éléments d'actif de cette nature détenus par le port autonome existant. Ces éléments d'actif
-comportent notamment les fonds libres, les dépôts, les valeurs en portefeuille et les créances de toute nature.
+par les      chambres de commerce et d'industrie territoriales au titre du compte des droits de port, des services organisés
+et des concessions ainsi que de la totalité des éléments d'actif de cette nature détenus par le port autonome existant. Ces
+éléments d'actif comportent notamment les fonds libres, les dépôts, les valeurs en portefeuille et les créances de toute
+nature. 
 
-Cet inventaire porte également sur les charges et obligations attachées aux biens remis et aux activités transférées.
+Cet inventaire porte également sur les charges et obligations attachées aux biens remis et aux activités transférées. 
 
 Les différends auxquels pourrait donner lieu l'établissement des inventaires sont réglés par le ministre chargé des ports
 maritimes et le ministre intéressé.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-934 1965-11-08 art. 31
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-8 (V)
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R111-8 à R111-10
+  - Code des ports maritimes
 
 
-##### Section 5 : Services et activités connexes et annexes.<a id=46></a>
+##### Section 5 : Services et activités connexes et annexes.<a id=41></a>
 
 ###### Article R*111-12
 
@@ -3155,54 +3054,59 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Organisation.<a id=47></a>
+#### Chapitre II : Organisation.<a id=42></a>
 
-##### Section 1 : Conseil d'administration.<a id=48></a>
+##### Section 1 : Conseil d'administration.<a id=43></a>
 
 ###### Article R*112-1
 
 Le conseil d'administration d'un port autonome dont la composition est fixée par le décret en Conseil d'Etat qui en porte
-création comprend :
+création comprend : 
 
-I. - 1° Deux membres désignés par les chambres de commerce et d'industrie de la circonscription du port, dont un au moins
-doit être choisi, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à l'article R. *112-2.
+I.-1° Deux membres désignés par les      chambres de commerce et d'industrie territoriales de la circonscription du port,
+dont un au moins doit être choisi, dans ces chambres ou en dehors d'elles, parmi les catégories d'usagers énumérées à
+l'article R. *112-2.
 
 2° a) Un membre désigné par le conseil régional de la région dans laquelle se trouve la principale ville de la
-circonscription du port ;
+circonscription du port ; 
 
 b) Un membre désigné par le conseil général du département dans lequel se trouve la principale ville de la circonscription du
-port ;
+port ; 
 
-c) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port ;
+c) Un membre désigné par le conseil municipal de la principale ville de la circonscription du port ; 
 
 d) Deux membres représentant, soit des collectivités territoriales, soit des établissements publics territoriaux, soit une
 collectivité territoriale et un établissement public territorial intéressés au fonctionnement du port, dont la désignation
-appartient aux assemblées délibérantes de ces collectivités ou établissements.
+appartient aux assemblées délibérantes de ces collectivités ou établissements. 
 
 3° Cinq membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
-administratifs, commerciaux ou techniques assimilés sur le plan de la classification.
+administratifs, commerciaux ou techniques assimilés sur le plan de la classification. 
 
-4° Un membre représentant les ouvriers dockers du port.
+4° Un membre représentant les ouvriers dockers du port. 
 
-II. - 1° Trois membres représentant l'Etat, dont :
+II.-1° Trois membres représentant l'Etat, dont : 
 
-a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat ;
+a) Un membre du Conseil d'Etat, présenté par le vice-président du Conseil d'Etat ; 
 
 b) Un représentant du ministre chargé de l'économie et des finances, présenté par ce ministre et choisi parmi les
-fonctionnaires en activité de son département ;
+fonctionnaires en activité de son département ; 
 
 c) Le préfet de la région dans laquelle se trouve la ville principale de la circonscription du port autonome, ou son
-suppléant qu'il désigne à titre permanent.
+suppléant qu'il désigne à titre permanent. 
 
 2° a) Trois personnalités choisies sur une liste de cinq usagers du port appartenant aux catégories énumérées à l'article R.
-*112-2, établie conjointement par les chambres de commerce et d'industrie représentées au conseil ;
+*112-2, établie conjointement par les      chambres de commerce et d'industrie territoriales représentées au conseil ; 
 
 b) Sept personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
 les transports, l'économie régionale ou l'économie nationale, dont quatre au moins doivent appartenir aux catégories
-d'usagers mentionnées à l'article R. *112-2.
+d'usagers mentionnées à l'article R. *112-2. 
 
 Les membres du conseil d'administration énumérés au I (4°) et au II ci-dessus sont nommés par décret pris sur le rapport du
 ministre chargé des ports maritimes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -3212,26 +3116,33 @@ _Cité par_:
   - Décret n°65-938 du 8 novembre 1965 - art. 2 (Ab)
   - Décret n°65-940 du 8 novembre 1965 - art. 2 (Ab)
   - Code des ports maritimes - art. R*112-4 (Ab)
-  - Code des ports maritimes - art. R*112-5 (V)
+  - Code des ports maritimes - art. R*112-5 (Ab)
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-9 (V)
 
 _Modifié par_:
 
-  - Décret n°99-76 1999-02-05 art. 1 I, II, III, IV JORF 7 février 1999
-  - Décret n°99-76 du 5 février 1999 - art. 1 () JORF 7 février 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R112-2
+  - Code des ports maritimes
 
 
 ###### Article R*112-2
 
-Les catégories d'usagers parmi lesquelles doivent être désignés par les chambres de commerce et d'industrie ou nommés par
-décret certains membres du conseil d'administration sont les suivantes :
+Les catégories d'usagers parmi lesquelles doivent être désignés par les      chambres de commerce et d'industrie
+territoriales ou nommés par décret certains membres du conseil d'administration sont les suivantes : 
 
 principales entreprises industrielles, commerciales et agricoles des régions desservies par le port, armements français,
 agences françaises des compagnies de navigation, professionnels de la marine marchande tels que capitaines de navire, pilotes
@@ -3241,19 +3152,21 @@ d'exploitation d'entrepôt public des douanes, courtiers maritimes.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°65-491 1965-06-29 art. 10
-  - Décret n°65-933 1965-11-08 art. 1, art. 2
-  - Décret n°65-934 1965-11-08 art. 5
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-10 (V)
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*112-3
@@ -3303,9 +3216,9 @@ Cessent de plein droit de faire partie du conseil les membres qui ont perdu la q
 nommés. Sous réserve des dispositions de l'article 16 de la loi du 26 juillet 1983, il est pourvu à leur remplacement jusqu'à
 l'expiration normale de leur mandat. 
 
-Dans le cas où une chambre de commerce et d'industrie n'a pas désigné son ou ses représentants dans un délai d'un mois à
-dater du jour où elle y a été invitée par le ministre chargé des ports maritimes, il est pourvu à cette désignation par un
-décret pris sur le rapport conjoint de ce ministre et du ministre chargé des chambres de commerce. 
+Dans le cas où une      chambre de commerce et d'industrie territoriale n'a pas désigné son ou ses représentants dans un
+délai d'un mois à dater du jour où elle y a été invitée par le ministre chargé des ports maritimes, il est pourvu à cette
+désignation par un décret pris sur le rapport conjoint de ce ministre et du ministre chargé des chambres de commerce. 
 
 Le nombre des membres du conseil d'administration nommés par décret qui ont dépassé l'âge de soixante-cinq ans ne peut
 excéder le tiers du nombre total de ces membres. Lorsque cette proportion est dépassée, le plus âgé des membres nommés par
@@ -3315,16 +3228,27 @@ décret est réputé démissionnaire d'office.
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-12 (V)
 
 _Modifié par_:
 
-  - Décret n°99-76 1999-02-05 art. 3 I, II, III JORF 7 février 1999
-  - Décret n°99-76 du 5 février 1999 - art. 3 () JORF 7 février 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes - art. R*112-1 (V)
+  - Code des ports maritimes - art. R*112-1
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R*112-8 (Ab)
 
 
 ###### Article R*112-5
@@ -3333,33 +3257,36 @@ Dès la publication du décret portant création d'un port autonome, le ministre
 de formation du conseil d'administration. 
 
 Pour la désignation des membres mentionnées au II (2°, b) de l'article R. *112-1, le ministre chargé des ports maritimes
-consulte les chambres de commerce et d'industrie représentées dans le conseil, dont l'avis doit être fourni dans un délai de
-quinze jours. 
+consulte les      chambres de commerce et d'industrie territoriales représentées dans le conseil, dont l'avis doit être
+fourni dans un délai de quinze jours. 
 
-Le même délai s'applique à l'établissement par les chambres de commerce et d'industrie de la liste mentionnée au II (2°, a)
-de l'article R. *112-1. 
+Le même délai s'applique à l'établissement par les      chambres de commerce et d'industrie territoriales de la liste
+mentionnée au II (2°, a) de l'article R. *112-1. 
 
 Le remplacement ou le renouvellement des membres du conseil d'administration mentionnés au II (2°), de l'article R. *112-1 se
 fait selon les mêmes procédures.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-934 1965-11-08 art. 3
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-13 (V)
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
-  - Décret n°84-533 1984-06-28 art. 1 JORF 1er juillet 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes - art. R*112-1 (V)
+  - Code des ports maritimes - art. R*112-1 (Ab)
 
 
 ###### Article R*112-6
@@ -3614,7 +3541,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5313-19 (V)
 
 
-##### Section 2 : Personnel.<a id=49></a>
+##### Section 2 : Personnel.<a id=44></a>
 
 ###### Article R*112-11
 
@@ -3874,22 +3801,23 @@ _Cite_:
 
 ###### Article R*112-19
 
-Le personnel des concessions d'outillage public des chambres de commerce et d'industrie ou le personnel du port autonome
-existant est intégré dans les services du port autonome à la date fixée pour la substitution du nouveau régime au régime
-précédemment en vigueur.
+Le personnel des concessions d'outillage public des      chambres de commerce et d'industrie territoriales ou le personnel du
+port autonome existant est intégré dans les services du port autonome à la date fixée pour la substitution du nouveau régime
+au régime précédemment en vigueur. 
 
 En vue de cette intégration et dès intervention du décret portant création du port autonome, le directeur du port consulte
-les chambres de commerce et d'industrie intéressées, concessionnaires d'outillage public, en vue d'établir la liste
-nominative, par fonction, du personnel visé ci-dessus. Cette liste est communiquée aux représentants des personnels
+les      chambres de commerce et d'industrie territoriales intéressées, concessionnaires d'outillage public, en vue d'établir
+la liste nominative, par fonction, du personnel visé ci-dessus. Cette liste est communiquée aux représentants des personnels
 intéressés qui doivent faire connaître leurs observations dans un délai de quinze jours. Le directeur du port transmet la
 liste définitive, avec son rapport, dans le délai d'un mois au ministre chargé des ports maritimes et au ministre chargé de
-l'industrie. En cas de contestation concernant l'intégration de certains membres du personnel des chambres de commerce et
-d'industrie, il est statué par décision conjointe des deux ministres.
+l'industrie. En cas de contestation concernant l'intégration de certains membres du personnel des      chambres de commerce
+et d'industrie territoriales, il est statué par décision conjointe des deux ministres. 
 
 Sont notamment applicables au personnel du port autonome à partir de la date fixée au premier alinéa du présent article :
 
-- la convention collective des personnels des ports autonomes maritimes et des chambres de commerce et d'industrie
-concessionnaires dans les ports maritimes de commerce et de pêche ; cette convention comporte les textes suivants :
+- la convention collective des personnels des ports autonomes maritimes et des      chambres de commerce et d'industrie
+territoriales concessionnaires dans les ports maritimes de commerce et de pêche ; cette convention comporte les textes
+suivants :
 
 - la convention collective proprement dite à laquelle sont jointes une annexe n° 1 composée des tableaux de classement des
 catégories A personnel ouvrier, B agents de maîtrise, D et E personnels administratif et technique, et une annexe n° 2
@@ -3906,7 +3834,7 @@ afférent à ces agents ;
 la chambre de commerce de Marseille ;
 
 - pour le port du Havre, le décret n° 62-152 du 18 janvier 1962 relatif au régime de retraites du personnel titulaire de la
-chambre de commerce et du port autonome du Havre.
+chambre de commerce et du port autonome du Havre. 
 
 Le personnel ouvrier tributaire du régime de retraites défini par le décret n° 65-836 du 24 septembre 1965 modifié, relatif
 aux pensions des ouvriers des établissements industriels de l'Etat qui aura opté pour la conservation de son statut, n'est
@@ -3921,17 +3849,29 @@ Le décret n° 65-836, à l'exception de son titre Ier, est abrogé par le I de 
 
 _Cite_:
 
-  - Décret n°59-809 1959-07-04
-  - Décret n°62-152 1962-01-18
-  - Décret n°65-836 1965-09-24
+  - Décret n°59-809 du 4 juillet 1959
+  - Décret n°62-152 du 18 janvier 1962
+  - Décret n°65-836 du 24 septembre 1965
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-28 (V)
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 20 () JORF 11 septembre 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R163-15 (Ab)
 
 
 ###### Article R*112-20
@@ -3966,7 +3906,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Commissaire du Gouvernement et contrôleur d'Etat.<a id=50></a>
+##### Section 3 : Commissaire du Gouvernement et contrôleur d'Etat.<a id=45></a>
 
 ###### Article R*112-21
 
@@ -4000,9 +3940,9 @@ _Nouveaux textes_:
   - Code des transports - art. R5313-30 (V)
 
 
-#### Chapitre III : Fonctionnement du port autonome.<a id=51></a>
+#### Chapitre III : Fonctionnement du port autonome.<a id=46></a>
 
-##### Section 1 : Fonctionnement et pouvoirs du conseil d'administration.<a id=52></a>
+##### Section 1 : Fonctionnement et pouvoirs du conseil d'administration.<a id=47></a>
 
 ###### Article R*113-1
 
@@ -4258,7 +4198,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 2 : Attributions du directeur.<a id=53></a>
+##### Section 2 : Attributions du directeur.<a id=48></a>
 
 ###### Article R*113-7
 
@@ -4432,7 +4372,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Gestion financière et comptable.<a id=54></a>
+##### Section 3 : Gestion financière et comptable.<a id=49></a>
 
 ###### Article R*113-12
 
@@ -4474,13 +4414,13 @@ _Modifié par_:
 Le conseil d'administration du port autonome doit présenter chaque année à l'approbation du ministre chargé des ports
 maritimes et du ministre de l'économie et des finances un état prévisionnel établi suivant un modèle arrêté par ce dernier,
 et comportant deux sections distinctes, l'une pour les dépenses et les recettes d'exploitation, l'autre pour les opérations
-en capital.
+en capital. 
 
-Cet état est divisé en chapitres qui ne doivent comprendre que des dépenses ou des recettes de même nature.
+Cet état est divisé en chapitres qui ne doivent comprendre que des dépenses ou des recettes de même nature. 
 
 La section d'exploitation retrace toutes les charges et tous les produits se rapportant au fonctionnement du port.
 
-Y sont inscrits en particulier :
+Y sont inscrits en particulier : 
 
 En recettes :
 
@@ -4494,19 +4434,19 @@ En recettes :
 
 - la participation de l'Etat aux travaux d'entretien visés à l'article L. 111-4 ;
 
-- éventuellement, les participations des départements, des communes, des chambres de commerce et d'industrie, des chambres
-régionales de commerce et d'industrie des autres établissements publics ainsi que des personnes privées, à certaines dépenses
-d'exploitation du port ;
+- éventuellement, les participations des départements, des communes, des      chambres de commerce et d'industrie
+territoriales, des chambres de commerce et d'industrie de région des autres établissements publics ainsi que des personnes
+privées, à certaines dépenses d'exploitation du port ;
 
-- toutes autres recettes d'exploitation.
+- toutes autres recettes d'exploitation. 
 
 En dépenses : toutes les dépenses concernant l'administration, l'exploitation, l'entretien, l'amortissement des ouvrages et
 des outillages, les intérêts des emprunts contractés par le port, les provisions et, d'une manière générale, toutes les
 dépenses de gestion du port.
 
-L'excédent net de chaque exercice, après prélèvement de la part de l'Etat, est versé à un compte de réserve.
+L'excédent net de chaque exercice, après prélèvement de la part de l'Etat, est versé à un compte de réserve. 
 
-La section des opérations en capital comprend en particulier :
+La section des opérations en capital comprend en particulier : 
 
 En recettes :
 
@@ -4518,33 +4458,37 @@ En recettes :
 
 - les produits des emprunts autorisés ;
 
-- éventuellement, les participations des départements, des communes, des chambres de commerce et d'industrie, ou des chambres
-régionales de commerce et d'industrie, de tout autre établissement public ainsi que des personnes privées à certaines
-dépenses en capital effectuées par le port ;
+- éventuellement, les participations des départements, des communes, des      chambres de commerce et d'industrie
+territoriales, ou des chambres de commerce et d'industrie de région, de tout autre établissement public ainsi que des
+personnes privées à certaines dépenses en capital effectuées par le port ;
 
-- toutes autres recettes en capital.
+- toutes autres recettes en capital. 
 
 En dépenses : toutes les dépenses de renouvellement, de reconstruction, d'amélioration, d'extension des ouvrages ou des
 outillages ainsi que les remboursements des capitaux empruntés par le port.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-933 1965-11-08 art. 9
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-43 (V)
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes - art. L111-4 (V)
-  - Code des ports maritimes L111-4, L111-5 à L111-7
+  - Code des ports maritimes
+  - Code des ports maritimes - art. L111-4
 
 
 ###### Article R*113-14
@@ -4844,7 +4788,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 4 : Régime domanial.<a id=55></a>
+##### Section 4 : Régime domanial.<a id=50></a>
 
 ###### Article R*113-22
 
@@ -4972,7 +4916,7 @@ _Cite_:
   - Code des ports maritimes - art. R*122-1 (Ab)
 
 
-#### Chapitre IV : Contrôle.<a id=56></a>
+#### Chapitre IV : Contrôle.<a id=51></a>
 
 ###### Article R*114-1
 
@@ -5134,9 +5078,9 @@ _Anciens textes_:
   - Code des ports maritimes - art. R114-6 (T)
 
 
-#### Chapitre V : Aménagement.<a id=57></a>
+#### Chapitre V : Aménagement.<a id=52></a>
 
-##### Section 1 : Travaux.<a id=58></a>
+##### Section 1 : Travaux.<a id=53></a>
 
 ###### Article R*115-1
 
@@ -5241,11 +5185,11 @@ _Abrogé par_:
 ###### Article R*115-4
 
 I. Le dossier d'instruction comporte l'étude d'impact définie à l'article R. 122-3 du code de l'environnement, lorsque le
-coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. 122-8 du même code.
+coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. 122-8 du même code. 
 
 Il comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de
 l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux
-constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret. 
 
 En outre, lorsqu'il y a lieu, le dossier :
 
@@ -5255,57 +5199,67 @@ l'environnement, dont relèvent les travaux ;
 
 - comporte le document prévu au 4° de l'article 2 du décret n° 93-742 du 29 mars 1993 relatif aux procédures d'autorisation
 et de déclaration prévues par les articles L. 214-1 à L. 214-6 du code de l'environnement. Lorsque l'étude d'impact fournit
-les informations requises, elle tient lieu de ce document.
+les informations requises, elle tient lieu de ce document. 
 
-II. L'instruction, menée par le directeur du port autonome, comprend, outre la consultation du conseil d'administration, les
-formalités ci-après qui sont effectuées simultanément :
+II.L'instruction, menée par le directeur du port autonome, comprend, outre la consultation du conseil d'administration, les
+formalités ci-après qui sont effectuées simultanément : 
 
-1° Consultation de la commission permanente d'enquête ;
+1° Consultation de la commission permanente d'enquête ; 
 
-2° Consultation des collectivités et des services locaux intéressés ;
+2° Consultation des collectivités et des services locaux intéressés ; 
 
-3° Consultation de la ou des chambres de commerce et d'industrie concernées ;
+3° Consultation de la ou des      chambres de commerce et d'industrie territoriales concernées ; 
 
 4° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
 conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
 marchande. La grande commission nautique est consultée sur les opérations comportant une modification des ouvrages extérieurs
-du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ;
+du port ou des chenaux d'accès ; la commission nautique locale est consultée dans les autres cas ; 
 
 5° Consultation, s'il y a lieu, de la commission régionale pour l'amélioration des conditions de débarquement des produits de
-la pêche (CORECODE) ;
+la pêche (CORECODE) ; 
 
-6° Instruction mixte, conformément à la réglementation en vigueur ;
+6° Instruction mixte, conformément à la réglementation en vigueur ; 
 
-7° Enquête publique s'il y a lieu.
+7° Enquête publique s'il y a lieu. 
 
 Dans le cas où les travaux envisagés sont soumis aux procédures prévues par les articles L. 214-1 à L. 214-6 du code de
 l'environnement, l'instruction est menée simultanément avec celle prévue par le décret n° 93-742 du 29 mars 1993
-susmentionné.
+susmentionné. 
 
-III. - Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°,
-2°, 3° et 4° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
-invités. L'absence de réponse dans ce délai vaut avis favorable.
+III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des
+1°,2°,3° et 4° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités.L'absence de réponse dans ce délai vaut avis favorable.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Cite_:
 
-  - Loi n°82-1153 1982-12-30 art. 14
-  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-  - Décret n°93-743 1993-03-29 annexe
-  - Décret n°93-742 1993-03-29 art. 2
-  - Code de l'environnement - art. R122-3 (V)
-  - Code de l'environnement - art. R122-8 (M)
-  - Code de l'environnement R122-3, R122-8, L214-1 à L214-6
+  - Loi n°82-1153 du 30 décembre 1982
+  - Décret n°84-617 du 17 juillet 1984 - art. 3
+  - Décret n°84-617 du 17 juillet 1984 - art. 5
+  - Décret n°93-743 du 29 mars 1993
+  - Décret n°93-742 du 29 mars 1993
+  - Code de l'environnement
+  - Code de l'environnement - art. R122-3
+  - Code de l'environnement - art. R122-8
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-65 (V)
+  - Code des transports - art. R5313-66 (V)
+  - Code des transports - art. R5313-67 (V)
 
 _Modifié par_:
 
-  - Décret n°2005-935 2005-08-02 art. 2 JORF 5 août 2005
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*115-6
@@ -5331,9 +5285,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
 
 
-##### Section 2 : Outillages et terminaux.<a id=59></a>
+##### Section 2 : Outillages et terminaux.<a id=54></a>
 
-##### Sous-Section 1 : Dispositions générales.<a id=60></a>
+##### Sous-Section 1 : Dispositions générales.<a id=55></a>
 
 ###### Article R*115-7
 
@@ -5375,7 +5329,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 2 : Outillages publics gérés par le port autonome lui-même.<a id=61></a>
+##### Sous-section 2 : Outillages publics gérés par le port autonome lui-même.<a id=56></a>
 
 ###### Article R*115-8
 
@@ -5402,7 +5356,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 3 : Outillages publics concédés.<a id=62></a>
+##### Sous-section 3 : Outillages publics concédés.<a id=57></a>
 
 ###### Article R*115-9
 
@@ -5482,7 +5436,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Sous-section 4 : Autorisations d'outillages privés et d'exploitation de terminal.<a id=63></a>
+##### Sous-section 4 : Autorisations d'outillages privés et d'exploitation de terminal.<a id=58></a>
 
 ###### Article R*115-13
 
@@ -5557,7 +5511,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5313-86 (V)
 
 
-##### Sous-section 5 : Dispositions communes relatives aux tarifs.<a id=64></a>
+##### Sous-section 5 : Dispositions communes relatives aux tarifs.<a id=59></a>
 
 ###### Article R*115-15
 
@@ -5682,7 +5636,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Commissions permanentes d'enquête.<a id=65></a>
+##### Section 3 : Commissions permanentes d'enquête.<a id=60></a>
 
 ###### Article R*115-19
 
@@ -5880,45 +5834,48 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre VI : Dispositions diverses.<a id=66></a>
+#### Chapitre VI : Dispositions diverses.<a id=61></a>
 
 ###### Article R*116-1
 
 Par dérogation à l'article R. *113-14 le premier exercice comptable du port autonome commence à la date fixée pour la
 substitution au régime précédemment en vigueur, du régime de l'autonomie défini par le présent titre. Il se termine au 31
-décembre de l'année pendant laquelle cette substitution a eu lieu.
+décembre de l'année pendant laquelle cette substitution a eu lieu. 
 
-Les comptes des services portuaires des chambres de commerce et d'industrie de la circonscription du port autonome relatifs à
-l'exercice précédant la date de mise en vigueur de l'autonomie sont arrêtés par le préfet sur rapport du chef du service
-maritime.
+Les comptes des services portuaires des      chambres de commerce et d'industrie territoriales de la circonscription du port
+autonome relatifs à l'exercice précédant la date de mise en vigueur de l'autonomie sont arrêtés par le préfet sur rapport du
+chef du service maritime.
 
 L'état prévisionnel visé à l'article R. *113-14 doit être fourni, sous forme sommaire, dans les six semaines suivant le début
-du premier exercice.
+du premier exercice. 
 
 Le produit des droits de port et recettes de toute nature perçus à dater du début du premier exercice est versé au port
-autonome.
+autonome. 
 
 Des crédits provisionnels seront mis à la disposition de ce dernier par le ministre chargé des ports maritimes à partir de la
 même date.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°65-934 1965-11-08 art. 39
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-103 (V)
 
 _Modifié par_:
 
-  - Décret n°84-245 1984-04-03 art. 1 JORF 6 avril 1984
-  - Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R113-14
+  - Code des ports maritimes
 
 
 ###### Article R*116-2
@@ -5949,9 +5906,9 @@ _Cite_:
   - Code des ports maritimes - art. L116-4
 
 
-### Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat.<a id=67></a>
+### Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat.<a id=62></a>
 
-#### Chapitre Ier : Organisation.<a id=68></a>
+#### Chapitre Ier : Organisation.<a id=63></a>
 
 ###### Article R*121-1
 
@@ -6064,18 +6021,29 @@ _Abrogé par_:
 ###### Article R*121-4
 
 Le directeur du port réunit en tant que de besoin, dans des conférences dont il leur communique à l'avance l'ordre du jour,
-selon le cas : des représentants des services publics, des chambres de commerce et d'industrie, des concessionnaires
-d'outillage public, des organisations professionnelles participant à l'exploitation du port, ou des usagers du port.
+selon le cas : des représentants des services publics, des      chambres de commerce et d'industrie territoriales, des
+concessionnaires d'outillage public, des organisations professionnelles participant à l'exploitation du port, ou des usagers
+du port.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*121-5
@@ -6170,9 +6138,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre II : Aménagement.<a id=69></a>
+#### Chapitre II : Aménagement.<a id=64></a>
 
-##### Section 1 : Travaux.<a id=70></a>
+##### Section 1 : Travaux.<a id=65></a>
 
 ###### Article R*122-1
 
@@ -6273,7 +6241,8 @@ II.-L'instruction, menée par le directeur du port, comprend les formalités ci-
 
 3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ; 
 
-4° Consultation de la chambre de commerce et d'industrie compétente, lorsqu'elle n'est pas le concessionnaire ; 
+4° Consultation de la      chambre de commerce et d'industrie territoriale compétente, lorsqu'elle n'est pas le
+concessionnaire ; 
 
 5° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
 conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
@@ -6290,26 +6259,46 @@ la pêche (CORECODE) ;
 Dans le cas où les travaux envisagés sont soumis aux procédures prévues les articles L. 214-1 à L. 214-6 du code de
 l'environnement, l'instruction est menée simultanément avec celle prévue par les articles R. 214-6 à R. 214-56 dudit code. 
 
-III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°, 2°,
-3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des
+1°,2°,3°,4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
 invités.L'absence de réponse dans ce délai vaut avis favorable.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret n°71-346 1971-05-06 art. 4
+
 _Cite_:
 
-  - Loi n°82-1153 1982-12-30 art. 14
-  - Décret n°84-617 du 17 juillet 1984 - art. 3 (V)
-  - Décret n°84-617 du 17 juillet 1984 - art. 5 (V)
-  - Loi n°92-3 1992-01-03 art. 10
-  - Code de l'environnement - art. L214-1 (V)
-  - Code de l'environnement - art. R122-3 (V)
-  - Code de l'environnement - art. R214-1 (V)
-  - Code de l'environnement - art. R214-6 (V)
+  - Loi n°82-1153 du 30 décembre 1982
+  - Décret n°84-617 du 17 juillet 1984 - art. 3
+  - Décret n°84-617 du 17 juillet 1984 - art. 5
+  - Loi n°92-3 du 3 janvier 1992
+  - Code de l'environnement - art. L214-1
+  - Code de l'environnement - art. R122-3
+  - Code de l'environnement - art. R214-1
+  - Code de l'environnement - art. R214-6
 
 _Modifié par_:
 
-  - Décret n°2007-397 du 22 mars 2007 - art. 2 (V)
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5314-2 (M)
+  - Code des transports - art. R5314-3 (M)
+  - Code des transports - art. R5314-4 (M)
 
 
 ###### Article R*122-6
@@ -6335,9 +6324,9 @@ _Cite_:
   - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
 
 
-##### Section 2 : Exploitation.<a id=71></a>
+##### Section 2 : Exploitation.<a id=66></a>
 
-##### Sous-section 1 : Concession.<a id=72></a>
+##### Sous-section 1 : Concession.<a id=67></a>
 
 ###### Article R*122-7
 
@@ -6490,7 +6479,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
-##### Sous-section 2 : Outillages privés.<a id=73></a>
+##### Sous-section 2 : Outillages privés.<a id=68></a>
 
 ###### Article R*122-11
 
@@ -6548,7 +6537,7 @@ _Cite_:
   - Code des ports maritimes R122-4, R122-9
 
 
-##### Sous-section 3 : Dispositions relatives aux tarifs.<a id=74></a>
+##### Sous-section 3 : Dispositions relatives aux tarifs.<a id=69></a>
 
 ###### Article R*122-14
 
@@ -6691,9 +6680,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre III : Installations portuaires de plaisance.<a id=75></a>
+### Titre III : Installations portuaires de plaisance.<a id=70></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=76></a>
+#### Chapitre Ier : Dispositions générales.<a id=71></a>
 
 ###### Article R*131-1
 
@@ -6722,7 +6711,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Concessions.<a id=77></a>
+#### Chapitre II : Concessions.<a id=72></a>
 
 ###### Article R*132-1
 
@@ -6808,7 +6797,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
-#### Chapitre III : Autorisations d'outillages privés avec obligation de service public.<a id=78></a>
+#### Chapitre III : Autorisations d'outillages privés avec obligation de service public.<a id=73></a>
 
 ###### Article R*133-1
 
@@ -6879,7 +6868,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre IV : Dispositions communes relatives aux tarifs.<a id=79></a>
+#### Chapitre IV : Dispositions communes relatives aux tarifs.<a id=74></a>
 
 ###### Article R*134-1
 
@@ -6947,9 +6936,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre IV : Conseil portuaire et comité de pilotage stratégique.<a id=80></a>
+### Titre IV : Conseil portuaire et comité de pilotage stratégique.<a id=75></a>
 
-#### Chapitre Ier : Rôle et fonctionnement du conseil portuaire.<a id=81></a>
+#### Chapitre Ier : Rôle et fonctionnement du conseil portuaire.<a id=76></a>
 
 ###### Article R*141-1
 
@@ -7180,131 +7169,161 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Composition du conseil portuaire.<a id=82></a>
+#### Chapitre II : Composition du conseil portuaire.<a id=77></a>
 
 ###### Article R*142-1
 
 Dans les ports non autonomes de commerce ou de pêche relevant de la compétence de l'Etat, le conseil portuaire est composé
-comme suit :
+comme suit : 
 
-1° Un représentant du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ;
+1° Un représentant du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ; 
 
 2° Un membre désigné en son sein par chacune des assemblées délibérantes de la région, du ou des départements, de la ou des
-communes où sont implantées les principales installations portuaires ;
+communes où sont implantées les principales installations portuaires ; 
 
 3° Un représentant désigné au sein du comité syndical par le syndicat intercommunal compétent en matière d'urbanisme pour la
-zone où est situé le port, lorsqu'il existe ;
+zone où est situé le port, lorsqu'il existe ; 
 
 4° Un représentant désigné en son sein par chacun des conseils municipaux sur le territoire desquels s'étend le port, sans
-préjudice des dispositions du 2° ;
+préjudice des dispositions du 2° ; 
 
-5° Des membres représentant certains personnels concernés par la gestion du port, à savoir :
+5° Des membres représentant certains personnels concernés par la gestion du port, à savoir : 
 
-a) Un membre du personnel du service maritime ;
+a) Un membre du personnel du service maritime ; 
 
-b) Un membre du personnel du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ;
+b) Un membre du personnel du concessionnaire ou, le cas échéant, de chacun des concessionnaires d'outillage public du port ; 
 
-c) Un membre représentant les ouvriers dockers du port.
+c) Un membre représentant les ouvriers dockers du port. 
 
 Les représentants des personnels et des ouvriers dockers du port sont désignés par le préfet sur proposition des
-organisations syndicales les plus représentatives ;
+organisations syndicales les plus représentatives ; 
 
-6° Dans les ports de commerce :
+6° Dans les ports de commerce : 
 
 Huit membres représentant les usagers du port, choisis parmi les catégories énumérées à l'article R. 142-5 (1°) et désignés
-comme suit :
+comme suit : 
 
-a) Quatre membres désignés par le préfet ;
+a) Quatre membres désignés par le préfet ; 
 
-b) Quatre membres désignés par la chambre de commerce et d'industrie ;
+b) Quatre membres désignés par la      chambre de commerce et d'industrie territoriale ; 
 
-7° Dans les ports de pêche :
+7° Dans les ports de pêche : 
 
 Huit membres représentant les usagers du port, choisis parmi les catégories énumérées à l'article R. 142-5 (2°) et désignés
-comme suit :
+comme suit : 
 
-a) Trois membres désignés par le préfet ;
+a) Trois membres désignés par le préfet ; 
 
-b) Cinq membres désignés par le comité local des pêches.
+b) Cinq membres désignés par le comité local des pêches. 
 
-Les membres du conseil portuaire sont nommés par arrêté du préfet.
+Les membres du conseil portuaire sont nommés par arrêté du préfet. 
 
-Le préfet ou son représentant assiste de droit aux séances du conseil portuaire.
+Le préfet ou son représentant assiste de droit aux séances du conseil portuaire. 
 
 La première séance du conseil portuaire a lieu sur convocation du préfet. Au cours de cette séance le conseil élit son
-président.
+président. 
 
 Le secrétariat du conseil est assuré par le directeur du port. Le président du conseil portuaire peut lui déléguer sa
 signature pour la convocation aux réunions.
 
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R142-5
+  - Code des ports maritimes
 
 
 ###### Article R*142-2
 
-Lorsque la chambre de commerce et d'industrie n'est pas concessionnaire, le conseil portuaire est complété par un
-représentant de celle-ci.
+Lorsque la      chambre de commerce et d'industrie territoriale n'est pas concessionnaire, le conseil portuaire est complété
+par un représentant de celle-ci. 
 
 Dans les ports contigus à un port militaire, un officier désigné par le préfet maritime ou, dans les départements d'outre-
 mer, par l'officier général commandant supérieur des forces armées complète le conseil portuaire.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*142-3
 
 Dans les ports où se pratiquent simultanément au moins deux des trois activités de commerce, de pêche et de plaisance il peut
 être constitué un conseil portuaire unique composé dans les mêmes conditions que celles prévues aux articles R. *142-1 et R.
-*142-2 sous réserve des dispositions suivantes :
+*142-2 sous réserve des dispositions suivantes : 
 
 Le nombre des représentants des usagers est porté à dix dans les ports où se pratiquent deux activités et à douze dans ceux
-où se pratiquent trois activités.
+où se pratiquent trois activités. 
 
 Le préfet détermine le nombre de sièges revenant à chaque catégorie d'usagers, compte tenu de l'importance respective de
-chaque activité.
+chaque activité. 
 
-Les représentants des usagers sont choisis parmi les catégories mentionnées à l'article R. *142-5, à raison de :
+Les représentants des usagers sont choisis parmi les catégories mentionnées à l'article R. *142-5, à raison de : 
 
-Un tiers au plus, désigné par le préfet ;
+Un tiers au plus, désigné par le préfet ; 
 
-Les autres membres désignés, selon l'activité représentée, par la chambre de commerce et d'industrie, le comité local des
-pêches et le comité local des usagers permanents des installations portuaires de plaisance constitué dans les mêmes
-conditions que celles prévues à l'article R. *622-3 ; ce dernier est réuni au moins une fois par an par le préfet ou son
-représentant.
+Les autres membres désignés, selon l'activité représentée, par la      chambre de commerce et d'industrie territoriale, le
+comité local des pêches et le comité local des usagers permanents des installations portuaires de plaisance constitué dans
+les mêmes conditions que celles prévues à l'article R. *622-3 ; ce dernier est réuni au moins une fois par an par le préfet
+ou son représentant.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 17 () JORF 11 septembre 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R142-1, R142-2, R142-5, R622-3
+  - Code des ports maritimes
 
 
 ###### Article R*142-4
@@ -7390,9 +7409,9 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre V : Dispositions communes à tous les ports relevant de la compétence de l'Etat.<a id=83></a>
+### Titre V : Dispositions communes à tous les ports relevant de la compétence de l'Etat.<a id=78></a>
 
-#### Chapitre Ier : Délimitation des ports maritimes.<a id=84></a>
+#### Chapitre Ier : Délimitation des ports maritimes.<a id=79></a>
 
 ###### Article R*151-1
 
@@ -7427,7 +7446,7 @@ _Cité par_:
   - Code des ports maritimes - art. R101-11 (Ab)
 
 
-#### Chapitre III : Matériel de dragage.<a id=85></a>
+#### Chapitre III : Matériel de dragage.<a id=80></a>
 
 ###### Article R153-1
 
@@ -7518,7 +7537,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5313-76 (M)
 
 
-#### Chapitre IV : Suivi du trafic maritime.<a id=86></a>
+#### Chapitre IV : Suivi du trafic maritime.<a id=81></a>
 
 ###### Article R154-1
 
@@ -7579,7 +7598,7 @@ _Cité par_:
   - Arrêté du 27 janvier 2017 - art. 9
 
 
-#### Chapitre V : Sécurité des ouvrages maritimes portuaires.<a id=87></a>
+#### Chapitre V : Sécurité des ouvrages maritimes portuaires.<a id=82></a>
 
 ###### Article R155-1
 
@@ -7785,9 +7804,9 @@ _Nouveaux textes_:
   - Code des transports - art. R5311-7 (V)
 
 
-### Titre VI : Dispositions particulières aux ports des départements d'outre-mer.<a id=88></a>
+### Titre VI : Dispositions particulières aux ports des départements d'outre-mer.<a id=83></a>
 
-#### Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer.<a id=89></a>
+#### Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer.<a id=84></a>
 
 ###### Article R*161-1
 
@@ -7818,32 +7837,32 @@ _Cite_:
   - Code des ports maritimes - art. L161-1
 
 
-#### Chapitre II : Dispositions particulières au port autonome de la Guadeloupe.<a id=90></a>
+#### Chapitre II : Dispositions particulières au port autonome de la Guadeloupe.<a id=85></a>
 
 ###### Article R*162-1
 
 Les installations et outillages portuaires gérés par le département de la Guadeloupe sont remis au port autonome dans les
-conditions fixées, en ce qui concerne les concessions des chambres de commerce et d'industrie, par les articles L. 111-10, R.
-111-8, R. 111-9 et R. 111-11.
+conditions fixées, en ce qui concerne les concessions des      chambres de commerce et d'industrie territoriales, par les
+articles L. 111-10, R. 111-8, R. 111-9 et R. 111-11.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°74-373 1974-05-06 art. 2
-
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°83-1244 du 30 décembre 1983 - art. 1 () JORF 3 janvier 1984
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 _Cite_:
 
-  - Code des ports maritimes - art. L111-10 (V)
-  - Code des ports maritimes L111-10, R111-8, R111-9, R111-11
+  - Code des ports maritimes
+  - Code des ports maritimes - art. L111-10
 
 
 ###### Article R*162-2
@@ -7942,43 +7961,44 @@ _Abrogé par_:
 
 ###### Article R*162-6
 
-Le conseil d'administration du port autonome comprend :
+Le conseil d'administration du port autonome comprend : 
 
-I. - 1. a) Deux membres désignés par la chambre de commerce et d'industrie de Pointe-à-Pitre ;
+I.-1. a) Deux membres désignés par la chambre de commerce et d'industrie territoriale de Pointe-à-Pitre ; 
 
-b) Un membre désigné par la chambre de commerce et d'industrie de Basse-Terre ;
+b) Un membre désigné par la chambre de commerce et d'industrie territoriale de Basse-Terre ; 
 
-2. a) Un membre désigné par le conseil régional de la Guadeloupe ;
+2. a) Un membre désigné par le conseil régional de la Guadeloupe ; 
 
-b) Un membre désigné par le conseil général de la Guadeloupe ;
+b) Un membre désigné par le conseil général de la Guadeloupe ; 
 
-c) Un membre désigné par le conseil municipal de Pointe-à-pitre ;
+c) Un membre désigné par le conseil municipal de Pointe-à-pitre ; 
 
-d) Un membre désigné par le conseil municipal de Baie-Mahaut ;
+d) Un membre désigné par le conseil municipal de Baie-Mahaut ; 
 
 3. Cinq membres représentant les salariés du port autonome, dont un représentant des ingénieurs, chefs de service et cadres
-administratifs, commerciaux ou techniques assimilés sur le plan de la classification ;
+administratifs, commerciaux ou techniques assimilés sur le plan de la classification ; 
 
-4. Un membre représentant les ouvriers dockers du port.
+4. Un membre représentant les ouvriers dockers du port. 
 
-II. - 1. Trois membres représentant l'Etat, dont :
+II.-1. Trois membres représentant l'Etat, dont : 
 
 a) Un représentant du ministre chargé de l'économie et des finances choisi parmi les fonctionnaires en activité de son
-département ;
+département ; 
 
-b) Un représentant du ministre chargé des ports maritimes choisi parmi les fonctionnaires en activité de son département ;
+b) Un représentant du ministre chargé des ports maritimes choisi parmi les fonctionnaires en activité de son département ; 
 
-c) Le préfet de la région de la Guadeloupe ou son suppléant qu'il désigne à titre permanent ;
+c) Le préfet de la région de la Guadeloupe ou son suppléant qu'il désigne à titre permanent ; 
 
 2. a) Deux personnalités choisies sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-*112-2, établie conjointement par les chambres de commerce et d'industrie de Basse-terre et de pointe-à-pitre ;
+*112-2, établie conjointement par les      chambres de commerce et d'industrie territoriales de Basse-terre et de pointe-à-
+pitre ; 
 
 b) Une personnalité choisie sur une liste de quatre usagers du port appartenant aux catégories énumérées à l'article R.
-*112-2, établie par la chambre d'agriculture de la Guadeloupe ;
+*112-2, établie par la chambre d'agriculture de la Guadeloupe ; 
 
 c) Sept personnalités choisies en raison de leur compétence dans les problèmes intéressant les ports, la navigation maritime,
 les transports, l'économie régionale ou l'économie nationale, dont deux au moins doivent appartenir aux catégories d'usagers
-mentionnées à l'article R. *112-2.
+mentionnées à l'article R. *112-2. 
 
 Les membres du conseil d'administration énumérés au I 4 et au II ci-dessus sont nommés par décret pris sur le rapport du
 ministre chargé des ports maritimes.
@@ -7987,11 +8007,15 @@ ministre chargé des ports maritimes.
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-523 du 21 juin 1999 - art. 1 () JORF 26 juin 1999
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 
 ###### Article R*162-7
@@ -8017,13 +8041,13 @@ _Abrogé par_:
   - Décret n°2012-1102 du 1er octobre 2012 - art. 3
 
 
-## Livre II : Droits de port et de navigation.<a id=91></a>
+## Livre II : Droits de port et de navigation.<a id=86></a>
 
-### Titre Ier : Droits de port.<a id=92></a>
+### Titre Ier : Droits de port.<a id=87></a>
 
-#### Chapitre Ier : Dispositions communes.<a id=93></a>
+#### Chapitre Ier : Dispositions communes.<a id=88></a>
 
-##### Section 1 : Redevances comprises dans le droit de port.<a id=94></a>
+##### Section 1 : Redevances comprises dans le droit de port.<a id=89></a>
 
 ###### Article R*211-1
 
@@ -8073,7 +8097,7 @@ _Cité par_:
   - Code des ports maritimes - art. R211-2-1 (Ab)
 
 
-##### Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat.<a id=95></a>
+##### Section 2 : Fixation des taux des droits dans les ports maritimes relevant de la compétence de l'Etat.<a id=90></a>
 
 ###### Article R*211-2
 
@@ -8421,7 +8445,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5321-5 (V)
 
 
-##### Section 3 : Fixation des taux des droits de port dans les ports maritimes ne relevant pas de la compétence de l'Etat.<a id=96></a>
+##### Section 3 : Fixation des taux des droits de port dans les ports maritimes ne relevant pas de la compétence de l'Etat.<a id=91></a>
 
 ###### Article R*211-9-1
 
@@ -8591,7 +8615,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Section 4 : Affectation du produit du droit de port.<a id=97></a>
+##### Section 4 : Affectation du produit du droit de port.<a id=92></a>
 
 ###### Article R*211-11
 
@@ -8661,7 +8685,7 @@ _Cite_:
   - Code des ports maritimes - art. R*211-1 (Ab)
 
 
-#### Chapitre II : Dispositions propres aux navires de commerce.<a id=98></a>
+#### Chapitre II : Dispositions propres aux navires de commerce.<a id=93></a>
 
 ###### Article R*212-1
 
@@ -8695,7 +8719,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5321-18 (M)
 
 
-##### Section 1 : Redevance sur le navire et redevance de stationnement.<a id=99></a>
+##### Section 1 : Redevance sur le navire et redevance de stationnement.<a id=94></a>
 
 ###### Article R*212-2
 
@@ -9067,7 +9091,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 2 : Redevance sur les marchandises.<a id=100></a>
+##### Section 2 : Redevance sur les marchandises.<a id=95></a>
 
 ###### Article R*212-13
 
@@ -9198,7 +9222,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Redevances sur les passagers.<a id=101></a>
+##### Section 3 : Redevances sur les passagers.<a id=96></a>
 
 ###### Article R*212-17
 
@@ -9298,7 +9322,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 4 : Financement des coûts de réception et de traitement des déchets d'exploitation des navires.<a id=102></a>
+##### Section 4 : Financement des coûts de réception et de traitement des déchets d'exploitation des navires.<a id=97></a>
 
 ###### Article R*212-20
 
@@ -9377,7 +9401,7 @@ _Cite_:
   - Code des ports maritimes R211-10, R211-8, R211-9
 
 
-#### Chapitre III : Dispositions propres aux navires de pêche.<a id=103></a>
+#### Chapitre III : Dispositions propres aux navires de pêche.<a id=98></a>
 
 ###### Article R*213-1
 
@@ -9527,7 +9551,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.<a id=104></a>
+#### Chapitre IV : Dispositions propres aux navires de plaisance ou de sport.<a id=99></a>
 
 ###### Article R*214-1
 
@@ -9684,7 +9708,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre V : Dispositions diverses.<a id=105></a>
+#### Chapitre V : Dispositions diverses.<a id=100></a>
 
 ###### Article R*215-1
 
@@ -9706,7 +9730,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre III : Dispositions particulières aux ports des départements d'outre-mer.<a id=106></a>
+### Titre III : Dispositions particulières aux ports des départements d'outre-mer.<a id=101></a>
 
 ###### Article R*231-1
 
@@ -9745,11 +9769,11 @@ _Cite_:
   - Code des ports maritimes
 
 
-## Livre III : Police des ports maritimes.<a id=107></a>
+## Livre III : Police des ports maritimes.<a id=102></a>
 
-### Titre préliminaire : Dispositions générales.<a id=108></a>
+### Titre préliminaire : Dispositions générales.<a id=103></a>
 
-#### Chapitre Ier : Champ d'application et principes généraux d'organisation.<a id=109></a>
+#### Chapitre Ier : Champ d'application et principes généraux d'organisation.<a id=104></a>
 
 ###### Article R*301-1
 
@@ -9909,7 +9933,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Compétences en matière de règlement de police dans les ports maritimes.<a id=110></a>
+#### Chapitre II : Compétences en matière de règlement de police dans les ports maritimes.<a id=105></a>
 
 ###### Article R302-1
 
@@ -9960,7 +9984,7 @@ _Cite_:
   - Code des ports maritimes - art. L302-8
 
 
-#### Chapitre III : Agents chargés de la police dans les ports maritimes.<a id=111></a>
+#### Chapitre III : Agents chargés de la police dans les ports maritimes.<a id=106></a>
 
 ###### Article R303-1
 
@@ -10187,9 +10211,9 @@ _Cite_:
   - Code des ports maritimes - art. L303-6
 
 
-#### Chapitre IV : Dispositions applicables à certaines situations particulières.<a id=112></a>
+#### Chapitre IV : Dispositions applicables à certaines situations particulières.<a id=107></a>
 
-##### Section 1 : Opérations de secours en cas de sinistre.<a id=113></a>
+##### Section 1 : Opérations de secours en cas de sinistre.<a id=108></a>
 
 ###### Article R304-1
 
@@ -10402,7 +10426,7 @@ _Cite_:
   - Code des ports maritimes - art. R304-1 (Ab)
 
 
-##### Section 2 : Dispositifs propres aux besoins de la défense nationale.<a id=114></a>
+##### Section 2 : Dispositifs propres aux besoins de la défense nationale.<a id=109></a>
 
 ###### Article R304-8
 
@@ -10481,7 +10505,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 3 : Restrictions applicables aux navires présentant un danger.<a id=115></a>
+##### Section 3 : Restrictions applicables aux navires présentant un danger.<a id=110></a>
 
 ###### Article R304-11
 
@@ -10513,7 +10537,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre Ier : Police du plan d'eau.<a id=116></a>
+### Titre Ier : Police du plan d'eau.<a id=111></a>
 
 ###### Article R311-1
 
@@ -10540,13 +10564,13 @@ _Cite_:
   - Code des ports maritimes - art. L311-1
 
 
-### Titre II : Sûreté portuaire.<a id=117></a>
+### Titre II : Sûreté portuaire.<a id=112></a>
 
-#### Chapitre unique :  Sûreté du transport maritime et des opérations portuaires.<a id=118></a>
+#### Chapitre unique :  Sûreté du transport maritime et des opérations portuaires.<a id=113></a>
 
-##### Section 1 : Organisation administrative.<a id=119></a>
+##### Section 1 : Organisation administrative.<a id=114></a>
 
-##### Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires.<a id=120></a>
+##### Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires.<a id=115></a>
 
 ###### Article R321-1
 
@@ -10653,7 +10677,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 2 : Comités locaux de sûreté portuaire.<a id=121></a>
+##### Sous-section 2 : Comités locaux de sûreté portuaire.<a id=116></a>
 
 ###### Article R321-4
 
@@ -10780,7 +10804,7 @@ _Nouveaux textes_:
   - Code des transports - art. R5332-5 (M)
 
 
-##### Sous-section 3 : Compétences du représentant de l'Etat dans le département.<a id=122></a>
+##### Sous-section 3 : Compétences du représentant de l'Etat dans le département.<a id=117></a>
 
 ###### Article R321-6
 
@@ -10834,9 +10858,9 @@ _Cite_:
   - Code des ports maritimes - art. R321-15
 
 
-##### Section 2 : Organismes de sûreté habilités.<a id=123></a>
+##### Section 2 : Organismes de sûreté habilités.<a id=118></a>
 
-##### Sous-section 1 : Habilitation des organismes de sûreté.<a id=124></a>
+##### Sous-section 1 : Habilitation des organismes de sûreté.<a id=119></a>
 
 ###### Article R321-7
 
@@ -11018,7 +11042,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 2 : Fonctions des organismes de sûreté habilités.<a id=125></a>
+##### Sous-section 2 : Fonctions des organismes de sûreté habilités.<a id=120></a>
 
 ###### Article R321-12
 
@@ -11149,9 +11173,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires.<a id=126></a>
+##### Section 3 : Evaluation de la sûreté et plan de sûreté portuaires et évaluations de la sûreté et plans de sûreté des installations portuaires.<a id=121></a>
 
-##### Sous-section 1 : Champ d'application.<a id=127></a>
+##### Sous-section 1 : Champ d'application.<a id=122></a>
 
 ###### Article R321-15
 
@@ -11220,7 +11244,7 @@ _Cite_:
   - Code des ports maritimes - art. L321-1
 
 
-##### Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire.<a id=128></a>
+##### Sous-section 2 : Evaluation de la sûreté et plan de sûreté portuaire.<a id=123></a>
 
 ###### Article R321-17
 
@@ -11496,7 +11520,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires.<a id=129></a>
+##### Sous-section 3 : Evaluations de la sûreté et plans de sûreté des installations portuaires.<a id=124></a>
 
 ###### Article R321-23
 
@@ -11824,9 +11848,9 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint.<a id=130></a>
+##### Section 4 : Mesures de sûreté applicables dans les zones d'accès restreint.<a id=125></a>
 
-##### Sous-section 1 : Création des zones d'accès restreint.<a id=131></a>
+##### Sous-section 1 : Création des zones d'accès restreint.<a id=126></a>
 
 ###### Article R321-31
 
@@ -11910,7 +11934,7 @@ _Cite_:
   - Code des ports maritimes - art. L321-5
 
 
-##### Sous-section 2 : Accès aux zones d'accès restreint.<a id=132></a>
+##### Sous-section 2 : Accès aux zones d'accès restreint.<a id=127></a>
 
 ###### Article R321-33
 
@@ -12242,7 +12266,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 3 : Equipements et systèmes de sûreté.<a id=133></a>
+##### Sous-section 3 : Equipements et systèmes de sûreté.<a id=128></a>
 
 ###### Article R321-41
 
@@ -12276,7 +12300,7 @@ _Cité par_:
   - Code des ports maritimes - art. R321-33 (Ab)
 
 
-##### Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté.<a id=134></a>
+##### Sous-section 4 : Introduction d'objets dans les zones d'accès restreint - Visites de sûreté.<a id=129></a>
 
 ###### Article R321-42
 
@@ -12503,7 +12527,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Section 5 : Sûreté des plans d'eau portuaires.<a id=135></a>
+##### Section 5 : Sûreté des plans d'eau portuaires.<a id=130></a>
 
 ###### Article R321-48
 
@@ -12538,9 +12562,9 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Section 6 : Mesures d'exécution et sanctions.<a id=136></a>
+##### Section 6 : Mesures d'exécution et sanctions.<a id=131></a>
 
-##### Sous-section 1 : Sanctions administratives.<a id=137></a>
+##### Sous-section 1 : Sanctions administratives.<a id=132></a>
 
 ###### Article R321-49
 
@@ -12673,7 +12697,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-##### Sous-section 2 : Sanctions pénales.<a id=138></a>
+##### Sous-section 2 : Sanctions pénales.<a id=133></a>
 
 ###### Article R321-52
 
@@ -12720,7 +12744,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre III : Polices de la grande voirie.<a id=139></a>
+### Titre III : Polices de la grande voirie.<a id=134></a>
 
 ###### Article R330-1
 
@@ -12747,9 +12771,9 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre IV : Dispositions spéciales.<a id=140></a>
+### Titre IV : Dispositions spéciales.<a id=135></a>
 
-#### Chapitre Ier : Police de la signalisation maritime.<a id=141></a>
+#### Chapitre Ier : Police de la signalisation maritime.<a id=136></a>
 
 ###### Article R341-1
 
@@ -12783,7 +12807,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Chargement et déchargement des navires vraquiers.<a id=142></a>
+#### Chapitre II : Chargement et déchargement des navires vraquiers.<a id=137></a>
 
 ###### Article R342-1
 
@@ -12978,7 +13002,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre III : Déchets d'exploitation et résidus de cargaison.<a id=143></a>
+#### Chapitre III : Déchets d'exploitation et résidus de cargaison.<a id=138></a>
 
 ###### Article R343-1
 
@@ -13104,7 +13128,7 @@ _Cite_:
   - Code des ports maritimes - art. R343-3 (Ab)
 
 
-## Livre IV : Voies ferrées portuaires.<a id=144></a>
+## Livre IV : Voies ferrées portuaires.<a id=139></a>
 
 ###### Article R411-1
 
@@ -13408,9 +13432,9 @@ _Cite_:
   - Code des ports maritimes - art. L411-7
 
 
-## Livre V : Régime du travail dans les ports maritimes.<a id=145></a>
+## Livre V : Régime du travail dans les ports maritimes.<a id=140></a>
 
-### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=146></a>
+### Titre Ier : Organisation de la main-d'oeuvre dans les entreprises de manutention (dockers).<a id=141></a>
 
 ###### Article R511-1
 
@@ -13742,7 +13766,7 @@ _Cité par_:
   - Code des ports maritimes - art. R*511-5 (Ab)
 
 
-### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=147></a>
+### Titre II : Indemnité de garantie. Caisse nationale de garantie des ouvriers dockers.<a id=142></a>
 
 ###### Article R521-1
 
@@ -13994,7 +14018,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-### Titre III : Sanctions et dispositions diverses.<a id=148></a>
+### Titre III : Sanctions et dispositions diverses.<a id=143></a>
 
 ###### Article R531-1
 
@@ -14053,11 +14077,11 @@ _Cite_:
   - SPEC_APPLI: Code des ports maritimes - art. L531-1 (VT)
 
 
-## Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements.<a id=149></a>
+## Livre VI : Création, organisation et aménagement des ports maritimes relevant de la compétence des collectivités territoriales et de leurs groupements.<a id=144></a>
 
-### Titre Ier : Aménagement et exploitation des ports maritimes.<a id=150></a>
+### Titre Ier : Aménagement et exploitation des ports maritimes.<a id=145></a>
 
-#### Chapitre Ier : Aménagement et organisation.<a id=151></a>
+#### Chapitre Ier : Aménagement et organisation.<a id=146></a>
 
 ###### Article R*611-1
 
@@ -14187,7 +14211,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre II : Tarifs.<a id=152></a>
+#### Chapitre II : Tarifs.<a id=147></a>
 
 ###### Article R*612-1
 
@@ -14284,7 +14308,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre III : Délimitation.<a id=153></a>
+#### Chapitre III : Délimitation.<a id=148></a>
 
 ###### Article R*613-1
 
@@ -14310,7 +14334,7 @@ _Modifié par_:
   - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
 
 
-#### Chapitre IV : Dispositions communes.<a id=154></a>
+#### Chapitre IV : Dispositions communes.<a id=149></a>
 
 ###### Article R*614-1
 
@@ -14332,7 +14356,7 @@ _Cite_:
   - Code des ports maritimes R611-3, R612-2, R612-3, R613-1
 
 
-#### Chapitre V : Suivi du trafic maritime.<a id=155></a>
+#### Chapitre V : Suivi du trafic maritime.<a id=150></a>
 
 ###### Article R615-1
 
@@ -14358,7 +14382,7 @@ _Cite_:
   - Code des ports maritimes - art. R154-1 (Ab)
 
 
-#### Chapitre VI : Sécurité des ouvrages maritimes portuaires.<a id=156></a>
+#### Chapitre VI : Sécurité des ouvrages maritimes portuaires.<a id=151></a>
 
 ###### Article R616-1
 
@@ -14421,112 +14445,132 @@ _Cite_:
   - Code des ports maritimes - art. R616-1 (Ab)
 
 
-### Titre II : Conseils portuaires.<a id=157></a>
+### Titre II : Conseils portuaires.<a id=152></a>
 
-#### Chapitre Ier : Dispositions relatives aux ports départementaux.<a id=158></a>
+#### Chapitre Ier : Dispositions relatives aux ports départementaux.<a id=153></a>
 
 ###### Article R*621-1
 
 Dans les ports départementaux où se pratique une seule activité soit de pêche, soit de commerce, il est institué un conseil
-portuaire composé ainsi qu'il suit :
+portuaire composé ainsi qu'il suit : 
 
-1° Le président du conseil général ou son représentant qu'il désigne parmi les conseillers généraux, président ;
+1° Le président du conseil général ou son représentant qu'il désigne parmi les conseillers généraux, président ; 
 
 2° Un représentant du concessionnaire ou de chacun des concessionnaires et dans le cas où elle n'est pas concessionnaire, un
-membre désigné par la chambre de commerce et d'industrie ;
+membre désigné par la      chambre de commerce et d'industrie territoriale ; 
 
 3° Un représentant désigné en son sein par le conseil municipal de chacune des communes sur le territoire desquelles s'étend
-le port ;
+le port ; 
 
-4° Des membres représentant certains personnels concernés par la gestion du port, à savoir :
+4° Des membres représentant certains personnels concernés par la gestion du port, à savoir : 
 
 a) Un membre du personnel départemental ou mis par l'Etat à la disposition du département appartenant aux services chargés
-des ports ;
+des ports ; 
 
-b) Un membre du personnel du concessionnaire ou de chacun des concessionnaires ;
+b) Un membre du personnel du concessionnaire ou de chacun des concessionnaires ; 
 
-c) Dans les ports où il existe un bureau central de la main-d'oeuvre, un membre représentant les ouvriers dockers du port.
+c) Dans les ports où il existe un bureau central de la main-d'oeuvre, un membre représentant les ouvriers dockers du port. 
 
 Les représentants des personnels et des ouvriers dockers du port sont désignés par le président du conseil général sur
-proposition des organisations syndicales les plus représentatives des personnels concernés au plan local ;
+proposition des organisations syndicales les plus représentatives des personnels concernés au plan local ; 
 
-5° a) Dans les ports de commerce :
+5° a) Dans les ports de commerce : 
 
 Six membres représentant des usagers du port choisis parmi les catégories d'usagers mentionnées à l'article R. *142-5 1°, à
-raison de trois membres désignés par la chambre de commerce et d'industrie et trois membres désignés par le président du
-conseil général ;
+raison de trois membres désignés par la      chambre de commerce et d'industrie territoriale et trois membres désignés par le
+président du conseil général ; 
 
-b) Dans les ports de pêche :
+b) Dans les ports de pêche : 
 
 Six membres représentant les usagers du port choisis parmi les catégories d'usagers mentionnées à l'article R. *142-5 2°, à
 raison de quatre membres désignés par le comité local des pêches et deux membres désignés par le président du conseil
-général.
+général. 
 
 Les membres du conseil portuaire sont nommés par arrêté du président du conseil général.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R142-5
+  - Code des ports maritimes
 
 
 ###### Article R*621-2
 
 Dans les ports où se pratiquent simultanément au moins deux des activités de pêche, de commerce et de plaisance, le conseil
-portuaire est composé de la manière suivante :
+portuaire est composé de la manière suivante : 
 
-1° Le président du conseil général ou son représentant, qu'il désigne parmi les conseillers généraux, président ;
+1° Le président du conseil général ou son représentant, qu'il désigne parmi les conseillers généraux, président ; 
 
 2° Deux membres désignés par le concessionnaire lorsqu'il existe un seul concessionnaire ou un membre désigné par chaque
-concessionnaire lorsqu'il y a au moins deux concessionnaires ;
+concessionnaire lorsqu'il y a au moins deux concessionnaires ; 
 
 3° Un représentant désigné en son sein par le conseil municipal, de chacune des communes sur le territoire desquelles s'étend
-le port ;
+le port ; 
 
-4° Des membres représentant certains personnels concernés par la gestion du port, à savoir :
+4° Des membres représentant certains personnels concernés par la gestion du port, à savoir : 
 
 a) Un membre du personnel départemental ou mis par l'Etat à la disposition du département appartenant aux services chargés
-des ports ;
+des ports ; 
 
-b) Un membre du personnel de chacun des concessionnaires ;
+b) Un membre du personnel de chacun des concessionnaires ; 
 
-c) Dans les ports où il existe un bureau central de la main-d'oeuvre, un membre représentant les ouvriers dockers du port.
+c) Dans les ports où il existe un bureau central de la main-d'oeuvre, un membre représentant les ouvriers dockers du port. 
 
 Les représentants des personnels et des ouvriers dockers du port sont désignés par le président du conseil général sur
-proposition des organisations syndicales les plus représentatives des personnels concernés ;
+proposition des organisations syndicales les plus représentatives des personnels concernés ; 
 
 5° Neuf membres représentant les usagers du port choisis parmi les catégories d'usagers mentionnées à l'article R. *142-5, à
-raison de trois membres désignés par le président du conseil général et six membres désignés respectivement par la chambre de
-commerce et d'industrie, le comité local des pêches et le comité local des usagers permanents des installations portuaires de
-plaisance, constitué dans les mêmes conditions que celles prévues à l'article R. 622-3 et réuni au moins une fois par an par
-le président du conseil ou son représentant ; le président du conseil général détermine le nombre de sièges revenant à chaque
-catégorie d'usagers au titre du commerce, de la pêche et de la plaisance, compte tenu de l'importance respective de chacune
-de ces activités.
+raison de trois membres désignés par le président du conseil général et six membres désignés respectivement par la
+chambre de commerce et d'industrie territoriale, le comité local des pêches et le comité local des usagers permanents des
+installations portuaires de plaisance, constitué dans les mêmes conditions que celles prévues à l'article R. 622-3 et réuni
+au moins une fois par an par le président du conseil ou son représentant ; le président du conseil général détermine le
+nombre de sièges revenant à chaque catégorie d'usagers au titre du commerce, de la pêche et de la plaisance, compte tenu de
+l'importance respective de chacune de ces activités. 
 
 Les membres du conseil portuaire sont nommés par arrêté du président du conseil général.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R142-5, R622-3
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5314-14 (M)
 
 
 ###### Article R*621-3
@@ -14576,38 +14620,50 @@ _Nouveaux textes_:
 ###### Article R*621-4
 
 Le conseil général peut décider de constituer un seul conseil portuaire pour connaître des affaires de plusieurs ports de peu
-d'importance.
+d'importance. 
 
 Dans ce cas le conseil est composé dans les mêmes conditions que celles prévues aux articles R. *621-1 et R. *621-2, sous les
-réserves suivantes :
+réserves suivantes : 
 
 1° Le personnel départemental appartenant au service chargé des ports ou mis par l'Etat à la disposition du département est
-représenté par un seul membre ;
+représenté par un seul membre ; 
 
-2° Le président du conseil général peut décider :
+2° Le président du conseil général peut décider : 
 
 a) La constitution d'un seul comité local des usagers permanents des installations portuaires de plaisance pour l'ensemble de
-ces installations ;
+ces installations ; 
 
-b) La désignation conjointe par les chambres de commerce et d'industrie et par les comités locaux des pêches intéressés des
-membres représentant les usagers des ports aux titres respectifs du commerce et de la pêche.
+b) La désignation conjointe par les      chambres de commerce et d'industrie territoriales et par les comités locaux des
+pêches intéressés des membres représentant les usagers des ports aux titres respectifs du commerce et de la pêche.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R621-1, R621-2
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5314-16 (M)
 
 
-#### Chapitre II : Dispositions relatives aux ports communaux.<a id=159></a>
+#### Chapitre II : Dispositions relatives aux ports communaux.<a id=154></a>
 
 ###### Article R*622-1
 
@@ -14657,25 +14713,37 @@ _Cite_:
 
 ###### Article R*622-2
 
-Le conseil portuaire est complété par un représentant désigné par la chambre de commerce et d'industrie quand elle n'est pas
-concessionnaire.
+Le conseil portuaire est complété par un représentant désigné par la      chambre de commerce et d'industrie territoriale
+quand elle n'est pas concessionnaire. 
 
 Dans les ports dont les installations s'étendent sur plusieurs communes, le conseil portuaire est complété par un
 représentant désigné en son sein par le conseil municipal de chacune des autres communes sur le territoire desquelles s'étend
-le port.
+le port. 
 
 Lorsque le port abrite de façon régulière des navires de pêche maritime, le conseil portuaire est complété par un
 représentant désigné en son sein par le conseil général et un représentant des pêcheurs désigné par le maire.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5314-18 (V)
 
 _Modifié par_:
 
-  - Décret n°2005-255 du 14 mars 2005 - art. 1 () JORF 19 mars 2005
+  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*622-3
@@ -14740,7 +14808,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-#### Chapitre III : Dispositions communes.<a id=160></a>
+#### Chapitre III : Dispositions communes.<a id=155></a>
 
 ###### Article R*623-1
 
@@ -14862,9 +14930,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre III : Domaine public portuaire.<a id=161></a>
+### Titre III : Domaine public portuaire.<a id=156></a>
 
-#### Chapitre unique.<a id=162></a>
+#### Chapitre unique.<a id=157></a>
 
 ###### Article R*631-1
 
