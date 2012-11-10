@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2012-10-03
+Version Consolidée au 2012-11-11
 ## Contenu: 
   - [Partie législative (art. L111-4 à L346-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-4 à L111-9)](#2)
@@ -1291,8 +1291,8 @@ Sont soumis à l'approbation préalable du conseil de surveillance :
 
 a) Le projet stratégique du port mentionné à l'article L. 103-1 et le rapport annuel sur son exécution ; 
 
-b) L'état prévisionnel des recettes et des dépenses et ses décisions modificatives, notamment l'évolution de la dette, des
-politiques salariales et tarifaires et des effectifs ; 
+b)        Le budget et ses décisions modificatives, notamment l'évolution de la dette, des politiques salariales et
+tarifaires et des effectifs ; 
 
 c) Le compte financier et l'affectation des résultats aux fins de vérification et de contrôle ; 
 
@@ -1314,15 +1314,27 @@ k) Les conditions générales de passation des conventions et marchés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
   - Code des ports maritimes - art. L103-1
   - Code des ports maritimes - art. R102-20
-  - Code des ports maritimes - art. R102-8
+  - Code des ports maritimes - art. R102-8 (Ab)
+
+_Cité par_:
+
+  - Code des ports maritimes - art. R163-5 (Ab)
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5312-24 (V)
 
 
 ###### Article R102-13
@@ -1468,8 +1480,8 @@ En application de l'article L. 102-5, le directoire exerce notamment les attribu
 
 ― il prépare, soumet à l'approbation du conseil et met en œuvre le projet stratégique prévu à l'article L. 103-1 ; 
 
-― il établit l'état prévisionnel des recettes et des dépenses et ses décisions modificatives, et, après approbation du
-conseil de surveillance, les exécute ; 
+― il établit        le budget et ses décisions modificatives, et, après approbation du conseil de surveillance, les
+exécute ; 
 
 ― il soumet le compte financier de l'établissement au conseil de surveillance ; 
 
@@ -1484,9 +1496,17 @@ les besoins de la trésorerie et le placement des réserves.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+  - Code des transports - art. R5312-30 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
@@ -2106,15 +2126,23 @@ _Cité par_:
 
 ###### Article R103-8
 
-L'état prévisionnel des recettes et des dépenses est établi par année civile. 
+Le budget est établi par année civile. 
 
 Les opérations en capital peuvent donner lieu à des prévisions d'exécution échelonnées sur plusieurs années.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+  - Code des transports - art. R5312-71 (V)
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R103-9
@@ -4599,21 +4627,21 @@ _Cite_:
 
 L'état prévisionnel des recettes et des dépenses est présenté par le directeur au conseil d'administration. Il est soumis à
 l'approbation du ministre chargé des ports maritimes et du ministre chargé du budget avant le 1er décembre de l'année
-précédant l'ouverture de l'exercice.
+précédant l'ouverture de l'exercice. 
 
 Dans le cas prévu au deuxième alinéa, deuxième phrase, de l'article L. 113-2, la décision de créer d'office les ressources
 nécessaires pour couvrir la totalité des charges d'exploitation est prise par le ministre chargé des ports maritimes et par
-le ministre de l'économie et des finances.
+le ministre de l'économie et des finances. 
 
 Si l'état prévisionnel n'est pas encore approuvé à l'ouverture de l'exercice, le directeur peut néanmoins engager, sauf
 opposition du membre du corps du contrôle général économique et financier, dans la limite des ressources disponibles à cet
 effet, les dépenses antérieurement autorisées et ordonner les paiements correspondants. Il peut en outre, dans la double
 limite des prévisions adoptées par le conseil d'administration et des crédits approuvés au titre de l'année précédente,
 engager, sauf opposition du membre du corps du contrôle général économique et financier, les dépenses indispensables à la
-continuité de la gestion.
+continuité de la gestion. 
 
 Les modifications à l'état prévisionnel reconnues nécessaires en cours d'exercice sont arrêtées et approuvées dans les mêmes
-formes que cet état.
+formes que cet état. 
 
 En cours d'exercice, un suivi de l'exécution de l'état prévisionnel, incluant une analyse par poste des écarts avec la
 prévision, est communiqué au moins deux fois par an au conseil d'administration.
@@ -4622,15 +4650,15 @@ prévision, est communiqué au moins deux fois par an au conseil d'administratio
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
-_Cite_:
+_Nouveaux textes_:
 
-  - Code des ports maritimes - art. L113-2 (M)
+  - Code des transports - art. R5313-45 (V)
 
 
 ###### Article R*113-16
