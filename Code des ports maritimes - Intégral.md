@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2014-05-28
 ## Contenu: 
   - [Partie législative (art. L111-4 à L346-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-4 à L111-9)](#2)
@@ -82,7 +82,7 @@ Version Consolidée au 2013-01-01
         - [Chapitre Ier : Délimitation des ports maritimes. (art. R*151-1)](#79)
         - [Chapitre III : Matériel de dragage. (art. R153-1 à R153-2)](#80)
         - [Chapitre IV : Suivi du trafic maritime. (art. R154-1 à R154-2)](#81)
-        - [Chapitre V : Sécurité des ouvrages maritimes portuaires. (art. R155-1 à R155-6)](#82)
+        - [Chapitre V : Sécurité des ouvrages maritimes portuaires. (art. R155-2 à R155-6)](#82)
       - [Titre VI : Dispositions particulières aux ports des départements d'outre-mer. (art. R*161-1 à R163-15)](#83)
         - [Chapitre Ier : Dispositions particulières applicables à l'ensemble des départements d'outre-mer. (art. R*161-1 à R161-1-1)](#84)
         - [Chapitre III : Dispositions particulières applicables en Guadeloupe, Guyane, Martinique et à La Réunion (art. R163-1 à R163-15)](#85)
@@ -7708,48 +7708,6 @@ _Nouveaux textes_:
 
 
 #### Chapitre V : Sécurité des ouvrages maritimes portuaires.<a id=82></a>
-
-###### Article R155-1
-
-Les catégories d'ouvrages d'infrastructure portuaire auxquelles s'appliquent les dispositions de l'article L. 155-1 du code
-des ports maritimes sont : 
-
-― les ouvrages de franchissement hydraulique dont le dénivelé maximum est supérieur à 6 mètres ou dont la largeur du sas est
-supérieure à 25 mètres ; 
-
-― les ponts mobiles dont la longueur de chaussée utile est supérieure à 60 mètres ; 
-
-― les passerelles portuaires permettant l'accès des poids lourds aux navires et comportant des dispositifs d'ajustement des
-niveaux, qu'il s'agisse de câbles, de vérins ou de pontons flottants. 
-
-Les ouvrages d'infrastructure comprennent tous les éléments concourant à leur fonctionnement, notamment les équipements
-mécaniques mobiles et les installations techniques et de sécurité telles que signalisation, systèmes d'alimentation
-électrique, d'aides à l'exploitation, de commande, de contrôle ou de communication.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2008-1032 du 9 octobre 2008 - art. 3
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R1612-1 (M)
-
-_Abrogé par_:
-
-  - Décret n°2014-530 du 22 mai 2014 - art. 8
-
-_Cite_:
-
-  - Code des ports maritimes - art. L155-1
-
-_Cité par_:
-
-  - Code des ports maritimes - art. R155-3 (Ab)
-  - Code des ports maritimes - art. R155-4 (Ab)
-  - Code des ports maritimes - art. R155-6 (Ab)
-
 
 ###### Article R155-2
 
