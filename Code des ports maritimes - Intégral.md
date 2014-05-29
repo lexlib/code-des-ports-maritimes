@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2014-05-28
+Version Consolidée au 2014-05-30
 ## Contenu: 
   - [Partie législative (art. L111-4 à L346-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-4 à L111-9)](#2)
@@ -2276,9 +2276,8 @@ _Abrogé par_:
 ###### Article R103-12
 
 Le grand port maritime acquiert à l'amiable ou par voie d'expropriation les immeubles utiles à son développement, après
-consultation du service des domaines dans les conditions fixées par le décret n° 86-455 du 14 mars 1986 portant suppression
-des commissions des opérations immobilières et de l'architecture et fixant les modalités de consultation du service des
-domaines.
+consultation du directeur départemental ou, le cas échéant, régional des finances publiques dans les conditions fixées par
+les articles R. 1211-1 à R. 1211-8 du code général de la propriété des personnes publiques.
 
 **Liens relatifs à cet article**
 
@@ -2286,9 +2285,17 @@ _Cite_:
 
   - Décret n°86-455 du 14 mars 1986
 
-_Créé par_:
+_Nouveaux textes_:
 
-  - Décret n°2008-1032 du 9 octobre 2008 - art. 1
+  - Code des transports - art. R5312-75 (V)
+
+_Modifié par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R103-13
@@ -4921,7 +4928,7 @@ l'objet d'un déclassement, d'une affectation ou d'un transfert de gestion à un
 d'une aliénation, que dans les conditions et suivant la procédure prévue par la réglementation applicable aux biens de
 l'Etat. Toutefois, les aliénations peuvent dans tous les cas être faites à l'amiable et, lorsque la valeur vénale excède le
 montant fixé en application de l'article R. 129-4 du code du domaine de l'Etat, après autorisation du ministre chargé des
-ports maritimes et du ministre chargé du domaine.
+ports maritimes et du ministre chargé du domaine. 
 
 Le produit de la vente ou éventuellement l'indemnité de changement d'affectation est encaissé par l'Etat. Toutefois, la
 fraction du prix ou de l'indemnité correspondant à la plus-value apportée à l'immeuble par les aménagements réalisés depuis
@@ -4930,45 +4937,61 @@ répartie entre l'Etat et le port proportionnellement à leur participation resp
 valeur de la plus-value est calculée au jour de la vente et la répartition est fixée par décision conjointe du ministre
 chargé du domaine et du ministre chargé des ports maritimes pour les cessions d'immeubles dont la valeur vénale excède le
 montant défini en application de l'article R. 129-4 du code du domaine de l'Etat, par décision conjointe du directeur du port
-autonome et du directeur des services fiscaux dans les autres cas.
+autonome et du   directeur départemental ou, le cas échéant, régional des finances publiques dans les autres cas.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-52 (V)
 
 _Modifié par_:
 
-  - Décret n°2004-1175 du 4 novembre 2004 - art. 7 () JORF 6 novembre 2004
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code du domaine de l'Etat - art. R129-4 (V)
-  - Code des ports maritimes R111-8, R111-10
+  - Code du domaine de l'Etat - art. R129-4
+  - Code des ports maritimes
 
 
 ###### Article R*113-23
 
 Le port autonome peut céder à l'amiable les immeubles dont il est propriétaire. Le produit de leur vente lui est totalement
 acquis. Les opérations de vente font l'objet d'une publicité préalable. Il acquiert à l'amiable ou par voie d'expropriation
-les immeubles utiles à son développement, après consultation du directeur des services fiscaux dans les conditions fixées par
-le décret n° 86-455 du 14 mars 1986 portant suppression des commissions des opérations immobilières et de l'architecture et
-fixant les modalités de consultation du service des domaines.
+les immeubles utiles à son développement, après consultation du   directeur départemental ou, le cas échéant, régional des
+finances publiques dans les conditions fixées par le décret n° 86-455 du 14 mars 1986 portant suppression des commissions des
+opérations immobilières et de l'architecture et fixant les modalités de consultation du service des domaines.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Cite_:
 
-  - Décret n°86-455 1986-03-14
+  - Décret n°86-455 du 14 mars 1986
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-53 (V)
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 9 () JORF 11 septembre 1999
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-24
@@ -4979,30 +5002,38 @@ un périmètre à l'intérieur duquel des immeubles affectés au port autonome e
 privé de l'Etat peuvent être vendus à charge de remploi. Le recours au remploi, qui consiste en acquisitions de nouveaux
 immeubles, est décidé, à l'occasion de chaque vente, sur la demande du conseil d'administration. En cas de remploi,
 l'acquisition des nouveaux immeubles, dont le choix est proposé par le conseil d'administration, doit intervenir dans un
-délai maximum de cinq ans.
+délai maximum de cinq ans. 
 
 La part du produit de la vente des immeubles qui serait advenue à l'Etat par application des règles définies à l'alinéa 2 de
 l'article R. *113-22 sera reversée au port autonome et comptabilisée par celui-ci à un compte d'attente jusqu'à la
 réalisation du remploi. Si celui-ci n'intervenait pas dans le délai précité de cinq ans, la somme serait définitivement
-acquise à l'Etat.
+acquise à l'Etat. 
 
-Les actes d'acquisition en remploi sont passés par le service des domaines. Les immeubles ainsi acquis sont réputés pour la
-totalité appartenir au domaine de l'Etat et soumis, quant à leur administration et à leur aliénation, aux règles définies au
-premier alinéa de l'article R. *113-22. En cas de revente ultérieure, le montant de la plus-value résultant des aménagements
-réalisés est réparti entre l'Etat et le port autonome, conformément aux dispositions du deuxième alinéa de l'article R.
-*113-22, le surplus du prix de vente étant partagé entre l'Etat et le port autonome proportionnellement à la valeur des
-contributions respectives qu'ils avaient apportées au remploi. Toutefois, il peut, dans les conditions fixées par le présent
-paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
+Les actes d'acquisition en remploi sont passés par   l'administration chargée des domaines. Les immeubles ainsi acquis sont
+réputés pour la totalité appartenir au domaine de l'Etat et soumis, quant à leur administration et à leur aliénation, aux
+règles définies au premier alinéa de l'article R. *113-22. En cas de revente ultérieure, le montant de la plus-value
+résultant des aménagements réalisés est réparti entre l'Etat et le port autonome, conformément aux dispositions du deuxième
+alinéa de l'article R. *113-22, le surplus du prix de vente étant partagé entre l'Etat et le port autonome
+proportionnellement à la valeur des contributions respectives qu'ils avaient apportées au remploi. Toutefois, il peut, dans
+les conditions fixées par le présent paragraphe, être procédé à un nouveau remploi de la part revenant à l'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5313-54 (V)
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 9 () JORF 11 septembre 1999
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
 ###### Article R*113-25
@@ -6501,28 +6532,35 @@ _Cité par_:
 ###### Article R*122-9
 
 La demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par le
-directeur du port.
+directeur du port. 
 
 Le préfet transmet, dans les cas prévus aux a et b de l'article R. *122-8, la demande accompagnée de son rapport au ministre
 chargé des ports maritimes, qui décide si le projet doit être pris en considération. Dans les autres cas, la décision de
-prendre en considération le projet est prise par le préfet.
+prendre en considération le projet est prise par le préfet. 
 
 Si le projet est pris en considération, le directeur du port mène l'instruction dans les conditions prévues aux II et III de
-l'article R. *122-4. Le montant de la redevance pour occupation du domaine public de l'Etat fixé par le directeur des
-services fiscaux est mentionné dans le dossier d'instruction.
+l'article R. *122-4. Le montant de la redevance pour occupation du domaine public de l'Etat fixé par le   directeur
+départemental ou, le cas échéant, régional des finances publiques ou à Saint-Pierre-et-Miquelon, par le directeur des
+finances publiques est mentionné dans le dossier d'instruction. 
 
 Lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par un arrêté ministériel, le préfet transmet,
 dès l'issue de l'instruction, le dossier accompagné de son rapport au ministre chargé des ports maritimes. Ce dernier, s'il
 estime devoir donner une suite au projet, le soumet, le cas échéant, au ministre de qui relève la collectivité publique ou
-l'établissement intéressé.
+l'établissement intéressé. 
 
 Dans les cas prévus au c de l'article R. *122-8, le directeur du port transmet, dès l'issue de l'instruction, le dossier
-accompagné d'un rapport au préfet pour qu'il statue.
+accompagné d'un rapport au préfet pour qu'il statue. 
 
 Lorsque la concession n'est pas accordée par un décret en Conseil d'Etat, le ministre chargé des ports maritimes, ou le
 préfet dans les cas prévus au c de l'article R. *122-8, peut, par sa décision de prendre en considération le projet, limiter
 les consultations à celles des collectivités publiques et services locaux intéressés, du conseil portuaire et de la
 commission nautique s'il y a lieu.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
@@ -6532,15 +6570,23 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
+  - Décret n°78-488 du 22 mars 1978
 
 _Modifié par_:
 
-  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code des ports maritimes R122-8, R122-4
+  - Code des ports maritimes
+
+_Nouveaux textes_:
+
+  - Code des transports - art. R5314-5 (M)
 
 _Cité par_:
 
@@ -6608,30 +6654,41 @@ _Abrogé par_:
 
 Les autorisations d'outillage privé avec obligation de service public sont accordées, après instruction, par un arrêté du
 préfet ou, si l'outillage est compris dans les limites d'une concession, par le concessionnaire après accord du préfet qui
-est réputé acquis en l'absence de réponse dans le délai de deux mois suivant la réception de la demande.
+est réputé acquis en l'absence de réponse dans le délai de deux mois suivant la réception de la demande. 
 
-La demande d'autorisation est instruite, selon le cas, soit par le directeur du port qui la communique au directeur des
-services fiscaux en vue de la fixation du montant de la redevance pour occupation du domaine public de l'Etat, soit par le
+La demande d'autorisation est instruite, selon le cas, soit par le directeur du port qui la communique au   directeur
+départemental ou, le cas échéant, régional des finances publiques ou à Saint-Pierre-et-Miquelon, au directeur des finances
+publiques en vue de la fixation du montant de la redevance pour occupation du domaine public de l'Etat, soit par le
 concessionnaire. En cas de travaux, l'instruction est menée dans les conditions prévues par les articles R. *122-4 et R.
 *122-9.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-488 1978-03-22
-
-_Modifié par_:
-
-  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
+  - Décret n°78-488 du 22 mars 1978
 
 _Cité par_:
 
   - Code des transports - art. R5753-6 (V)
 
+_Modifié par_:
+
+  - Décret n°2014-551 du 27 mai 2014 - art. 21
+
+_Abrogé par_:
+
+  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
+
 _Cite_:
 
-  - Code des ports maritimes R122-4, R122-9
+  - Code des ports maritimes
 
 
 ##### Sous-section 3 : Dispositions relatives aux tarifs.<a id=69></a>
