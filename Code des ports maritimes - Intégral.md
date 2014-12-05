@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-12-06
 ## Contenu: 
   - [Partie législative (art. L111-4 à L346-2)](#1)
     - [Livre Ier : Création, organisation et aménagement des ports maritimes. (art. L111-4 à L111-9)](#2)
@@ -112,9 +112,9 @@ Version Consolidée au 2014-05-30
         - [Chapitre IV : Dispositions propres aux navires de plaisance ou de sport. (art. R*214-1 à R*214-6)](#109)
         - [Chapitre V : Dispositions diverses. (art. R*215-1)](#110)
       - [Titre III : Dispositions particulières aux ports des départements d'outre-mer. (art. R*231-1 à R*231-2)](#111)
-    - [Livre III : Police des ports maritimes. (art. R*301-1 à R343-4)](#112)
-      - [Titre préliminaire : Dispositions générales. (art. R*301-1 à R* 304-12)](#113)
-        - [Chapitre Ier : Champ d'application et principes généraux d'organisation. (art. R*301-1 à R301-6)](#114)
+    - [Livre III : Police des ports maritimes. (art. R301-3 à R343-4)](#112)
+      - [Titre préliminaire : Dispositions générales. (art. R301-3 à R* 304-12)](#113)
+        - [Chapitre Ier : Champ d'application et principes généraux d'organisation. (art. R301-3 à R301-6)](#114)
         - [Chapitre II : Compétences en matière de règlement de police dans les ports maritimes. (art. R302-1 à R302-2)](#115)
         - [Chapitre III : Agents chargés de la police dans les ports maritimes. (art. R303-1 à R303-8)](#116)
         - [Chapitre IV : Dispositions applicables à certaines situations particulières. (art. R304-1 à R* 304-12)](#117)
@@ -128,7 +128,7 @@ Version Consolidée au 2014-05-30
           - [Section 1 : Organisation administrative. (art. R321-1 à R321-6-1)](#125)
             - [Sous-section 1 : Groupe interministériel de sûreté du transport maritime et des opérations portuaires. (art. R321-1 à R321-3)](#126)
             - [Sous-section 2 : Comités locaux de sûreté portuaire. (art. R321-4 à R321-5)](#127)
-            - [Sous-section 3 : Compétences du représentant de l'Etat dans le département. (art. R321-6 à R321-6-1)](#128)
+            - [Sous-section 3 : Compétences du représentant de l'Etat dans le département. (art. R321-6-1)](#128)
           - [Section 2 : Organismes de sûreté habilités. (art. R321-7 à R321-14)](#129)
             - [Sous-section 1 : Habilitation des organismes de sûreté. (art. R321-7 à R321-11)](#130)
             - [Sous-section 2 : Fonctions des organismes de sûreté habilités. (art. R321-12 à R321-14)](#131)
@@ -10148,63 +10148,6 @@ _Cite_:
 
 #### Chapitre Ier : Champ d'application et principes généraux d'organisation.<a id=114></a>
 
-###### Article R*301-1
-
-La zone maritime et fluviale de régulation est délimitée : 
-
-a) Pour les grands ports maritimes et les ports autonomes, par un arrêté conjoint du préfet maritime ou du délégué du
-Gouvernement pour l'action de l'Etat en mer territorialement compétent et du préfet du département, pris après avis
-respectivement du directoire ou du conseil d'administration du port ; 
-
-b) Pour les autres ports, par un arrêté conjoint du préfet maritime ou du délégué du Gouvernement pour l'action de l'Etat en
-mer territorialement compétent, du préfet de département pour ce qui concerne, le cas échéant, la partie fluviale de la zone,
-et de l'autorité investie du pouvoir de police portuaire. 
-
-Dans le cas où ces installations portuaires sont implantées sur le territoire de plusieurs départements, un arrêté du Premier
-ministre détermine le préfet de département compétent.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-875 du 17 juillet 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R*5331-1 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
-
-###### Article R*301-2
-
-Le représentant de l'Etat mentionné à l'article L. 302-4 est le préfet du département où sont implantées les installations du
-port. 
-
-Dans le cas où ces installations sont implantées sur le territoire de plusieurs départements, un arrêté du Premier ministre
-détermine le préfet de département compétent.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2009-875 du 17 juillet 2009 - art. 1
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R*5331-6 (V)
-
-_Abrogé par_:
-
-  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
-_Cite_:
-
-  - Code des ports maritimes - art. L302-4
-
-
 ###### Article R301-3
 
 La délimitation de la zone maritime et fluviale de régulation des ports maritimes attenants aux ports militaires est arrêtée
@@ -11210,32 +11153,6 @@ _Nouveaux textes_:
 
 
 ##### Sous-section 3 : Compétences du représentant de l'Etat dans le département.<a id=128></a>
-
-###### Article R321-6
-
-Lorsque l'emprise d'un port s'étend sur plusieurs départements, un arrêté du ministre de l'intérieur pris après avis du
-ministre chargé des transports désigne le préfet de département qui exerce les prérogatives dévolues par le présent chapitre
-au représentant de l'Etat dans le département. Cet arrêté prévoit les modalités d'information des préfets des autres
-départements sur lesquels s'étend le port.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 du 22 mars 1978
-
-_Créé par_:
-
-  - Décret n°2007-476 du 29 mars 2007 - art. 1 () JORF 30 mars 2007
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R*5332-6 (M)
-
-_Abrogé par_:
-
-  - Décret n°2014-1440 du 4 décembre 2014 - art. 2
-
 
 ###### Article R321-6-1
 
