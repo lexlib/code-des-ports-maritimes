@@ -1,26 +1,23 @@
 # Code des ports maritimes  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2016-08-15
 ## Contenu: 
   - [Partie législative (art. L211-3-1)](#1)
     - [Livre II : Droits de port et de navigation. (art. L211-3-1)](#2)
       - [Titre Ier : Droits de port. (art. L211-3-1)](#3)
         - [Chapitre Ier : Dispositions communes. (art. L211-3-1)](#4)
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*115-6 à R*142-5)](#5)
-    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R*115-6 à R*142-5)](#6)
-      - [Titre Ier : Ports autonomes. (art. R*115-6)](#7)
-        - [Chapitre V : Aménagement. (art. R*115-6)](#8)
-          - [Section 1 : Travaux. (art. R*115-6)](#9)
-      - [Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat. (art. R*121-1 à R*122-17)](#10)
-        - [Chapitre Ier : Organisation. (art. R*121-1 à R*121-6)](#11)
-        - [Chapitre II : Aménagement. (art. R*122-1 à R*122-17)](#12)
-          - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#13)
-          - [Section 2 : Exploitation. (art. R*122-7 à R*122-17)](#14)
-            - [Sous-section 1 : Concession. (art. R*122-7 à R*122-10)](#15)
-            - [Sous-section 2 : Outillages privés. (art. R*122-11 à R*122-12)](#16)
-            - [Sous-section 3 : Dispositions relatives aux tarifs. (art. R*122-14 à R*122-17)](#17)
-      - [Titre IV : Conseil portuaire et comité de pilotage stratégique. (art. R*141-1 à R*142-5)](#18)
-        - [Chapitre Ier : Rôle et fonctionnement du conseil portuaire. (art. R*141-1 à R*141-4)](#19)
-        - [Chapitre II : Composition du conseil portuaire. (art. R*142-1 à R*142-5)](#20)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R*121-1 à R*142-5)](#5)
+    - [Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat. (art. R*121-1 à R*142-5)](#6)
+      - [Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat. (art. R*121-1 à R*122-17)](#7)
+        - [Chapitre Ier : Organisation. (art. R*121-1 à R*121-6)](#8)
+        - [Chapitre II : Aménagement. (art. R*122-1 à R*122-17)](#9)
+          - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#10)
+          - [Section 2 : Exploitation. (art. R*122-7 à R*122-17)](#11)
+            - [Sous-section 1 : Concession. (art. R*122-7 à R*122-10)](#12)
+            - [Sous-section 2 : Outillages privés. (art. R*122-11 à R*122-12)](#13)
+            - [Sous-section 3 : Dispositions relatives aux tarifs. (art. R*122-14 à R*122-17)](#14)
+      - [Titre IV : Conseil portuaire et comité de pilotage stratégique. (art. R*141-1 à R*142-5)](#15)
+        - [Chapitre Ier : Rôle et fonctionnement du conseil portuaire. (art. R*141-1 à R*141-4)](#16)
+        - [Chapitre II : Composition du conseil portuaire. (art. R*142-1 à R*142-5)](#17)
 # Partie législative<a id=1></a>
 
 ## Livre II : Droits de port et de navigation.<a id=2></a>
@@ -58,40 +55,9 @@ _Cite_:
 
 ## Livre Ier : Création, organisation et aménagement des ports maritimes civils relevant de la compétence de l'Etat.<a id=6></a>
 
-### Titre Ier : Ports autonomes.<a id=7></a>
+### Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat.<a id=7></a>
 
-#### Chapitre V : Aménagement.<a id=8></a>
-
-##### Section 1 : Travaux.<a id=9></a>
-
-###### Article R*115-6
-
-En cas d'expropriation pour cause d'utilité publique, il est procédé simultanément à l'instruction prévue à l'article R.
-*115-3 et à l'enquête publique dans les formes prévues pour les enquêtes préalables à une déclaration d'utilité publique
-régies par le titre Ier du livre Ier du code de l'expropriation pour cause d'utilité publique.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-488 du 22 mars 1978
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R5313-68 (V)
-
-_Modifié par_:
-
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-_Cite_:
-
-  - Code de la voirie routière - art. R*115-3
-
-
-### Titre II : Ports non autonomes de commerce et ports de pêche relevant de la compétence de l'Etat.<a id=10></a>
-
-#### Chapitre Ier : Organisation.<a id=11></a>
+#### Chapitre Ier : Organisation.<a id=8></a>
 
 ###### Article R*121-1
 
@@ -286,9 +252,9 @@ _Modifié par_:
   - Décret n°99-782 du 9 septembre 1999 - art. 12 () JORF 11 septembre 1999
 
 
-#### Chapitre II : Aménagement.<a id=12></a>
+#### Chapitre II : Aménagement.<a id=9></a>
 
-##### Section 1 : Travaux.<a id=13></a>
+##### Section 1 : Travaux.<a id=10></a>
 
 ###### Article R*122-1
 
@@ -366,8 +332,8 @@ _Cité par_:
 
 ###### Article R*122-4
 
-I.-Le dossier d'instruction comporte l'étude d'impact définie à l'article R. *122-3 du code de l'environnement lorsque le
-coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. *122-8 du même décret. 
+I.-Le dossier d'instruction comporte l'étude d'impact définie à l'article R. 122-5 du code de l'environnement lorsqu'elle est
+requise en application de l'article R. 122-2 du même code. 
 
 Le dossier d'instruction comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris
 pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs lorsque
@@ -389,8 +355,7 @@ II.-L'instruction, menée par le directeur du port, comprend les formalités ci-
 
 3° Consultation du concessionnaire, lorsqu'il n'est pas maître d'ouvrage ; 
 
-4° Consultation de la      chambre de commerce et d'industrie territoriale compétente, lorsqu'elle n'est pas le
-concessionnaire ; 
+4° Consultation de la chambre de commerce et d'industrie territoriale compétente, lorsqu'elle n'est pas le concessionnaire ; 
 
 5° Consultation, s'il y a lieu, de la commission nautique dont les conditions de fonctionnement sont fixées par arrêté
 conjoint du ministre chargé de la marine nationale, du ministre chargé des ports maritimes et du ministre chargé de la marine
@@ -407,42 +372,39 @@ la pêche (CORECODE) ;
 Dans le cas où les travaux envisagés sont soumis aux procédures prévues les articles L. 214-1 à L. 214-6 du code de
 l'environnement, l'instruction est menée simultanément avec celle prévue par les articles R. 214-6 à R. 214-56 dudit code. 
 
-III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des
-1°,2°,3°,4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
-invités.L'absence de réponse dans ce délai vaut avis favorable.
+III.-Le délai imparti aux collectivités, établissements publics, commissions et services consultés en application des 1°, 2°,
+3°, 4° et 5° du II du présent article pour faire connaître leur avis est de deux mois à compter du jour où ils y sont
+invités. L'absence de réponse dans ce délai vaut avis favorable.
 
 **Nota:**
 
-Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
-est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
-R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+<font size="1" color="#000000">Le décret n° 2016-1110 a été pris pour l'application de l'ordonnance n° 2016-1058 dont
+l'article 6 prévoit que " Les dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. "</font>
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°82-1153 du 30 décembre 1982
-  - Décret n°84-617 du 17 juillet 1984 - art. 3
-  - Décret n°84-617 du 17 juillet 1984 - art. 5
-  - Loi n°92-3 du 3 janvier 1992
-  - Code de l'environnement - art. L214-1
-  - Code de l'environnement - art. R122-3
-  - Code de l'environnement - art. R214-1
-  - Code de l'environnement - art. R214-6
-
 _Modifié par_:
 
-  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
+  - Décret n°2016-1110 du 11 août 2016 - art. 7
 
-_Abrogé par_:
+_Cite_:
 
-  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R5314-2 (M)
-  - Code des transports - art. R5314-3 (V)
-  - Code des transports - art. R5314-4 (M)
+  - Code de l'environnement - art. L214-1
+  - Code de l'environnement - art. R*214-1
+  - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R122-5
+  - Code de l'environnement - art. R214-6
 
 
 ###### Article R*122-6
@@ -472,9 +434,9 @@ _Cite_:
   - Code des ports maritimes - art. R*122-2 (V)
 
 
-##### Section 2 : Exploitation.<a id=14></a>
+##### Section 2 : Exploitation.<a id=11></a>
 
-##### Sous-section 1 : Concession.<a id=15></a>
+##### Sous-section 1 : Concession.<a id=12></a>
 
 ###### Article R*122-7
 
@@ -642,7 +604,7 @@ _Cite_:
   - Code général de la propriété des personnes publiques. - art. L2122-1
 
 
-##### Sous-section 2 : Outillages privés.<a id=16></a>
+##### Sous-section 2 : Outillages privés.<a id=13></a>
 
 ###### Article R*122-11
 
@@ -711,7 +673,7 @@ _Cite_:
   - Code des ports maritimes
 
 
-##### Sous-section 3 : Dispositions relatives aux tarifs.<a id=17></a>
+##### Sous-section 3 : Dispositions relatives aux tarifs.<a id=14></a>
 
 ###### Article R*122-14
 
@@ -854,9 +816,9 @@ _Cite_:
   - Code des ports maritimes
 
 
-### Titre IV : Conseil portuaire et comité de pilotage stratégique.<a id=18></a>
+### Titre IV : Conseil portuaire et comité de pilotage stratégique.<a id=15></a>
 
-#### Chapitre Ier : Rôle et fonctionnement du conseil portuaire.<a id=19></a>
+#### Chapitre Ier : Rôle et fonctionnement du conseil portuaire.<a id=16></a>
 
 ###### Article R*141-1
 
@@ -1087,7 +1049,7 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-#### Chapitre II : Composition du conseil portuaire.<a id=20></a>
+#### Chapitre II : Composition du conseil portuaire.<a id=17></a>
 
 ###### Article R*142-1
 
