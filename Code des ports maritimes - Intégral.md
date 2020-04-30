@@ -1,5 +1,5 @@
 # Code des ports maritimes  
-Version Consolidée au 2016-08-15
+Version Consolidée au 2020-05-01
 ## Contenu: 
   - [Partie législative (art. L211-3-1)](#1)
     - [Livre II : Droits de port et de navigation. (art. L211-3-1)](#2)
@@ -12,7 +12,7 @@ Version Consolidée au 2016-08-15
         - [Chapitre II : Aménagement. (art. R*122-1 à R*122-17)](#9)
           - [Section 1 : Travaux. (art. R*122-1 à R*122-6)](#10)
           - [Section 2 : Exploitation. (art. R*122-7 à R*122-17)](#11)
-            - [Sous-section 1 : Concession. (art. R*122-7 à R*122-10)](#12)
+            - [Sous-section 1 : Concession. (art. R*122-7 à R122-9)](#12)
             - [Sous-section 2 : Outillages privés. (art. R*122-11 à R*122-12)](#13)
             - [Sous-section 3 : Dispositions relatives aux tarifs. (art. R*122-14 à R*122-17)](#14)
       - [Titre IV : Conseil portuaire et comité de pilotage stratégique. (art. R*141-1 à R*142-5)](#15)
@@ -465,124 +465,6 @@ _Abrogé par_:
   - Décret n°2014-1670 du 30 décembre 2014 - art. 4
 
 
-###### Article R*122-8
-
-La concession d'outillage public donne lieu à une convention assortie d'un cahier des charges, qui doit respecter un cahier
-des charges type approuvé par décret en Conseil d'Etat pris sur la proposition conjointe des ministres chargés des ports
-maritimes, du budget et du domaine.
-
-Les concessions d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat sont accordées :
-
-a) Par décret en Conseil d'Etat revêtu du contreseing du ministre chargé des ports maritimes et, le cas échéant, du ministre
-dont relève l'établissement public concessionnaire, s'il y a lieu à déclaration d'utilité publique prononcée par décret en
-Conseil d'Etat ;
-
-b) Par arrêté signé par le ministre chargé des ports maritimes et, le cas échéant, par le ministre dont relève
-l'établissement public concessionnaire pour les ports principaux figurant sur la liste mentionnée au deuxième alinéa de
-l'article R. *122-1, ou lorsqu'il y a lieu à déclaration d'utilité publique prononcée par arrêté ministériel ;
-
-c) Par arrêté du préfet dans les autres cas. Lorsque le cahier de charges de la concession comporte des dérogations au cahier
-des charges type, celles-ci doivent préalablement être autorisées par le ministre chargé des ports maritimes et, le cas
-échéant, par le ministre dont relève l'établissement public concessionnaire ; l'absence de réponse des ministres dans le
-délai de deux mois suivant la réception la plus tardive de la demande vaut autorisation.
-
-**Nota:**
-
-Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
-est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
-R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-140 1969-02-06 art. 2
-
-_Codifié par_:
-
-  - Décret n°78-488 1978-03-22
-
-_Modifié par_:
-
-  - Décret n°99-782 du 9 septembre 1999 - art. 15 () JORF 11 septembre 1999
-
-_Abrogé par_:
-
-  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
-
-_Cite_:
-
-  - Code des ports maritimes
-
-_Cité par_:
-
-  - Code des transports - art. R5753-5 (M)
-
-
-###### Article R*122-9
-
-La demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par le
-directeur du port. 
-
-Le préfet transmet, dans les cas prévus aux a et b de l'article R. *122-8, la demande accompagnée de son rapport au ministre
-chargé des ports maritimes, qui décide si le projet doit être pris en considération. Dans les autres cas, la décision de
-prendre en considération le projet est prise par le préfet. 
-
-Si le projet est pris en considération, le directeur du port mène l'instruction dans les conditions prévues aux II et III de
-l'article R. *122-4. Le montant de la redevance pour occupation du domaine public de l'Etat fixé par le   directeur
-départemental ou, le cas échéant, régional des finances publiques ou à Saint-Pierre-et-Miquelon, par le directeur des
-finances publiques est mentionné dans le dossier d'instruction. 
-
-Lorsque la concession doit être accordée par un décret en Conseil d'Etat ou par un arrêté ministériel, le préfet transmet,
-dès l'issue de l'instruction, le dossier accompagné de son rapport au ministre chargé des ports maritimes. Ce dernier, s'il
-estime devoir donner une suite au projet, le soumet, le cas échéant, au ministre de qui relève la collectivité publique ou
-l'établissement intéressé. 
-
-Dans les cas prévus au c de l'article R. *122-8, le directeur du port transmet, dès l'issue de l'instruction, le dossier
-accompagné d'un rapport au préfet pour qu'il statue. 
-
-Lorsque la concession n'est pas accordée par un décret en Conseil d'Etat, le ministre chargé des ports maritimes, ou le
-préfet dans les cas prévus au c de l'article R. *122-8, peut, par sa décision de prendre en considération le projet, limiter
-les consultations à celles des collectivités publiques et services locaux intéressés, du conseil portuaire et de la
-commission nautique s'il y a lieu.
-
-**Nota:**
-
-Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
-est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
-R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°69-140 1969-02-06 art. 3
-
-_Codifié par_:
-
-  - Décret n°78-488 du 22 mars 1978
-
-_Modifié par_:
-
-  - Décret n°2014-551 du 27 mai 2014 - art. 21
-
-_Abrogé par_:
-
-  - Décret n°2014-1670 du 30 décembre 2014 - art. 4
-
-_Cite_:
-
-  - Code des ports maritimes
-
-_Nouveaux textes_:
-
-  - Code des transports - art. R5314-5 (M)
-
-_Cité par_:
-
-  - Code des transports - art. R5753-5 (M)
-
-
 ###### Article R*122-10
 
 Les concessionnaires d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat ont le pouvoir de
@@ -610,6 +492,86 @@ _Cite_:
 
   - Code du domaine de l'Etat - art. R57-4
   - Code général de la propriété des personnes publiques. - art. L2122-1
+
+
+###### Article R122-8
+
+Les concessions d'outillage public dans les ports non autonomes de commerce ou de pêche de l'Etat sont accordées par arrêté
+du préfet.
+
+Le préfet décide si le projet de concession présenté par le directeur du port doit être pris en considération.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-140 1969-02-06 art. 2
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Modifié par_:
+
+  - Décret n°2020-488 du 28 avril 2020 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Cité par_:
+
+  - Code des transports - art. R5753-5 (V)
+
+
+###### Article R122-9
+
+La demande de concession d'outillage public dans un port non autonome de commerce ou de pêche de l'Etat est instruite par le
+directeur du port.
+
+Le directeur du port mène l'instruction dans les conditions prévues aux II et III de l'article R. * 122-4. Le montant de la
+redevance pour occupation du domaine public de l'Etat fixé par le directeur départemental ou, le cas échéant, régional des
+finances publiques ou, à Saint-Pierre-et-Miquelon, par le directeur des finances publiques est mentionné dans le dossier
+d'instruction.
+
+Le préfet peut, par sa décision de prendre en considération le projet, limiter les consultations à celles des collectivités
+publiques et services locaux intéressés, du conseil portuaire et de la commission nautique s'il y a lieu.
+
+Le directeur du port transmet, dès l'issue de l'instruction, le dossier accompagné d'un rapport au préfet pour qu'il statue.
+
+**Nota:**
+
+Conformément à l'article 4 1° du décret n° 2014-1670 du 30 décembre 2014, la partie réglementaire du code des ports maritimes
+est abrogée à compter du 1er janvier 2015, à l'exception des articles R. 121-1 à R. 121-6, R. 122-1 à R. 122-17 et R. 141-1 à
+R. 142-5 pour leur application à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°69-140 1969-02-06 art. 3
+
+_Codifié par_:
+
+  - Décret n°78-488 du 22 mars 1978
+
+_Modifié par_:
+
+  - Décret n°2020-488 du 28 avril 2020 - art. 4
+
+_Cite_:
+
+  - Code des ports maritimes
+
+_Cité par_:
+
+  - Code des transports - art. R5753-5 (V)
 
 
 ##### Sous-section 2 : Outillages privés.<a id=13></a>
